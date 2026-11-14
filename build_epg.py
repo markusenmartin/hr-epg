@@ -60,6 +60,7 @@ def main():
     channels = json.load(open("channels.json", encoding="utf-8"))
     index = {}   # norm name -> (source no, channel id)
     progs = {}   # (source no, channel id) -> [programme elements]
+    icons = {}   # (source no, channel id) -> logo URL
     for i, url in enumerate(SOURCES):
         try:
             root = fetch(url)
@@ -70,6 +71,9 @@ def main():
             progs.setdefault((i, p.get("channel")), []).append(p)
         for ch in root.iter("channel"):
             key = (i, ch.get("id"))
+            icon = ch.find("icon")
+            if icon is not None and icon.get("src"):
+                icons[key] = icon.get("src")
             if key not in progs:
                 continue
             names = [d.text for d in ch.findall("display-name")] + [ch.get("id")]
@@ -95,9 +99,11 @@ def main():
     out = ET.Element("tv", {"generator-info-name": "hr-epg"})
     outputs = [(name, src) for name, src in resolved.items()]
     outputs += [(tid, src) for tid, src in safe_ids.items()]
-    for oid, _ in outputs:
+    for oid, src in outputs:
         ch = ET.SubElement(out, "channel", {"id": oid})
         ET.SubElement(ch, "display-name").text = oid
+        if src in icons:
+            ET.SubElement(ch, "icon", {"src": icons[src]})
     for oid, src in outputs:
         for p in progs[src]:
             q = ET.SubElement(out, "programme", dict(p.attrib, channel=oid))
