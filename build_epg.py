@@ -13,6 +13,7 @@ import json
 import os
 import re
 import sys
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 
@@ -59,6 +60,10 @@ ALIASES = {
     "yufoxlife": "starlife",
     "foxcrime": "starcrime",
     "foxmovies": "starmovies",
+    "e": "eentertainment",          # "E!" must not match Montenegrin "TV E"
+    "discoverysc": "discoveryscience",
+    "discoveryinvestigation": "investigationdiscovery",
+    "dalmacija": "televizijadalmacija",
 }
 
 KEEP_PAST = dt.timedelta(days=1)
@@ -118,6 +123,15 @@ def tv_logos(folder):
     return out
 
 
+def clean_logo(url):
+    """Fix broken logo URLs from sources, e.g. two URLs glued together or spaces."""
+    url = (url or "").strip()
+    if "http" not in url:
+        return None
+    url = url[url.rfind("http"):]               # keep the last URL if several are glued
+    return urllib.parse.quote(url, safe=":/?&=%#+@!$,;~")
+
+
 def parse_time(s):
     try:
         return dt.datetime.strptime(s[:20].strip(), "%Y%m%d%H%M%S %z")
@@ -145,6 +159,9 @@ def main():
                     fetched[url] = None
                     continue
                 for p in fetched[url].iter("programme"):
+                    title = (p.findtext("title") or "").strip().lower()
+                    if title in ("", "no data", "no information", "n/a", "opis nije dostupan"):
+                        continue                # placeholder, not a real programme
                     start, stop = parse_time(p.get("start", "")), parse_time(p.get("stop", ""))
                     if stop and stop < now - KEEP_PAST or start and start > now + KEEP_FUTURE:
                         continue
@@ -156,11 +173,12 @@ def main():
                 key = (url, ch.get("id"))
                 icon = ch.find("icon")
                 names = [d.text for d in ch.findall("display-name")] + [ch.get("id")]
-                if icon is not None and icon.get("src"):
-                    icons[key] = icon.get("src")
+                logo = clean_logo(icon.get("src")) if icon is not None else None
+                if logo:
+                    icons[key] = logo
                     for n in names:
                         for loose in (False, True):
-                            lidx.setdefault((loose, norm(n, loose)), icon.get("src"))
+                            lidx.setdefault((loose, norm(n, loose)), logo)
                 if key not in progs:
                     continue
                 for n in names:
