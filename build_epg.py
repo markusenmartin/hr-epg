@@ -10,6 +10,7 @@ import difflib
 import gzip
 import io
 import json
+import os
 import re
 import sys
 import urllib.request
@@ -29,6 +30,16 @@ SOURCES = {
     "DK": [IPTVEPG.format("dk"), EPGSHARE.format("DK"), OPENEPG.format("denmark")],
     "SW": [IPTVEPG.format("se"), EPGSHARE.format("SE"), OPENEPG.format("sweden")],
     "UK": [IPTVEPG.format("gb"), EPGSHARE.format("UK"), OPENEPG.format("unitedkingdom")],
+}
+# Extra logo folders in github.com/tv-logo/tv-logos (countries/<folder>), per playlist prefix.
+EXYU_LOGOS = ["croatia", "serbia", "slovenia", "international", "world-europe"]
+LOGO_DIRS = {
+    "HR": EXYU_LOGOS, "RS": ["serbia", "croatia", "slovenia", "international", "world-europe"],
+    "BH": EXYU_LOGOS, "MN": ["serbia", "croatia", "international", "world-europe"],
+    "SL": ["slovenia", "croatia", "serbia", "international", "world-europe"],
+    "DK": ["nordic", "international", "world-europe"],
+    "SW": ["nordic", "international", "world-europe"],
+    "UK": ["united-kingdom", "international", "world-europe"],
 }
 # Countries whose channels may also be found in each other's sources.
 FALLBACK = {cc: ["HR", "RS", "BH", "MN", "SL"] for cc in ["HR", "RS", "BH", "MN", "SL"]}
@@ -87,6 +98,26 @@ def fetch(url):
     return ET.parse(io.BytesIO(data)).getroot()
 
 
+def tv_logos(folder):
+    """{norm name: png url} for one tv-logos country folder."""
+    api = f"https://api.github.com/repos/tv-logo/tv-logos/contents/countries/{folder}"
+    headers = {"User-Agent": "hr-epg", "Accept": "application/vnd.github+json"}
+    if os.environ.get("GITHUB_TOKEN"):
+        headers["Authorization"] = "Bearer " + os.environ["GITHUB_TOKEN"]
+    items = json.load(urllib.request.urlopen(urllib.request.Request(api, headers=headers), timeout=60))
+    out = {}
+    for it in sorted(items, key=lambda x: len(x["name"])):   # plain names before variants
+        name = it["name"]
+        if not name.endswith(".png"):
+            continue
+        stem = re.sub(r"-[a-z]{2}$", "", name[:-4])          # drop country suffix "-hr"
+        for loose in (False, True):
+            k = norm(stem.replace("-", " "), loose)
+            if k and (loose, k) not in out:
+                out[(loose, k)] = it["download_url"]
+    return out
+
+
 def parse_time(s):
     try:
         return dt.datetime.strptime(s[:20].strip(), "%Y%m%d%H%M%S %z")
@@ -100,9 +131,11 @@ def main():
     index = {}   # country -> {norm name: source key}
     progs = {}   # source key (url, channel id) -> [programme elements]
     icons = {}   # source key -> logo URL
+    logo_idx = {}  # country -> {norm name: logo URL}, also for channels without programmes
     fetched = {}
     for cc, urls in SOURCES.items():
         idx = index.setdefault(cc, {})
+        lidx = logo_idx.setdefault(cc, {})
         for url in urls:
             if url not in fetched:
                 try:
@@ -122,11 +155,15 @@ def main():
             for ch in root.iter("channel"):
                 key = (url, ch.get("id"))
                 icon = ch.find("icon")
+                names = [d.text for d in ch.findall("display-name")] + [ch.get("id")]
                 if icon is not None and icon.get("src"):
                     icons[key] = icon.get("src")
+                    for n in names:
+                        for loose in (False, True):
+                            lidx.setdefault((loose, norm(n, loose)), icon.get("src"))
                 if key not in progs:
                     continue
-                for n in [d.text for d in ch.findall("display-name")] + [ch.get("id")]:
+                for n in names:
                     for loose in (False, True):
                         k = norm(n, loose)
                         if k and (loose, k) not in idx:
@@ -160,18 +197,59 @@ def main():
             by_id.setdefault(c["tvg_id"], set()).add(resolved.get(c["name"]))
     safe_ids = {i: next(iter(s)) for i, s in by_id.items() if len(s) == 1 and None not in s}
 
-    outputs = dict(safe_ids)
+    # Logos: EPG source channel first, then any source channel by name, then tv-logos.
+    folders = {}
+
+    def folder(name):
+        if name not in folders:
+            try:
+                folders[name] = tv_logos(name)
+            except Exception as e:
+                print(f"WARN logos {name}: {e}", file=sys.stderr)
+                folders[name] = {}
+        return folders[name]
+
+    def logo_for(c):
+        if "|" in c["name"]:
+            return None
+        src = resolved.get(c["name"])
+        if src in icons:
+            return icons[src]
+        countries = [c["cc"]] + [x for x in FALLBACK.get(c["cc"], []) if x != c["cc"]]
+        tables = [logo_idx.get(cc, {}) for cc in countries]
+        tables += [folder(f) for f in LOGO_DIRS.get(c["cc"], [])]
+        for loose in (False, True):
+            k = norm(c["name"], loose)
+            for table in tables:
+                for cand in candidates(k):
+                    if (loose, cand) in table:
+                        return table[(loose, cand)]
+        return None
+
+    logos = {c["name"]: u for c in channels if (u := logo_for(c))}
+
+    # id -> (programme source or None, logo or None)
+    outputs = {i: (s, None) for i, s in safe_ids.items()}
     for c in channels:
         if c["name"] in resolved and c["tvg_id"] not in safe_ids:
-            outputs[c["name"]] = resolved[c["name"]]
+            outputs[c["name"]] = (resolved[c["name"]], None)
+    for c in channels:                  # attach logos, incl. channels that only have a logo
+        u = logos.get(c["name"])
+        if not u:
+            continue
+        oid = c["tvg_id"] if c["tvg_id"] in safe_ids else c["name"]
+        src, logo = outputs.get(oid, (None, None))
+        outputs[oid] = (src, logo or u)
 
     out = ET.Element("tv", {"generator-info-name": "hr-epg"})
-    for oid, src in outputs.items():
+    for oid, (src, logo) in outputs.items():
         ch = ET.SubElement(out, "channel", {"id": oid})
         ET.SubElement(ch, "display-name").text = oid
-        if src in icons:
-            ET.SubElement(ch, "icon", {"src": icons[src]})
-    for oid, src in outputs.items():
+        if logo:
+            ET.SubElement(ch, "icon", {"src": logo})
+    for oid, (src, _) in outputs.items():
+        if src is None:
+            continue
         for p in progs[src]:
             q = ET.SubElement(out, "programme", dict(p.attrib, channel=oid))
             q.extend(list(p))
@@ -181,7 +259,10 @@ def main():
     with gzip.open("hr.xml.gz", "wb", compresslevel=9) as f:
         f.write(buf.getvalue())
 
+    real = [c for c in channels if "|" not in c["name"]]
     print(f"Matched {len(resolved)}/{len(channels)} channels ({len(outputs)} EPG ids).")
+    print(f"Logos for {sum(c['name'] in logos for c in real)}/{len(real)} channels "
+          f"(event channels excluded).")
     by_cc = {}
     for c in channels:
         t = by_cc.setdefault(c["cc"], [0, 0])
@@ -193,6 +274,9 @@ def main():
             if c["name"] in resolved:
                 url, cid = resolved[c["name"]]
                 f.write(f"{c['name']}  ->  {cid}  ({url.split('/')[-1]})\n")
+    with open("logos.txt", "w", encoding="utf-8") as f:
+        for c in real:
+            f.write(f"{c['name']}  ->  {logos.get(c['name'], '-')}\n")
     missing = [c["name"] for c in channels if c["name"] not in resolved]
     with open("missing.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(missing) + "\n")
