@@ -1,0 +1,598 @@
+[
+ {
+  "name": "HR: 24 KITCHEN",
+  "tvg_id": "24kitchen.nl"
+ },
+ {
+  "name": "HR: ANIMAL PLANET",
+  "tvg_id": "animalplanet.hr"
+ },
+ {
+  "name": "HR: ARENA SPORT 1 FHD",
+  "tvg_id": "arenasport1.hr"
+ },
+ {
+  "name": "HR: ARENA SPORT 1 HD",
+  "tvg_id": "arenasport1.hr"
+ },
+ {
+  "name": "HR: ARENA SPORT 10 HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: ARENA SPORT 2 FHD",
+  "tvg_id": "arenasport2.hr"
+ },
+ {
+  "name": "HR: ARENA SPORT 2 HD",
+  "tvg_id": "arenasport2.hr"
+ },
+ {
+  "name": "HR: ARENA SPORT 3 FHD",
+  "tvg_id": "arenasport3.hr"
+ },
+ {
+  "name": "HR: ARENA SPORT 3 HD",
+  "tvg_id": "arenasport3.hr"
+ },
+ {
+  "name": "HR: ARENA SPORT 4 FHD",
+  "tvg_id": "arenasport4.hr"
+ },
+ {
+  "name": "HR: ARENA SPORT 4 HD",
+  "tvg_id": "arenasport4.hr"
+ },
+ {
+  "name": "HR: ARENA SPORT 5 FHD",
+  "tvg_id": "arenasport5.hr"
+ },
+ {
+  "name": "HR: ARENA SPORT 5 HD",
+  "tvg_id": "arenasport5.hr"
+ },
+ {
+  "name": "HR: ARENA SPORT 6 FHD",
+  "tvg_id": "arenasport6.hr"
+ },
+ {
+  "name": "HR: ARENA SPORT 6 HD",
+  "tvg_id": "arenasport6.hr"
+ },
+ {
+  "name": "HR: ARENA SPORT 7 HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: ARENA SPORT 8 HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: ARENA SPORT 9 HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: AURORA TV HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: AXN ADRIA",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: AXN SPIN",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: BABY TV",
+  "tvg_id": "babytv.de"
+ },
+ {
+  "name": "HR: BBC EARTH HD",
+  "tvg_id": "bbcearth.pl"
+ },
+ {
+  "name": "HR: CINEMA FHD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: CINEMAX",
+  "tvg_id": "cinemax.us"
+ },
+ {
+  "name": "HR: CINEMAX 2",
+  "tvg_id": "cinemax2.pl"
+ },
+ {
+  "name": "HR: CINESTAR FANTASY",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: CINESTAR PREMIERE 1",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: CINESTAR PREMIERE 1 HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: CINESTAR PREMIERE 2",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: CINESTAR TV",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: CINESTAR TV ACTION",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: CINESTAR TV COMEDY FHD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: CINESTAR TV PREMIERE 2 FHD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: CMC TV",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: CRIME AND INVESTIGATION",
+  "tvg_id": "rtlcrime.hr"
+ },
+ {
+  "name": "HR: CRIME+ INVESTIGATION",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: CRIME+ INVESTIGATION HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: CROMAX SELECT 2 HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: DA VINCI FHD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: DALMACIJA",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: DIVA",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: DOCUBOX",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: DOKU TV ADRIA",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: DOKU TV FHD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: DOMA TV HD",
+  "tvg_id": "domatv.hr"
+ },
+ {
+  "name": "HR: FIGHT CHANNEL",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: FILM KLUB EXTRA",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: FOX CRIME HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: FOX MOVIES",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: HAJDUK TV",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: HAJDUK TV FHD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: HBO 3 HD",
+  "tvg_id": "hbo3.hr"
+ },
+ {
+  "name": "HR: HBO HD",
+  "tvg_id": "hbo.hr"
+ },
+ {
+  "name": "HR: HISTORY HD",
+  "tvg_id": "historychannel.hr"
+ },
+ {
+  "name": "HR: HRT 1 FHD",
+  "tvg_id": "htv1.hr"
+ },
+ {
+  "name": "HR: HRT 1 HD",
+  "tvg_id": "htv1.hr"
+ },
+ {
+  "name": "HR: HRT 2 FHD",
+  "tvg_id": "htv2.hr"
+ },
+ {
+  "name": "HR: HRT 2 HD",
+  "tvg_id": "hrt2.hr"
+ },
+ {
+  "name": "HR: HRT 3 FHD",
+  "tvg_id": "htv3.hr"
+ },
+ {
+  "name": "HR: HRT 3 HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: HRT 4 FHD",
+  "tvg_id": "htv4.hr"
+ },
+ {
+  "name": "HR: HRT 4 HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: HRT 5 HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: HRT DOCUMENTARY FHD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: HRT INT HD",
+  "tvg_id": "htv1.hr"
+ },
+ {
+  "name": "HR: INVESTIGATION DISCOVERY XTRA HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: JABUKA TV",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: JADRAN TV",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: JADRAN TV FHD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: JUGOTON TV",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: KANAL RI",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: KINO TV HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: KLAPE I TAMBURE",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: KLAPE I TAMBURE TV FHD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: KLASIK TV FHD",
+  "tvg_id": "klasiktv.hr"
+ },
+ {
+  "name": "HR: KLASIK TV HD",
+  "tvg_id": "klasiktv.hr"
+ },
+ {
+  "name": "HR: KREATOR TV FHD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: LAUDATO TV",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: LIBERTAS TV HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: LOV I RIBOLOV",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: M1 FILM GOLD HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: M1 FILM HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: MARY TV MEDJUGORJE HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: MAX SPORT 1 FHD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: MAX SPORT 1 HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: MAX SPORT 2 FHD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: MAX SPORT 2 HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: MREZA ZAGREB",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: N1 HD",
+  "tvg_id": "n1.hr"
+ },
+ {
+  "name": "HR: NARODNA TV",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: NATIONAL GEOGRAPHIC",
+  "tvg_id": "tlc.hr"
+ },
+ {
+  "name": "HR: NICK JR",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: NICK JUNIOR",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: NICKELODEON",
+  "tvg_id": "nickelodeon.hr"
+ },
+ {
+  "name": "HR: NOVA CINEMA",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: NOVA FAMILY",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: NOVA TV FHD",
+  "tvg_id": "novatv.hr"
+ },
+ {
+  "name": "HR: NOVA TV HD",
+  "tvg_id": "novahd.hr"
+ },
+ {
+  "name": "HR: NOVA WORLD HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: OSJECKA TV",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: OTV",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: PIKABOO",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: POLJOPRIVREDNA TV",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: POSAVINA TV HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: RTL 2 HD",
+  "tvg_id": "rtl2.hr"
+ },
+ {
+  "name": "HR: RTL ADRIA",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: RTL CRIME HD",
+  "tvg_id": "rtlcrime.hr"
+ },
+ {
+  "name": "HR: RTL FHD",
+  "tvg_id": "rtl.hr"
+ },
+ {
+  "name": "HR: RTL HD",
+  "tvg_id": "rtl.hr"
+ },
+ {
+  "name": "HR: RTL KOCKICA HD",
+  "tvg_id": "rtlkockica.hr"
+ },
+ {
+  "name": "HR: RTL LIVING HD",
+  "tvg_id": "rtlliving.hr"
+ },
+ {
+  "name": "HR: RTL PASSION HD",
+  "tvg_id": "rtlpassion.hr"
+ },
+ {
+  "name": "HR: SB TV HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: SCIFI FHD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: SLAVONSKA TV HD",
+  "tvg_id": "slavonskatv.hr"
+ },
+ {
+  "name": "HR: SPORT KLUB 1 FHD",
+  "tvg_id": "sportklub1.hr"
+ },
+ {
+  "name": "HR: SPORT KLUB 1 HD",
+  "tvg_id": "sportklub1.hr"
+ },
+ {
+  "name": "HR: SPORT KLUB 2 FHD",
+  "tvg_id": "sportklub2.hr"
+ },
+ {
+  "name": "HR: SPORT KLUB 2 HD",
+  "tvg_id": "sportklub2.hr"
+ },
+ {
+  "name": "HR: SPORT KLUB 3 FHD",
+  "tvg_id": "sportklub3.hr"
+ },
+ {
+  "name": "HR: SPORT KLUB 3 HD",
+  "tvg_id": "sportklub3.hr"
+ },
+ {
+  "name": "HR: SPORT KLUB 4 HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: SPORT KLUB 5 HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: SPORT KLUB 6 HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: SPORTSKA TV",
+  "tvg_id": "sportskatv.hr"
+ },
+ {
+  "name": "HR: TELEVIZIJA DALMACIJA",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: TLC HD",
+  "tvg_id": "tlc.hr"
+ },
+ {
+  "name": "HR: TNT KIDS TV HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: TRAVEL CHANNEL",
+  "tvg_id": "travelchannel.pl"
+ },
+ {
+  "name": "HR: TREND",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: TREND TV KARLOVAC",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: TV BANOVINA HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: TV DALMACIJA HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: TV DUBROVNIK",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: TV TREND KARLOVAC",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: TV ZAPAD HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: UFC FIGHT PASS",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: VIASAT EXPLORE",
+  "tvg_id": "viasatexplore.hr"
+ },
+ {
+  "name": "HR: VIASAT HISTORY",
+  "tvg_id": "viasathistory.hr"
+ },
+ {
+  "name": "HR: VIASAT NATURE",
+  "tvg_id": "viasatnature.se"
+ },
+ {
+  "name": "HR: VINKOVACKA TV",
+  "tvg_id": "vinkovackatv.hr"
+ },
+ {
+  "name": "HR: VTV",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: VTV VARAZDIN HD",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: YU FOX LIFE",
+  "tvg_id": ""
+ },
+ {
+  "name": "HR: YU HBO 2 HD",
+  "tvg_id": "hbo2.us"
+ },
+ {
+  "name": "HR: YU MINI TV",
+  "tvg_id": "minitv.hr"
+ },
+ {
+  "name": "HR: Z1 HD",
+  "tvg_id": "z1.hr"
+ },
+ {
+  "name": "HR: ZDRAVA TV",
+  "tvg_id": ""
+ }
+]
