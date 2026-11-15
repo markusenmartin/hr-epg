@@ -449,7 +449,7 @@ RS: DIZI TV HD  ->  https://mediasb2c.mts.rs/medias/dizi-logo-300x169.png?contex
 RS: DOCU BOX  ->  https://ssc.a1.hr/ITV/pictures/logos/Docu%20Box.png
 RS: DOCUBOX  ->  https://ssc.a1.hr/ITV/pictures/logos/Docu%20Box.png
 RS: DOX TV  ->  https://iptv-epg.org/images/GRl8QgVL5Qtll-wOPKFTm9iO0UhFE-y7lFm3uES4pmKYNFlsRlgrvQXi0Y_uJJ_6-E6fHIJNPxAzRe7yhHnS_CZL_ucuKYlX3qTfr7lB
-RS: DUCK TV HD  ->  https://images.open-epg.com/8698557.png
+RS: DUCK TV HD  ->  https://ssc.a1.hr/ITV/pictures/logos/Duck%20TV.png
 RS: DUGA TV  ->  -
 RS: DUNAV TV  ->  https://mediasb2c.mts.rs/medias/a8ed59a98588c12059a9aa3fd6fc1b5b.png?context=bWFzdGVyfGNoYW5uZWxzfDc5MDJ8aW1hZ2UvcG5nfGFHRmtMMmc0TkM4NE56azJNVGcwT0RBMU5EQTJMMkU0WldRMU9XRTVPRFU0T0dNeE1qQTFPV0U1WVdFelptUTJabU14WWpWaUxuQnVad3xjMjFkNDI0NGJlYTdkZjNiN2ViYzk0NDE3Nzc2YTVhOThlMjcwZjI3M2E0ZmE2ZTJiNjQ5YTNmN2UzZjQ4OTk5
 RS: E  ->  https://iptv-epg.org/images/0Q9ex4nopsUlIQ-ZJtfxt4bSIcXtAtvRe9iugYTMoIZ45zDLRmUbEcyTpAu9B1EMEz8JOQh0wYLtWNZkfl-z9rBPzgDAu0Lz8njiLvsSAP9a_wgkBibp
@@ -699,7 +699,7 @@ RS: ZADRUGA 4  ->  https://images.open-epg.com/18670.png
 RS: ZELENA TV ZDRAVLJE  ->  -
 RS: ZVEZDA TV  ->  https://mediasb2c.mts.rs/medias/zvezda-tv-300x169.png?context=bWFzdGVyfGNoYW5uZWxzfDc0NTJ8aW1hZ2UvcG5nfGFEQTVMMmc1Wmk4Mk5qQXhNek0xTWpZMU5qa3lOaTk2ZG1WNlpHRXRkSFpmTXpBd2VERTJPUzV3Ym1jfDU2YzgzOTk1ZDExNTdkN2E3N2MxZWIxN2QxZTdkNWI3N2RiYjM5MDVlZmM3OTAwYzNiMDI3YmY2MDU2MmNlZGY
 SL: SPORT KLUB 1 HD  ->  https://images.open-epg.com/18934428.png
-SL: SPORT KLUB 2 HD  ->  https://images.open-epg.com/18934429.png
+SL: SPORT KLUB 2 HD  ->  https://iptv-epg.org/images/iL6cRocGwrMxiVEJqL_KOrbJdE2LqPz1Y9vT2Jkx0H6Kxnie7yw0jCOq4wmhnJsKBX5phezX94ihqXzEd35SbnFM0SCCGdVQSbaRocCuev21mqri
 SL: SPORT KLUB 3  ->  https://images.open-epg.com/18934430.png
 SL: SPORT KLUB GOLF FHD  ->  https://iptv-epg.org/images/HgToR7eizGPhyaUf30FZizRmKYz97e8aZH4yteDJPiklzfjPCmRZ3PlrVFmOJsk9nWWcwxoZyGsNVKlL_HyLvPVW0y2RoM8zdxaTIqRuxJY2fZkkRfV5
 SL: SPORT KLUB HD  ->  https://images.open-epg.com/18934428.png
