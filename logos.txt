@@ -699,7 +699,7 @@ RS: ZADRUGA 4  ->  https://images.open-epg.com/18670.png
 RS: ZELENA TV ZDRAVLJE  ->  -
 RS: ZVEZDA TV  ->  https://mediasb2c.mts.rs/medias/zvezda-tv-300x169.png?context=bWFzdGVyfGNoYW5uZWxzfDc0NTJ8aW1hZ2UvcG5nfGFEQTVMMmc1Wmk4Mk5qQXhNek0xTWpZMU5qa3lOaTk2ZG1WNlpHRXRkSFpmTXpBd2VERTJPUzV3Ym1jfDU2YzgzOTk1ZDExNTdkN2E3N2MxZWIxN2QxZTdkNWI3N2RiYjM5MDVlZmM3OTAwYzNiMDI3YmY2MDU2MmNlZGY
 SL: SPORT KLUB 1 HD  ->  https://images.open-epg.com/18934428.png
-SL: SPORT KLUB 2 HD  ->  https://iptv-epg.org/images/iL6cRocGwrMxiVEJqL_KOrbJdE2LqPz1Y9vT2Jkx0H6Kxnie7yw0jCOq4wmhnJsKBX5phezX94ihqXzEd35SbnFM0SCCGdVQSbaRocCuev21mqri
+SL: SPORT KLUB 2 HD  ->  https://images.open-epg.com/18934429.png
 SL: SPORT KLUB 3  ->  https://images.open-epg.com/18934430.png
 SL: SPORT KLUB GOLF FHD  ->  https://iptv-epg.org/images/HgToR7eizGPhyaUf30FZizRmKYz97e8aZH4yteDJPiklzfjPCmRZ3PlrVFmOJsk9nWWcwxoZyGsNVKlL_HyLvPVW0y2RoM8zdxaTIqRuxJY2fZkkRfV5
 SL: SPORT KLUB HD  ->  https://images.open-epg.com/18934428.png
