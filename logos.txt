@@ -535,7 +535,7 @@ RS: PINK 2  ->  -
 RS: PINK 3  ->  -
 RS: PINK 3 (VESTI)  ->  -
 RS: PINK ACTION  ->  https://iptv-epg.org/images/r3zES-B4PK_sHGzo5LE7b5QdXAP4Bii0HDQ-tnKT4b2_zii3sy5XT9qX6o9dUNG6Jx7smpXojSOAT9AY1nJ8A5ZxFUb1n4aXp-cSeB8Yj1bCPR4
-RS: PINK BIH  ->  https://iptv-epg.org/images/yicgtW-7sTUMG6vHCvao52qeHWCMuAGvzCIocaz9In4nLrnQHrhbGqHkosKw20EblGh1f_Y10xE-389pZWBAkHACkKGbSJrImr6eYF6dBw
+RS: PINK BIH  ->  https://images.open-epg.com/nologo.png
 RS: PINK CLASSIC  ->  https://iptv-epg.org/images/ftCqhXIp6pfyGyLJKIr7le-Ct1ods5g-mhIF1uG563Y49WmpvT23BMXNmDyY-z1mJC-ld4zCrLowQIwbTsB4rR1fX94SDY_exYTRwrN5QZgvjPa2
 RS: PINK COMEDY  ->  https://iptv-epg.org/images/-MruiPb5Qg2CYvwvqam2QXWDiNMLjgNeFRQSfnAeNr6Yr6SLBFkG5WvWbSutXGz7ubam4OOdtH_zTft2J7dSRTMwb2zU7iiwLs0_rbAJTuV1vx4
 RS: PINK CRIME  ->  -
