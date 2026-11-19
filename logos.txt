@@ -64,7 +64,7 @@ BH: O KANAL MUSIC  ->  https://iptv-epg.org/images/RG4kWBeKECq_2RgIVwpxXAHQTlcwS
 BH: OBN  ->  https://iptv-epg.org/images/PjVfwpva50MkvGZUq1Zdzv-eDlfxLSlDg7S84H9-ueb0W92Q19LEsv9oCQwXiZHQyGlNJZaz4DFXkd2U50U57dWMMoDMd0N4l48FaQ
 BH: OBN HD  ->  https://iptv-epg.org/images/PjVfwpva50MkvGZUq1Zdzv-eDlfxLSlDg7S84H9-ueb0W92Q19LEsv9oCQwXiZHQyGlNJZaz4DFXkd2U50U57dWMMoDMd0N4l48FaQ
 BH: PINK HD  ->  https://images.open-epg.com/nologo.png
-BH: PINK M  ->  https://images.open-epg.com/10115381.png
+BH: PINK M  ->  https://iptv-epg.org/images/J_khFIX0LjwwiqDkHBY7Ql49zHI_PrE9o4Xd7NI5RluqggU7Ms9P311NLrn0BDIfJRXt0MD3CtdpbEmqL92LFQg_BsX1wel_uI5ydySOHA
 BH: PODRINJE  ->  https://mediasb2c.mts.rs/medias/b06dfe9f4fc78d11e276a9d253077439.png?context=bWFzdGVyfGNoYW5uZWxzfDEzMjE1fGltYWdlL3BuZ3xhR1F5TDJobVlTODROemsyTVRjMU1EY3pNekV3TDJJd05tUm1aVGxtTkdaak56aGtNVEZsTWpjMllUbGtNalV6TURjM05ETTVMbkJ1Wnd8Yzg5NGE1YjZlMDRlYjM4ZGYxODUwY2E5NTU2NTk2MWZjYmRhYWVhMmY0M2E2NWRmN2UxNGRjZGY2NjY4OGU4NA
 BH: PRNJAVOR HD  ->  -
 BH: PRO TV  ->  -
@@ -324,7 +324,7 @@ HR: RTL KOCKICA HD  ->  https://iptv-epg.org/images/jsmsrrGPz05ovdhbQfBrqJmVHT9Z
 HR: RTL LIVING HD  ->  https://iptv-epg.org/images/vg5Bhsheg3XjfO0i9kiiS9MDrbnjfGIrCrWYOiQWYNX9ZvcT42cQ9RVgI2EIPqkqIz3k0yJ2V2LaMmubKm3F1tX79aPbXe7t5IGQf8uiLe0w3Yg
 HR: RTL PASSION HD  ->  https://iptv-epg.org/images/diF2e1z9OXKioG1I8PYdw6k8gB14_8GoId9XEM76B2javN2N-akRmup-pkK9hPY9gBubTcqJLhCtKh-aZgwM1hjGLEb2w0jT9henQbxNpHdSRkiu
 HR: SB TV HD  ->  https://iptv-epg.org/images/PA45glCV_lj56p_vthJxb7fJj-Npxi8thx3rohrgwjrtonFgf91ExNiUgSqhFGc45SSyCsTwUa6TkkG1dv79ydg3Xqlnnr4Yxp6xOqhr
-HR: SCIFI FHD  ->  https://images.open-epg.com/7210.png
+HR: SCIFI FHD  ->  https://ssc.a1.hr/ITV/pictures/logos/SCIFI_Poland_Logo_HORIZONTAL_BW.png
 HR: SLAVONSKA TV HD  ->  https://iptv-epg.org/images/gmeCc7JrSNRyudJx7VcUGPjAn-Zm8OpHQOmG8tZXhaEwdwsCSpnDCxiUHD9pwa_J3K6sNbee4KiC_fh7Yedr5qq9EKpH0RaVKl36BsZDXbfAjH6P_Q
 HR: SPORT KLUB 1 FHD  ->  https://iptv-epg.org/images/PjIGNuRQ6fad5NJSZPTHoMyYh6_lanLyI_5UbFx1njRoKfIPbLwuVprmM4QHUgYWaiKLWmaNzeRxKwjaG_7p0AEYYT3Ie0-XrjFhXY5-_SW3xQ-Q
 HR: SPORT KLUB 1 HD  ->  https://iptv-epg.org/images/PjIGNuRQ6fad5NJSZPTHoMyYh6_lanLyI_5UbFx1njRoKfIPbLwuVprmM4QHUgYWaiKLWmaNzeRxKwjaG_7p0AEYYT3Ie0-XrjFhXY5-_SW3xQ-Q
@@ -511,7 +511,7 @@ RS: MREZA MOST  ->  https://mediasb2c.mts.rs/medias/d4736d04a6bd63335c8c22515a1a
 RS: N1 HD  ->  https://iptv-epg.org/images/zAAouIWow_Lb0LGA3sphj0vULJQ5rYQDtPp9xznUkpuQYRm3JnOppUbXHGkSltUikK0XT9blAC9ojctv-svuCDe2BW6DogHtZ2je
 RS: N1 SRBIJA  ->  https://iptv-epg.org/images/zAAouIWow_Lb0LGA3sphj0vULJQ5rYQDtPp9xznUkpuQYRm3JnOppUbXHGkSltUikK0XT9blAC9ojctv-svuCDe2BW6DogHtZ2je
 RS: NATIONAL GEOGRAPHIC HD  ->  https://iptv-epg.org/images/jciiTJQVSSxLQBUZ-WEtfyXJnA4f8J5R71Y_N6WsqgMwkrA6EDjCF00UurkDBvPjVg6PAe4lx1TVXJPjmKjbVnVWJ8QFh7JBGxdpZCMlkNbPLHGHttEC6v3J4Q
-RS: NATIONAL GEOGRAPHIC WILD HD  ->  https://iptv-epg.org/images/XHIv-uvfknDHvCch84kKrnYpGIpl_nPU-t-sBc3XiyFlKIUIQIFeLKT9OqcoLJaj9fCjV4_E_diAcjGgylkBXYVlwpfd5_h7DVlXeJpaLwgFEAlYDEQWe2fHwxxbwSg
+RS: NATIONAL GEOGRAPHIC WILD HD  ->  https://ssc.a1.hr/ITV/pictures/logos/National_Geographic_Wild.png
 RS: NEWSMAX BALKANS  ->  https://iptv-epg.org/images/aWYQVfFwtvKeNXzq9pW-gNeQBl5_EwSRqKWKDn_9albcQD0bTO1U_mrWC6mIwMJMVFMzZqKJ4AHkZKAkWcQd9yo6rO0egDYvNJxFe-dFt9GgYcf-EMXB
 RS: NICK JR  ->  https://iptv-epg.org/images/jIc9u4FIxB0_B834qBn28wNrYiumICpgWMAs6qtHAQW6KNwaKP9PTIF2AZXFtvKwP_lvrFOGWePkYedulgfMXAiy272bySfPpJpSc4IjbQ
 RS: NICKELODEON HD  ->  https://iptv-epg.org/images/NiscbripjZ2_WBaOwFfGb7PyKDrkG48zRsEe8_-7HkIaTHl1CceSJPcWZJo8LnoAj6YuHKtLAo0B2mxBQ4koZNdtV9LozCDR8kuaydNaxGdMV1ZQ
