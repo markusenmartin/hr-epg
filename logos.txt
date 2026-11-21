@@ -13,7 +13,7 @@ BH: ARENA SPORT 3 HD  ->  https://iptv-epg.org/images/bcPSIjVVwSK4fexn2SHZmgwF70
 BH: ARENA SPORT 4 HD  ->  https://iptv-epg.org/images/BG-RuNMeUpZCoFdvi7g7sWf0evfUf3oM6bg6sF-MwQeK0eTjxt6ZP9wcy_MyfJH8GP4ZUkcAD64rnXkUpkPw34__o9UCnlD6GBJUrjJgWTCWrKPF
 BH: ARENA SPORT 5 HD  ->  https://iptv-epg.org/images/MDrRuZqTXBN92ixHhBuiwQSqsxeQu04qBYF1yvqiKUetJjBOwCDHNcBK8p4Va1TCHDBRxEKrUBOtiPFdXLy8ahpTOr1vGobEIYpqWhy3Dm7BCMRF
 BH: ARENA SPORT 6 HD  ->  https://iptv-epg.org/images/Te5CZV6xbhE02UZqt6O0JlWaYFdnIUz-4IaMl9kgC8bpDKcpS8VfiPa4UVDAOtNZDgKBDHm0yhykYcIrfn4lnth__Ha2SZ2Jf66TsmfvlEDstlQd
-BH: ATV HD  ->  https://iptv-epg.org/images/aGXJtmWu-_kuCSPlsOF-5EsZg48VxLa08fUD9jMXYHquIc7E1Q7o0NcipXs_eckG_Wm1G3u2MIEFK_2918zjjg0TJvXXaacxOrjqPQ
+BH: ATV HD  ->  https://images.open-epg.com/nologo.png
 BH: B1  ->  https://mediasb2c.mts.rs/medias/B1-200x200.png?context=bWFzdGVyfHJvb3R8MTY0NDF8aW1hZ2UvcG5nfGFEWTRMMmhrTUM4eE5UYzBNVE0yTWpRM01EazBNaTlDTVMweU1EQjRNakF3TG5CdVp3fDM1N2YyYjA4OTJhZTg0NDFiYjU1NzU1Yjk2MWQ5MjI5MDA4MWFkYTEzZjczZGFiMDZmZjNiZGM0MTMyMjUwOGQ
 BH: BDC TELEVIZIJA  ->  -
 BH: BHT FHD  ->  https://images-web.ug-be.cdn.united.cloud/2024/06/24/10/19/16/xl_light_480x270.png
@@ -211,7 +211,7 @@ DK: VIASAT NATURE  ->  https://iptv-epg.org/images/kbq1m1bS4O37FXjIfYdulk5W4kTz0
 DK: VIASAT SERIES HD  ->  -
 DK: VIASAT SPORT PREMIUM HD  ->  -
 HR: 24 KITCHEN  ->  https://iptv-epg.org/images/eh8N9Naj9oVqQVKYxxcApLDAcruhs1GkEVDvxGgOgaHrrUKT5rlfyoKjhqvI7JDhQQwF2yvdHTCW-G2Yg8CizzBe4-10SnMkwcJEjNCGUgWkNeY
-HR: ANIMAL PLANET  ->  https://iptv-epg.org/images/SJnrp19S6cHiYQ1vn1DkYoPUd6mPw-b7tFjdScs4Dz52DbYZrRWlI63Gko_FgOKVKtmTsKrZuw2kou_fDONjwry7Tki_zx-dZP-vuiT3bOBXhPPsiDo
+HR: ANIMAL PLANET  ->  https://images.open-epg.com/17840.png
 HR: ARENA SPORT 1 FHD  ->  https://iptv-epg.org/images/YfHDqhTwLmmDmRXzUwIby80b80I2cyGfk7qw87Pa8kEn8l_QUsPJwuTlzNZBnsNdebXI1_-CqElqjeFMKFMDN8JCaDOiewkBTAqM2gBVlOeKwJhBEg
 HR: ARENA SPORT 1 HD  ->  https://iptv-epg.org/images/YfHDqhTwLmmDmRXzUwIby80b80I2cyGfk7qw87Pa8kEn8l_QUsPJwuTlzNZBnsNdebXI1_-CqElqjeFMKFMDN8JCaDOiewkBTAqM2gBVlOeKwJhBEg
 HR: ARENA SPORT 10 HD  ->  https://iptv-epg.org/images/MJIJjHGk_gTNeutwWumXn6g0mq5K6dNLHUD_8vYCn0SRVIZa1Yn7w4d0mVwhsEj_wZFIsSd7QEsnzR_0FtvxKGySrasDrpNSiHS0UFC3D2ogRBscS_Q
@@ -251,7 +251,7 @@ HR: CRIME+ INVESTIGATION HD  ->  https://iptv-epg.org/images/yg3CTIE0k2NGDU90cS5
 HR: CROMAX SELECT 2 HD  ->  -
 HR: DA VINCI FHD  ->  https://iptv-epg.org/images/Ik6QOnGz0ED1HAbiGEOnSL5zBj2IgjbqRWDKb6eMe4aPYCSRu3hBW5Qy63ZnEAC7WHiyhQs92940tbIqBuLB4VoGTVCOTPCCsU8BigDvPV_y
 HR: DALMACIJA  ->  https://ssc.a1.hr/ITV/pictures/logos/TVD-LOGO-140.png
-HR: DIVA  ->  https://iptv-epg.org/images/7mbnfNterdrUE89b0OUdNRBawnteV_WuiZ8SBHhNxKVa9V3VDRYxaT4njvaXNWV9mFMxi3Hej3rR7NGR1xKtnZyoOBxcVhKai6InllIH
+HR: DIVA  ->  https://ssc.a1.hr/ITV/pictures/logos/DIVA.png
 HR: DOCUBOX  ->  https://ssc.a1.hr/ITV/pictures/logos/Docu%20Box.png
 HR: DOKU TV ADRIA  ->  https://iptv-epg.org/images/OxNFbjUYM4AyFrwLJ17vShgl8eUoaK-QExZ8yWEK7IOnhDk3lX7ymsquRjS8yDDNONKYk61Vw2NW8g7TJtNHc-U4oPhCMQYXDzAO8Mqo4OE
 HR: DOKU TV FHD  ->  https://iptv-epg.org/images/OxNFbjUYM4AyFrwLJ17vShgl8eUoaK-QExZ8yWEK7IOnhDk3lX7ymsquRjS8yDDNONKYk61Vw2NW8g7TJtNHc-U4oPhCMQYXDzAO8Mqo4OE
@@ -353,7 +353,7 @@ HR: VIASAT HISTORY  ->  https://iptv-epg.org/images/VnCLLyRsoUaIWAMbtohNygPnG0aX
 HR: VIASAT NATURE  ->  https://iptv-epg.org/images/VzYMhHIMjdSVv0BTY7xtbRtmAgNJzuQM4GZLKambudORjc_Pfkdtop2hHnL29HK_guJttqNxEOHqe8F8CreQF5wCtsbMfsITIpm7Fs-GtlaNSxCBI18
 HR: VINKOVACKA TV  ->  https://iptv-epg.org/images/Y1Ij-OfQl9N8NvHC1973kQcRGHTm5INAb6YDqnp8_uB8eIClnVrQO0pZDxneGfoy6sGDL70Q8Rct97KBqGCrBJU42wT-Of1h-FYS6n2kYK39CHmczukj4g8
 HR: VTV  ->  https://iptv-epg.org/images/-F_ELMn6TpXWmiI2wa8Lsskoj-4PuL2IeZyM5bwdNymhUJBd9MPZMnO7AGC0GueNSaYelQIy35KWTJtRHs6x0-BF3biREX0Z4bgYVSs
-HR: VTV VARAZDIN HD  ->  https://images.open-epg.com/7241.png
+HR: VTV VARAZDIN HD  ->  https://ssc.a1.hr/ITV/pictures/logos/VTV.png
 HR: YU FOX LIFE  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/fox-life-hr.png
 HR: YU HBO 2 HD  ->  https://iptv-epg.org/images/dNg6r1p8PFC6p73y9sd5tAd2qhjoBSrcMkjfZbF3M1dvz_EnJKi7nGG5CqByqqop4T3CcLbq3zCz7AYc-Ap4o9I0GbeNna25j1QHBXKh
 HR: YU MINI TV  ->  https://iptv-epg.org/images/gyb8sfTMrMQBE6tjYvrF4aofL-lemUsYAP8_VuoVODyaJOUU3nF1dZT7R020nEftlp2ge_AUh8v-DKqlPYnSrYTq36KtS8OjPol4J3A8xyw
