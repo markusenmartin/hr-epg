@@ -353,7 +353,7 @@ HR: VIASAT HISTORY  ->  https://iptv-epg.org/images/VnCLLyRsoUaIWAMbtohNygPnG0aX
 HR: VIASAT NATURE  ->  https://iptv-epg.org/images/VzYMhHIMjdSVv0BTY7xtbRtmAgNJzuQM4GZLKambudORjc_Pfkdtop2hHnL29HK_guJttqNxEOHqe8F8CreQF5wCtsbMfsITIpm7Fs-GtlaNSxCBI18
 HR: VINKOVACKA TV  ->  https://iptv-epg.org/images/Y1Ij-OfQl9N8NvHC1973kQcRGHTm5INAb6YDqnp8_uB8eIClnVrQO0pZDxneGfoy6sGDL70Q8Rct97KBqGCrBJU42wT-Of1h-FYS6n2kYK39CHmczukj4g8
 HR: VTV  ->  https://iptv-epg.org/images/-F_ELMn6TpXWmiI2wa8Lsskoj-4PuL2IeZyM5bwdNymhUJBd9MPZMnO7AGC0GueNSaYelQIy35KWTJtRHs6x0-BF3biREX0Z4bgYVSs
-HR: VTV VARAZDIN HD  ->  https://ssc.a1.hr/ITV/pictures/logos/VTV.png
+HR: VTV VARAZDIN HD  ->  https://images.open-epg.com/7241.png
 HR: YU FOX LIFE  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/fox-life-hr.png
 HR: YU HBO 2 HD  ->  https://iptv-epg.org/images/dNg6r1p8PFC6p73y9sd5tAd2qhjoBSrcMkjfZbF3M1dvz_EnJKi7nGG5CqByqqop4T3CcLbq3zCz7AYc-Ap4o9I0GbeNna25j1QHBXKh
 HR: YU MINI TV  ->  https://iptv-epg.org/images/gyb8sfTMrMQBE6tjYvrF4aofL-lemUsYAP8_VuoVODyaJOUU3nF1dZT7R020nEftlp2ge_AUh8v-DKqlPYnSrYTq36KtS8OjPol4J3A8xyw
@@ -752,8 +752,8 @@ UK: SKY SPORTS ACTION FHD  ->  https://iptv-epg.org/images/43UahSCug9pEsD74189Ww
 UK: SKY SPORTS ACTION HD  ->  https://iptv-epg.org/images/43UahSCug9pEsD74189WwTL5kPd2utPLz7oDCfUOmzz1BhG8Nt3XQkBluiP3lQ-QxMnER7xri56S4khYVX86r8jMR8R7sryucSFKtc-HcPTXLaEu
 UK: SKY SPORTS CRICKET FHD  ->  https://iptv-epg.org/images/q4lLrXqJ__YVhmeO05mg_dJWL63XKSznkIeYkfqIqldO9Op1k_fd-4pQPFOexo_W1OCfyJPy9zm890_00ZIm2ES-m01pJ0sKbhiGl1xECAi55dPnNA
 UK: SKY SPORTS CRICKET HD  ->  https://iptv-epg.org/images/q4lLrXqJ__YVhmeO05mg_dJWL63XKSznkIeYkfqIqldO9Op1k_fd-4pQPFOexo_W1OCfyJPy9zm890_00ZIm2ES-m01pJ0sKbhiGl1xECAi55dPnNA
-UK: SKY SPORTS F1 FHD  ->  https://iptv-epg.org/images/8G7SNSHDsbDxj_R10UwoEqooybpqvqU3ZXKf-zbsGdbPUTHDH2d2QPs8Moj5V8cutZWmO9UIyZOuND6wrenw2RnQeD_I6qeQ4VHAWNscdZY
-UK: SKY SPORTS F1 HD  ->  https://iptv-epg.org/images/8G7SNSHDsbDxj_R10UwoEqooybpqvqU3ZXKf-zbsGdbPUTHDH2d2QPs8Moj5V8cutZWmO9UIyZOuND6wrenw2RnQeD_I6qeQ4VHAWNscdZY
+UK: SKY SPORTS F1 FHD  ->  https://iptv-epg.org/images/Wed9hMWi9axDovd6mS7JV1DhxlXnVEKFMxdcgxfmcxa5dcBK_GAr96vP7uugHXT_P-vrUprY2vnlACIncGuV5uZuoCih0k60qo3FB25Becythl4
+UK: SKY SPORTS F1 HD  ->  https://iptv-epg.org/images/Wed9hMWi9axDovd6mS7JV1DhxlXnVEKFMxdcgxfmcxa5dcBK_GAr96vP7uugHXT_P-vrUprY2vnlACIncGuV5uZuoCih0k60qo3FB25Becythl4
 UK: SKY SPORTS FOOTBALL FHD  ->  https://iptv-epg.org/images/L6C7nHGqAK8KAB9H9fp4BWGIw5uZi3nRFoYTZyUC8FNJFJWluYsB_8KU661PcBAV9a4vLS23W07HhMzpAvZ-SvcJtFeabPsWwlU3vHuqbj9zhnWqHO4
 UK: SKY SPORTS FOOTBALL HD  ->  https://iptv-epg.org/images/L6C7nHGqAK8KAB9H9fp4BWGIw5uZi3nRFoYTZyUC8FNJFJWluYsB_8KU661PcBAV9a4vLS23W07HhMzpAvZ-SvcJtFeabPsWwlU3vHuqbj9zhnWqHO4
 UK: SKY SPORTS GOLF FHD  ->  https://iptv-epg.org/images/ESYgFyoOpL1RqsF8aaVBO0eS2AFD3dQ_VGyVdYG_SVL3zh84E9n7t3RpfRTaWludpAavzOyg-aFd0xYuZoe3cMeiFKVhUHa7VtLJrd60uMuKUg
