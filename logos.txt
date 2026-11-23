@@ -1,76 +1,76 @@
-BH: AL JAZEERA BALKANS  ->  https://iptv-epg.org/images/r2aFYTulUl5hb9caMYn2YAsFygcY0lR-dordcWiWGqQMcxYp0iv9CRsUD7O9LMhxy3vQqgTxbf8Wz9blu6CJCxnld2w-ZWyi7ez0SYsOkSsYZMhxEWHPGb0
+BH: AL JAZEERA BALKANS  ->  https://ssc.a1.hr/ITV/pictures/logos/Al%20Jazeera%20Balkans.png
 BH: AL JEZZERA BALKANS  ->  -
-BH: ALFA TV  ->  https://iptv-epg.org/images/6iytM478m3Pqfg5xzbUEeg7VmMvQ3c23dWu_athatxKJAiXrUD4e0DntxeS1z_OYoxxBv4HX3nWq3soP4kDT8nrQPRFrZKLHBpJWzMAhqQ
+BH: ALFA TV  ->  https://images-web.ug-be.cdn.united.cloud/2022/04/19/15/59/04/light_160x90.png
 BH: ALFA TV SARAJEVO  ->  -
 BH: ALTERNATIVNA TV  ->  https://images-web.ug-be.cdn.united.cloud/2023/10/04/09/44/02/xl_light_480x270.png
-BH: ARENA PREMIUM 1 HD  ->  https://iptv-epg.org/images/_mTuN1KBuswMHqZT_A0cNuBNFxddCm0_2Hsl9EXhr5bkEO1wADQOaeJrbXlkbP0kYIlnfmLWtUFhs3qRub5cbnkgQbm6e9Wn8JDY9975yCHIQ6rXmxs
-BH: ARENA PREMIUM 2 HD  ->  https://iptv-epg.org/images/sI-hoYGykwIts6ymI3k1kdTg4pMstKIR1TKfHaOZEV3XsluyIZ2h1chVAf071slR5RnaTmwgNu6Syvoyb8urwUAZw9GztH6CMi9dXIisuMpp4uaOwpA
-BH: ARENA PREMIUM 3 HD  ->  https://iptv-epg.org/images/suZptTg-CuH8Ux0kg_4wbhmGZvjPEkObGIJIXH8YYp9-2_JL0h9QRpPQKvfw2CBks_TIpGca71sv0ZdzLSxfo490YBBkL3xeBzK8nvtdcJjlzssvMaw
-BH: ARENA SPORT 1 FHD  ->  https://iptv-epg.org/images/wpcV_PIauf9vQ6WdsWhFdQUEHl-dDdbNm_iSKuZ-_Usgq86fQKjcsTgSWAg8bNP1Q38gai040CWnQ7GIBIhrgRP9GKvc-ZsLL2qFEL8lk7kxLNDC
-BH: ARENA SPORT 1 HD  ->  https://iptv-epg.org/images/wpcV_PIauf9vQ6WdsWhFdQUEHl-dDdbNm_iSKuZ-_Usgq86fQKjcsTgSWAg8bNP1Q38gai040CWnQ7GIBIhrgRP9GKvc-ZsLL2qFEL8lk7kxLNDC
-BH: ARENA SPORT 2 HD  ->  https://iptv-epg.org/images/zu9ryzzz-AeRmSffHR0fUIdjoRtv2TIXSDVAQ2I03Ij7ipzQDdSHhFlkkeo-jwMUDeFoXGKt-_tbGE5ix90-W7njVei_1CD6-T7btUwq0ls2IOu8
-BH: ARENA SPORT 3 HD  ->  https://iptv-epg.org/images/bcPSIjVVwSK4fexn2SHZmgwF70Dpeqijqz7ISW11_c7mCgMh4dC-L_-EQcrUZL08VdR7uhITfQRSe5cWA2041AF10fQEyOu_-bedJptBmKL4qY2W
-BH: ARENA SPORT 4 HD  ->  https://iptv-epg.org/images/BG-RuNMeUpZCoFdvi7g7sWf0evfUf3oM6bg6sF-MwQeK0eTjxt6ZP9wcy_MyfJH8GP4ZUkcAD64rnXkUpkPw34__o9UCnlD6GBJUrjJgWTCWrKPF
-BH: ARENA SPORT 5 HD  ->  https://iptv-epg.org/images/MDrRuZqTXBN92ixHhBuiwQSqsxeQu04qBYF1yvqiKUetJjBOwCDHNcBK8p4Va1TCHDBRxEKrUBOtiPFdXLy8ahpTOr1vGobEIYpqWhy3Dm7BCMRF
-BH: ARENA SPORT 6 HD  ->  https://iptv-epg.org/images/Te5CZV6xbhE02UZqt6O0JlWaYFdnIUz-4IaMl9kgC8bpDKcpS8VfiPa4UVDAOtNZDgKBDHm0yhykYcIrfn4lnth__Ha2SZ2Jf66TsmfvlEDstlQd
+BH: ARENA PREMIUM 1 HD  ->  https://mediasb2c.mts.rs/medias/arena-1-premium-600x300.png?context=bWFzdGVyfGNoYW5uZWxzfDEzNDU3fGltYWdlL3BuZ3xhRGN5TDJnMU1DODJORGMzTlRjM01qSTBNVGsxTUM5aGNtVnVZUzB4TFhCeVpXMXBkVzB0TmpBd2VETXdNQzV3Ym1jfGZmM2RkZWYzYzdkNzdjODk5ZTlmMGFkMjA0ZTQzNjY1NjQ4MjRmYmNkNWExYzNjZjNhNzQwZTZjZGY5NjZlY2U
+BH: ARENA PREMIUM 2 HD  ->  https://mediasb2c.mts.rs/medias/arena-2-premium-600x300.png?context=bWFzdGVyfGNoYW5uZWxzfDE4NzEzfGltYWdlL3BuZ3xhRE15TDJnMU5DODJORGMzTlRjM01qTTNNekF5TWk5aGNtVnVZUzB5TFhCeVpXMXBkVzB0TmpBd2VETXdNQzV3Ym1jfGVhNjhjYmVjZTc4YmJiY2ZlM2EyNjk5ZmYzYWRhMTk4OWZmMzhiNTZkZjc4YzJkMDdlYjdmNWRmZmU0N2M2ZGY
+BH: ARENA PREMIUM 3 HD  ->  https://mediasb2c.mts.rs/medias/arena-3-premium-600x300.png?context=bWFzdGVyfGNoYW5uZWxzfDIyMTIxfGltYWdlL3BuZ3xhRE13TDJnMU55ODJORGMzTlRjM01qUXpPRFUxT0M5aGNtVnVZUzB6TFhCeVpXMXBkVzB0TmpBd2VETXdNQzV3Ym1jfDcwMDA2ZjIwYmI3OTdkNGMwNjE1NGM4MGQ5YTQxOTBiMTZhY2VlNmVlNGY1ZWY4NzU1Y2MzNWFiYjRiZWNlOTA
+BH: ARENA SPORT 1 FHD  ->  https://images.open-epg.com/10766641.png
+BH: ARENA SPORT 1 HD  ->  https://images.open-epg.com/10766641.png
+BH: ARENA SPORT 2 HD  ->  https://images.open-epg.com/10766642.png
+BH: ARENA SPORT 3 HD  ->  https://images.open-epg.com/18924480.png
+BH: ARENA SPORT 4 HD  ->  https://images.open-epg.com/10766644.png
+BH: ARENA SPORT 5 HD  ->  https://images.open-epg.com/10766645.png
+BH: ARENA SPORT 6 HD  ->  https://images.open-epg.com/10766646.png
 BH: ATV HD  ->  https://images.open-epg.com/nologo.png
 BH: B1  ->  https://mediasb2c.mts.rs/medias/B1-200x200.png?context=bWFzdGVyfHJvb3R8MTY0NDF8aW1hZ2UvcG5nfGFEWTRMMmhrTUM4eE5UYzBNVE0yTWpRM01EazBNaTlDTVMweU1EQjRNakF3TG5CdVp3fDM1N2YyYjA4OTJhZTg0NDFiYjU1NzU1Yjk2MWQ5MjI5MDA4MWFkYTEzZjczZGFiMDZmZjNiZGM0MTMyMjUwOGQ
 BH: BDC TELEVIZIJA  ->  -
 BH: BHT FHD  ->  https://images-web.ug-be.cdn.united.cloud/2024/06/24/10/19/16/xl_light_480x270.png
 BH: BHT HD  ->  https://images-web.ug-be.cdn.united.cloud/2024/06/24/10/19/16/xl_light_480x270.png
 BH: BIR TV  ->  https://images.open-epg.com/6153.png
-BH: BN 2  ->  https://iptv-epg.org/images/xuIWJ9eZAhfi9-TE59Cmpcy3TiWb-MMgEs08GLcwO-PBg9UkgcFMq8aUvqxg0da0Dfn22htL6nOXWU_Ym_gYRmsye-I5pTD4SKgiQQ
+BH: BN 2  ->  https://images.open-epg.com/18924491.png
 BH: BN SAT HD  ->  https://ssc.a1.hr/ITV/pictures/logos/TV%20BN%20Sat.png
-BH: BN TV HD  ->  https://iptv-epg.org/images/71uCqBxkKqmyk5G2mTnTWSwM8cUiSHZh_x2E-bvpa05PONXRag8DdJCklvOMcc9fdXPoDs5PMF6-yTTq0zW1o2nZOJaCR4fKLJyq
+BH: BN TV HD  ->  https://images-web.ug-be.cdn.united.cloud/2022/11/16/09/48/01/xl_light_480x270.png
 BH: CITY TV MOSTAR  ->  -
-BH: DIVA  ->  https://iptv-epg.org/images/VafNArSxdnV_q7ErQsFzLh4avD6GVMdAhiKSdw29qb4hyZq-QghkDeyFDtJTYs1TD-_GPZTd_KRbH_2OJcVXVvxoUrDMcCk1SHTAhEE
-BH: FACE TV  ->  https://iptv-epg.org/images/Qnetrce-zQUpUs4gMZGgWwKAuVDWfSNFRJL9wvwtrncoayGgSNQoELWEmec1xskSfNPIawGTB9SjKlUYYNG63CJtpphdLtlp5fpIM-VtPw
-BH: FACE TV HD  ->  https://iptv-epg.org/images/Qnetrce-zQUpUs4gMZGgWwKAuVDWfSNFRJL9wvwtrncoayGgSNQoELWEmec1xskSfNPIawGTB9SjKlUYYNG63CJtpphdLtlp5fpIM-VtPw
+BH: DIVA  ->  https://images-web.ug-be.cdn.united.cloud/2025/03/26/15/10/41/xl_diva_light.png
+BH: FACE TV  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/34/53/facehd_logo_16_9_light_480x270_35e017c9_1433_4133_98c7_2fc369435ade.png
+BH: FACE TV HD  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/34/53/facehd_logo_16_9_light_480x270_35e017c9_1433_4133_98c7_2fc369435ade.png
 BH: FEDERALNA TV  ->  https://images-web.ug-be.cdn.united.cloud/2020/12/31/09/10/13/s_federalna_480x270.png
-BH: FTV  ->  https://iptv-epg.org/images/YQ80a0u3pwQLaVUbEY5ufKWxN7IkkvVI1sWr-i8gH5DiNZ40GjuwLP207dmBYkM7zzgXLgHw91ErEwT5VBw_F6LzIE3Q46QvD9zuyg
+BH: FTV  ->  https://images-web.ug-be.cdn.united.cloud/2024/04/22/14/26/28/xl_eon_light.png
 BH: GLAS DRINE  ->  -
-BH: HAYAT  ->  https://iptv-epg.org/images/k-XbW9UTvWPy2B7Zdmmsr1n3GLcbTw_oVnMEFXsY7OloXb5GAIJWcDiV16dI2iBdMsKwVPExnSyKTyY5P0RSkh5Pm7cwX2JgV7CGMtVV
-BH: HAYAT HD  ->  https://iptv-epg.org/images/k-XbW9UTvWPy2B7Zdmmsr1n3GLcbTw_oVnMEFXsY7OloXb5GAIJWcDiV16dI2iBdMsKwVPExnSyKTyY5P0RSkh5Pm7cwX2JgV7CGMtVV
+BH: HAYAT  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/38/25/hayathd_logo_16_9_light_480x270_8f4ada32_4cdc_4528_b772_03ef05127d89.png
+BH: HAYAT HD  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/38/25/hayathd_logo_16_9_light_480x270_8f4ada32_4cdc_4528_b772_03ef05127d89.png
 BH: HAYAT PLUS  ->  https://images.open-epg.com/7127.png
 BH: HAYAT PLUS HD  ->  https://images.open-epg.com/7127.png
-BH: HAYAT TV 2  ->  https://iptv-epg.org/images/0izQv3KxOrSG_KpkQecDX6qW7gSQ7gDlxTGRPzafmer-PpSiszIWKX0n3dH0XyhscjdriE_hC_BdQ19b723-kvVHDn5DDvQeaOUvaJP5ZA
-BH: HAYATOVCI  ->  https://iptv-epg.org/images/HEjg6jh1NJ8nhtp_ptRwkW0tdTp0BP5K2ncRRSSTh8Lwvp1QFB9Y_2nqvoYWMNlXBCvzyuJvS5NY5W7McpUnD_Rgv10pCrbNG-BOCMnBT0Cvxw
+BH: HAYAT TV 2  ->  https://images-web.ug-be.cdn.united.cloud/2025/03/10/09/27/30/xl_light_480x270.png
+BH: HAYATOVCI  ->  https://images-web.ug-be.cdn.united.cloud/2024/02/24/13/24/36/xl_light_480x270.png
 BH: HEMA TV  ->  https://images.open-epg.com/nologo.png
 BH: HERCEG TELEVIZIJA  ->  -
 BH: HERCEG TV HD  ->  -
 BH: HIT BRCKO  ->  -
-BH: HIT TV  ->  https://iptv-epg.org/images/C3ujfmo3Yjo_gUExwMpQCa-sfKEM6O0CmpqM7FhxzVgyzHpBavS0l5RN0yAGvjw99bx2iyDkYFK3KBXOJF48Mac91w8yye2RXnLW13ofHw
-BH: IZVORNA TV  ->  https://iptv-epg.org/images/YIg6Zn14ky9ssHDIj2flz4cTFLXOKtHck4NNxw9HGiNSJSk_0vDvi-k7G9QVBRiOBnMPjVSqmPDH1N5LxvTZ9fZtQjRt9G3XbMiTrh8ZeLA3uw
+BH: HIT TV  ->  https://images.open-epg.com/7341940.png
+BH: IZVORNA TV  ->  https://images-web.ug-be.cdn.united.cloud/2021/06/29/12/38/32/xl_light_480x270.png
 BH: KANAL 5 HD  ->  https://images.open-epg.com/6266.png
-BH: KANAL 6  ->  https://iptv-epg.org/images/BgPqMCWUpGjWjwxZt3ODuCEtpX3IVpfWo3naGaYMdzqsaHOcwYpZU1hbYfAIE6Ig7_mgAibvYE0lMtIVmMt-RDKPcby-tC2IqkDu47_--g
-BH: KANAL 6 HD BIH  ->  https://iptv-epg.org/images/BgPqMCWUpGjWjwxZt3ODuCEtpX3IVpfWo3naGaYMdzqsaHOcwYpZU1hbYfAIE6Ig7_mgAibvYE0lMtIVmMt-RDKPcby-tC2IqkDu47_--g
+BH: KANAL 6  ->  https://images-web.ug-be.cdn.united.cloud/2022/11/16/09/46/14/xl_light_480x270.png
+BH: KANAL 6 HD BIH  ->  https://images-web.ug-be.cdn.united.cloud/2022/11/16/09/46/14/xl_light_480x270.png
 BH: LUKAVAC TV  ->  https://images-web.ug-be.cdn.united.cloud/2022/04/19/15/57/19/light_480x270.png
 BH: MOJA TV SPORT HD  ->  -
-BH: MTV IGMAN  ->  https://iptv-epg.org/images/bMw5l_i15ly2ehFgfZttuFTayXOi_O5XopbY0Jc_YKpUNGt5tRp0RBZThgUbx5Oew6spJbNg84S4edjVICn3yEJqcraVE6LzaoJnfXqTO_ZS
+BH: MTV IGMAN  ->  https://images-web.ug-be.cdn.united.cloud/2021/06/29/12/41/57/xl_light_480x270.png
 BH: N1 BIH  ->  https://images.open-epg.com/3847.png
 BH: N1 BIH HD  ->  https://images.open-epg.com/3847.png
-BH: N1 HD  ->  https://iptv-epg.org/images/jLBPVTvAGRppojI02Ehre9NKF-fFyI2Jv4w2dd0IPlfUUm_L6mERUCaAN_95TA1qyQz0o63vFLJWKrCeSACUAmUozsdCl18vN7Fk
+BH: N1 HD  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/45/57/n1hd_logo_16_9_light_300x168_5eff2034_6882_492d_b72f_4a8a75753856.png
 BH: NEON TV  ->  -
 BH: NOVA BH GLAVNI  ->  -
-BH: NOVA FHD  ->  https://iptv-epg.org/images/BkBuyl9bDJmcmvipVk0AGt_0kz3gxo1t6mq7eh-oRNjcjTi-J1VQSPfQFGeDf61aGhlly6RSYnuHVlF_7kFC7veHoBmhw-j2NI85iAEYow
-BH: NOVA HD  ->  https://iptv-epg.org/images/BkBuyl9bDJmcmvipVk0AGt_0kz3gxo1t6mq7eh-oRNjcjTi-J1VQSPfQFGeDf61aGhlly6RSYnuHVlF_7kFC7veHoBmhw-j2NI85iAEYow
+BH: NOVA FHD  ->  https://images-web.ug-be.cdn.united.cloud/2023/01/04/09/57/17/light_160x90.png
+BH: NOVA HD  ->  https://images-web.ug-be.cdn.united.cloud/2023/01/04/09/57/17/light_160x90.png
 BH: NOVA M HD  ->  https://images-web.ug-be.cdn.united.cloud/2023/01/04/09/36/15/light_288x162.png
 BH: NOVI PAZAR  ->  https://images-web.ug-be.cdn.united.cloud/2023/11/21/13/50/14/xl_novi_pazar_light.png
 BH: NTV ARENA  ->  -
-BH: NTV IC KAKANJ  ->  https://iptv-epg.org/images/LbrrqTVmAuTdrgEnQQE7q9L6Tj8apQMtZCdLQllSxoVP-Csf18t_M1XXdGnfeNvY-d2pt3WHCJQmRFhGhm_TZF5hFlfZsEyENtXQn0v9T2uWX-e2
-BH: NTVIC KAKANJ  ->  https://iptv-epg.org/images/LbrrqTVmAuTdrgEnQQE7q9L6Tj8apQMtZCdLQllSxoVP-Csf18t_M1XXdGnfeNvY-d2pt3WHCJQmRFhGhm_TZF5hFlfZsEyENtXQn0v9T2uWX-e2
-BH: O KANAL HD  ->  https://iptv-epg.org/images/k5rhB4PRtitXXWN-ZYdp62n2I5dpdATpEwvxeOsWfYiIAXGqzME1gS-pSuJVSrzVBUzFwc5cTcy5rG4el4Mm_iH0Mhfb_1HbWDGmaKJY-Q
-BH: O KANAL MUSIC  ->  https://iptv-epg.org/images/RG4kWBeKECq_2RgIVwpxXAHQTlcwSGA_UvdwVYGJzQvB-c-dFWOtVzpWjUks6KKd-fWlV39HtdiBSb2kEJ9pMd1bOgovdOmqHZZIjLv98BIgg2Bz
-BH: OBN  ->  https://iptv-epg.org/images/PjVfwpva50MkvGZUq1Zdzv-eDlfxLSlDg7S84H9-ueb0W92Q19LEsv9oCQwXiZHQyGlNJZaz4DFXkd2U50U57dWMMoDMd0N4l48FaQ
-BH: OBN HD  ->  https://iptv-epg.org/images/PjVfwpva50MkvGZUq1Zdzv-eDlfxLSlDg7S84H9-ueb0W92Q19LEsv9oCQwXiZHQyGlNJZaz4DFXkd2U50U57dWMMoDMd0N4l48FaQ
+BH: NTV IC KAKANJ  ->  https://images-web.ug-be.cdn.united.cloud/2021/06/29/12/42/42/xl_light_480x270.png
+BH: NTVIC KAKANJ  ->  https://images-web.ug-be.cdn.united.cloud/2021/06/29/12/42/42/xl_light_480x270.png
+BH: O KANAL HD  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/48/49/okanalhd_logo_16_9_light_384x216_f6b462bd_182e_4e49_bc5f_d435cf4b3b2f.png
+BH: O KANAL MUSIC  ->  https://images-web.ug-be.cdn.united.cloud/2021/09/29/14/27/52/xl_okanal_music_480x270_light.png
+BH: OBN  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/48/54/obn_logo_16_9_light_288x162_2948a761_fe2b_4094_abd8_946c592844be.png
+BH: OBN HD  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/48/54/obn_logo_16_9_light_288x162_2948a761_fe2b_4094_abd8_946c592844be.png
 BH: PINK HD  ->  https://images.open-epg.com/nologo.png
-BH: PINK M  ->  https://iptv-epg.org/images/J_khFIX0LjwwiqDkHBY7Ql49zHI_PrE9o4Xd7NI5RluqggU7Ms9P311NLrn0BDIfJRXt0MD3CtdpbEmqL92LFQg_BsX1wel_uI5ydySOHA
+BH: PINK M  ->  https://images.open-epg.com/10115381.png
 BH: PODRINJE  ->  https://mediasb2c.mts.rs/medias/b06dfe9f4fc78d11e276a9d253077439.png?context=bWFzdGVyfGNoYW5uZWxzfDEzMjE1fGltYWdlL3BuZ3xhR1F5TDJobVlTODROemsyTVRjMU1EY3pNekV3TDJJd05tUm1aVGxtTkdaak56aGtNVEZsTWpjMllUbGtNalV6TURjM05ETTVMbkJ1Wnd8Yzg5NGE1YjZlMDRlYjM4ZGYxODUwY2E5NTU2NTk2MWZjYmRhYWVhMmY0M2E2NWRmN2UxNGRjZGY2NjY4OGU4NA
 BH: PRNJAVOR HD  ->  -
 BH: PRO TV  ->  -
 BH: ROMA TV HD  ->  -
-BH: RTRS  ->  https://iptv-epg.org/images/gII5MAD1jnN1fg_8N6aJcwz1mwR2UzL30kO_VqPJB_GcttA0Iq6itQ2nbZ7itfBeLDKwmFkZffpkvSNJS7fo-gqsZKqEphOmZCAK8R0
-BH: RTRS PLUS HD  ->  https://iptv-epg.org/images/5doBEfSrFWlGnlzFi1e3R7kE_R4uKnfFxfL8nN7RHIG_RaLd768ura1aP7kVN8v3M9tEyWW25xnP3JNBEmLfcF5dcFD1TA-uHEZjGnyg1FSp
+BH: RTRS  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/58/08/rtrs_logo_16_9_light_480x270_9f4b006f_d3eb_49e9_9391_86bb7776e579.png
+BH: RTRS PLUS HD  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/58/13/rtrsplus_logo_16_9_light_160x90_70f2f571_7f4d_4fcc_9ea0_7e37f6d9e2eb.png
 BH: RTV 7 TUZLA HD  ->  -
 BH: RTV BIR HD  ->  https://images-web.ug-be.cdn.united.cloud/2023/10/04/09/42/14/xl_light_480x270.png
 BH: RTV BUGOJNO  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/08/15/tvbugojno_logo_16_9_light_480x270_be0e0a7d_54b9_421c_b378_70a7e7330d8e.png
@@ -91,7 +91,7 @@ BH: RTV VOGOSCA  ->  https://images.open-epg.com/4089.png
 BH: RTV ZENICA  ->  https://images-web.ug-be.cdn.united.cloud/2021/06/29/12/50/20/xl_light_480x270.png
 BH: RTV ZIVINCE  ->  -
 BH: RTV ZIVINICE  ->  -
-BH: RTVIS  ->  https://iptv-epg.org/images/k59JpyBw04k89DT58WtgEqK6eD59bvJ5ZNitkm-Jl6l6-un2UDWIb6jO7cH5IP-onnogFzdHSyLh2JtGQHfwGGrXRH2-A0GvMYcEOnT1
+BH: RTVIS  ->  https://images-web.ug-be.cdn.united.cloud/2023/11/13/10/27/02/xl_light_480x270.png
 BH: SANDZAK TV  ->  https://images.open-epg.com/10132807.png
 BH: SLON TV HD  ->  https://images.open-epg.com/6428.png
 BH: SUPER TV  ->  -
@@ -113,252 +113,252 @@ BH: TVSA  ->  -
 BH: VIKOM TV  ->  https://images.open-epg.com/nologo.png
 BH: ZENICA RTV  ->  -
 DK: 6 EREN HD  ->  https://s.c.dk/tvlab/tvicons/prd6eren_1716292859_logo_large.png
-DK: ANIMAL PLANET HD  ->  https://iptv-epg.org/images/rgqtBIIeyywNbqipmhSW0WEEZwbldWYLur4nDb0ce7bAWgBIKR6b1J64_yO_qhazHStGwtroqrNBaHUCfQLeYXNNSfnj3zWKFyKBCchz6kWWuag7v_8
+DK: ANIMAL PLANET HD  ->  https://s.c.dk/tvlab/tvicons/animal_planet_1548111710_logo_large.png
 DK: BBC BRITH HD  ->  -
 DK: BBC EARTH HD  ->  https://i.c.dk/tvicons/db91_bbc_earth_large.png
-DK: BBC NORDIC  ->  https://iptv-epg.org/images/URnvhwYdJXCG8Am585jINaQ2I-h38LNOuaawDJP47PEdQDmxJI4VCx1Zkc6O11NY3-j2ITANLb7PBU-gRc8DivVGf831oMDqlfDkFePIa2jpRyo
+DK: BBC NORDIC  ->  https://s.c.dk/tvlab/tvicons/prdbbc-nordic_1681649746_logo_large.png
 DK: BOOMERANG  ->  https://images.open-epg.com/x866.png
-DK: C MORE FIRST  ->  https://iptv-epg.org/images/c-oJMT0hmLA7zCfBfNl2SNBvjNiAIra_pFLOxdC7BVUuLQ-qXJyQHrXwrqJbCxlR0mNo5Pk5fX-WV5jVq5FOG1XT_tmAc5sebVZJEei4AJ5H3G7X
-DK: C MORE HITS  ->  https://iptv-epg.org/images/OWoj_NW1gLynAPUG9QEyAcwOSDw0Zyzrm0QiGAz1cbqllO83bVy_4GQscOX3us6rwzrR1zMnLstuy8H7ruveeDkq5NXw2BhKdAuN6VGn9QCMkyM
-DK: C MORE SERIES  ->  https://iptv-epg.org/images/HlBpHVvUy1YonBy3NAl0-PO75U-ehFI4KDUr8ajksVfEsplLdO8m5Zoi_bi0Pcv9igMP6Z5DEawKn-yXaYoqZoOSZ5DCW5xXYhEpSnE-c3ILh8Z6-A
-DK: C MORE STARS  ->  https://iptv-epg.org/images/HNf31YxOK-ZXelLsifUINRX1psXHq09jth0RNo6oWZRrmPa6JaMtEia9OnvEndJthEhvEbXyhWLTzlxb6vAzPEmrb1NCeUFvAiQFxacmqn2yrUIg
+DK: C MORE FIRST  ->  https://i.c.dk/tvicons/db155_c_more_first_large.png
+DK: C MORE HITS  ->  https://i.c.dk/tvicons/db156_c_more_hits_large.png
+DK: C MORE SERIES  ->  https://i.c.dk/tvicons/db158_c_more_series_large.png
+DK: C MORE STARS  ->  https://i.c.dk/tvicons/db159_c_more_star_large.png
 DK: CANAL 9 HD  ->  https://s.c.dk/tvlab/tvicons/prdcanal-9_1759319590_logo_large.png
-DK: CARTOON NETWORK  ->  https://iptv-epg.org/images/1iyTvcBN_VWj_14h455T8hSTdKSis9pn8W2dNzOMHJMnOeLs7bMDLRhGFsJKsiEz2kENNY-YxmZGY5vAsOlAbV6IfjyMIxDXXdtC_Z2ORVdElTWNdZ-58A
-DK: CARTOONITO  ->  https://iptv-epg.org/images/kXJ2miFJe4t6dMfEmIIWllKJj0h5wvN99SuUny1Um0ea0oQEvwQmcroZCyY-mRuwpgrP5Jr_MXoIAw-fz4frWoUMr5EodppBgmhvL6Wi_sCXB1Cd
+DK: CARTOON NETWORK  ->  https://s.c.dk/tvlab/tvicons/prdcartoon-network_1588678679_logo_large.png
+DK: CARTOONITO  ->  https://s.c.dk/tvlab/tvicons/prdcartoonito_1693813488_logo_large.png
 DK: DANSKE KLASSIKKER 1  ->  -
 DK: DANSKE KLASSIKKER 2  ->  -
 DK: DANSKE KLASSIKKER 4  ->  -
 DK: DANSKE KLASSIKKER 5  ->  -
 DK: DANTOTO RACING  ->  -
-DK: DISCOVERY HD  ->  https://iptv-epg.org/images/ZhCYtawA-3hfgMTqDCCvYHS_uqjstMslLjDQiyGVoHKa3iHJt5kIDtV0qM55yJaMr-aW5EtmvSiZ5lXEW3Opvb5CYLSwejLMI1FYFt6eAZDHhjw2zQvx2ZKX
+DK: DISCOVERY HD  ->  https://s.c.dk/tvlab/tvicons/discovery_channel_1569317603_logo_large.png
 DK: DISCOVERY INVESTIGATION  ->  https://s.c.dk/tvlab/tvicons/prddiscovery-id_1716297365_logo_large.png
 DK: DISCOVERY INVESTIGATION HD  ->  https://s.c.dk/tvlab/tvicons/prddiscovery-id_1716297365_logo_large.png
-DK: DISCOVERY SCIENCE  ->  https://iptv-epg.org/images/6XkmI3GmWwUaG2VFJdMvKhvjwEsMDKqV5q2p5eZBu4wA3n5QwDqvnboFvPOWe2P8DX0ag0PGJxBcDkobdyJincH4sFmFgNyrOXrPxaF3sWlodiczTF3Xzedm
-DK: DISNEY CHANNEL NORDIC HD  ->  https://iptv-epg.org/images/HfUJ2o0ZtIGnh8TsEDD6uVm6TqWAxK60HkvgLBH3PUQKdZXLNNoz23wPq3wOTrbiwrpc44CEAoK3LUT8GSQir-dzcEgO_ul8moLeo0owDl6jg7iIXq0q
+DK: DISCOVERY SCIENCE  ->  https://i.c.dk/tvicons/discovery_science_logo_large.png
+DK: DISNEY CHANNEL NORDIC HD  ->  https://s.c.dk/tvlab/tvicons/prddisney-channel_1666606590_logo_large.png
 DK: DISNEY JR  ->  -
-DK: DISNEY JUNIOR  ->  https://iptv-epg.org/images/k8NYTs3VyvxDiVfS9ulf5lyktiDxakCvXtN4eQe_ZZALjaRGuL6Kmepxy-MtNMVW5l0nYqIuCVEiQFLJ-u4dJi598hRn_Y0z20I1TzRpIkJ8iT3c324
+DK: DISNEY JUNIOR  ->  https://s.c.dk/tvlab/tvicons/disney_junior_1549889008_logo_large.png
 DK: DISNEY XD  ->  -
-DK: DISNEY+  ->  https://iptv-epg.org/images/JcIv1uf5HP5hi8xp4DsY0QxVFMuoR9kMf_JIpoJ6yP3qdzKVBr_c9hrN9yhYvtUYhrsbzL3szNquqMvxyHIqT-ZQl5CAHaRuqG9KksWoQmfQKEQ
-DK: DK4 HD  ->  https://iptv-epg.org/images/6dTbr0tHDbh9exiMY3Iqfz-ZBJ5zz1razG9WVXvyrSfeHhkumt_gH6vwNqqK9WskzN7LYWoRxJ62rPUJjHfXAgt2gsm6D-kEp5E_Ejw
-DK: DR 1  ->  https://iptv-epg.org/images/X2ttM9pVAWWT8SZcZbFHWHyyXV4vTX_GsFdYrRJ1z3z-cVYfrtOjWWIM6dv7AJqZeuLLVVX7lFFb3rEX2e1ZIjHAojkU59lssg2sepg
-DK: DR 1 HD  ->  https://iptv-epg.org/images/X2ttM9pVAWWT8SZcZbFHWHyyXV4vTX_GsFdYrRJ1z3z-cVYfrtOjWWIM6dv7AJqZeuLLVVX7lFFb3rEX2e1ZIjHAojkU59lssg2sepg
-DK: DR 2 HD  ->  https://iptv-epg.org/images/bDRaaA6F37H9u72C10BuZxVG1yKIRBA6IQpN3dCvPNqZbRB4niHqX0vs_l0168JP7lN6tx38ukFgbX_MZIe81VBUohiI3jqghsT3ruw
-DK: DR RAMASJANG  ->  https://iptv-epg.org/images/-2Etri5y3DTEVp03acTdZXwXfIO-dW-gKEZ6JTEhB15NBALiEuZlpgBMfyngnsLXTcWezqBM_y6BEUxEgAW30ltF4x1rW0ZNSEpZNOaGSwbzIPuVfA
-DK: DR ULTRA  ->  https://iptv-epg.org/images/3C7WiRdUCa44_q0F5Z-frf17kDe9ybYS8wtYClAhrUlVHDHhWj_wz7GzKxVI8T1nMziuDMH8g_U1deDYcuzSl_LXV9BCCtuS3N0n0Ch9L8io
-DK: EUROSPORT 1 HD  ->  https://iptv-epg.org/images/v31W6vUAdpc9oyLuLrJOiRDREpjYRyAH6_OOE_Rfxpl8iFtFepw7iL5vxEl64NlqNtOhaGi4LtkbT91A6ZSL2HvfHl0Cz1eutY4yaWP45eFNmRkQ
+DK: DISNEY+  ->  -
+DK: DK4 HD  ->  https://i.c.dk/tvicons/dk4_logo_large.png
+DK: DR 1  ->  https://s.c.dk/tvlab/tvicons/prddr1_1577861013_logo_large.png
+DK: DR 1 HD  ->  https://s.c.dk/tvlab/tvicons/prddr1_1577861013_logo_large.png
+DK: DR 2 HD  ->  https://s.c.dk/tvlab/tvicons/prddr2_1577861274_logo_large.png
+DK: DR RAMASJANG  ->  https://s.c.dk/tvlab/tvicons/prddr-ramasjang_1577861567_logo_large.png
+DK: DR ULTRA  ->  -
+DK: EUROSPORT 1 HD  ->  https://s.c.dk/tvlab/tvicons/prdeurosport-1_1760009983_logo_large.png
 DK: EUROSPORT 2 HD  ->  https://s.c.dk/tvlab/tvicons/prdeurosport-2_1760010225_logo_large.png
-DK: FOLKETINGET TV  ->  https://iptv-epg.org/images/p26JxJv--THRuqbqbQONJpSzpoDt9dRO_GSO_djzxDoONTzyhT5byaMoVdifppWMNMqkgGekvzm_V6v-0K5v9XdyzRCViBP14XkQYv4KKoXgAMQ8jw
-DK: HISTORY 2 HD  ->  https://iptv-epg.org/images/UrOd7Oj32rOrxXRnojBiEhDbdqa_Vc9FaUFKA48okVwqRFlQMB2CnXXw4IXD9rKvDSUUhCvZO-_NwyrX3KJL2yV6-MneSB81QM3Hi7vuf7GA7w
-DK: HISTORY HD  ->  https://iptv-epg.org/images/XX90Hy6jUUMLkMY5OQzVG9ySzf2Y1lzjsM42tkizk2vvsvm_l7976zRvJTwqo4e8f8xbviQtrWqc48tZ5MQ9BkWG4v1xVq23Nz_O9F4bDlMZ
+DK: FOLKETINGET TV  ->  https://s.c.dk/tvlab/tvicons/prdfolketinget_1601879614_logo_large.png
+DK: HISTORY 2 HD  ->  https://s.c.dk/tvlab/tvicons/h2_1566558201_logo_large.png
+DK: HISTORY HD  ->  https://i.c.dk/tvicons/db84_history_hd_large.png
 DK: KANAL 4 HD  ->  https://s.c.dk/tvlab/tvicons/prdkanal-4_1716292624_logo_large.png
 DK: KANAL 5 HD  ->  https://s.c.dk/tvlab/tvicons/prdkanal-5_1716296805_logo_large.png
 DK: KANAL HOVEDSTADEN  ->  -
 DK: KKR TV  ->  -
-DK: MTV  ->  https://iptv-epg.org/images/eKiJnxmIJdNqgtFoGOZhN69lc5OCRLFgYtf9IL5TqOKbYJLV38XkqTR-SjHmPArIuiPDx4CX9ZC96QUSJ9PYp6rf1mPmDDuY3-vekGU
-DK: NATIONAL GEOGRAPHIC HD  ->  https://iptv-epg.org/images/LN5SbL3QvPduXmbp0uTDoHCqxBNXouvunBdSjPJjtSSC14OXgcvmC5VY3F2wurwCS3jjC4kjkIX7gHk3VQ1jrb-PVkcMYdwrXfeCNFLrbuci1L44L9VCUbTosvE
-DK: NATIONAL GEOGRAPHIC WILD FHD  ->  https://iptv-epg.org/images/nQv9Nuh8rVSyEVdm40qnxXaVg4dNrXm8nJUCX-4ez2ztx0jujjmOS1tfpQYHvmvBIQ8xJ8ZI_Mcd7c_6FPWU3jsQhJkXaMGhzi5D9hzZfufbM0Mwx_9mQhV1KD0wyhRN
-DK: NATIONAL GEOGRAPHIC WILD HD  ->  https://iptv-epg.org/images/nQv9Nuh8rVSyEVdm40qnxXaVg4dNrXm8nJUCX-4ez2ztx0jujjmOS1tfpQYHvmvBIQ8xJ8ZI_Mcd7c_6FPWU3jsQhJkXaMGhzi5D9hzZfufbM0Mwx_9mQhV1KD0wyhRN
-DK: NICK JR  ->  https://iptv-epg.org/images/YI4kcPK0uuWmBhDMTc544hLGizI2sb96V2IanHtXhkCi8CKv65Mh481gGA4mv-B_UOfq61mp0Ozb94nrUGScupg1mq_uB_pcPPBqnHKgsnc
-DK: NICKELODEON HD  ->  https://iptv-epg.org/images/fp8CibSJ4aOrH6wxXfs6FUaL_c8XdCcj2OfQly8FqpxYRJGb9i9D3Wcc8Nmx7_H3vohySot0wK5-yTSvIhTPP-KAB8wNjYHnY_mBXpUU1GJivVxh_w
-DK: NICKTOONS  ->  https://iptv-epg.org/images/oYjNzFcIyYUsCj_ymVKKvPLBCin1P1lJrUgCKzx1X-aR7NTq5gUmb2syTUR2q-OaS_uic-cSQvMllEBx8hlw-VfSHA_nM2PU6rXNwFxvlnKhue4
-DK: PARAMOUNT NETWORK HD  ->  https://iptv-epg.org/images/c1GiFDmYDYXGSbLqaW2JpFiXA2pW3WAohJzp6cvnj9dXcoppXsfFEVFs8cDGio-pj4nxg4M4uEHWnBQ2V15N9g_9xMhrNdP74WAb0ndCH95-UFwINUNqxU3f
+DK: MTV  ->  https://images.open-epg.com/25161349.png
+DK: NATIONAL GEOGRAPHIC HD  ->  https://images.open-epg.com/25161354.png
+DK: NATIONAL GEOGRAPHIC WILD FHD  ->  https://s.c.dk/tvlab/tvicons/nat_geo_wild_hd_1548988572_logo_large.png
+DK: NATIONAL GEOGRAPHIC WILD HD  ->  https://s.c.dk/tvlab/tvicons/nat_geo_wild_hd_1548988572_logo_large.png
+DK: NICK JR  ->  https://s.c.dk/tvlab/tvicons/prdnick-jr_1713442883_logo_large.png
+DK: NICKELODEON HD  ->  https://s.c.dk/tvlab/tvicons/prdnickelodeon_1713442185_logo_large.png
+DK: NICKTOONS  ->  https://s.c.dk/tvlab/tvicons/prdnicktoons_1716282323_logo_large.png
+DK: PARAMOUNT NETWORK HD  ->  -
 DK: PARAMOUNT+ MOVIES  ->  -
 DK: SEE XEE HD  ->  -
 DK: SF KANALEN  ->  https://images.open-epg.com/x1921.png
-DK: SKY SHOWTIME 1 HD  ->  https://iptv-epg.org/images/M78fyRXazc4epYAe-HutIZEJvLaPh9eg0f8E4umNN77Pf-sjDralWWT1i8PYmX0eQCGEaSu8bYl4RciciMX-Lx8a-eGgBiWLUAPnQqg9qURkc-NZ9oc
+DK: SKY SHOWTIME 1 HD  ->  https://s.c.dk/tvlab/tvicons/prdskyshowtime-1_1663662595_logo_large.png
 DK: TLC HD  ->  https://s.c.dk/tvlab/tvicons/prdtlc_1719310503_logo_large.png
 DK: TV2  ->  https://s.c.dk/tvlab/tvicons/prdtv-2_1679917695_logo_large.png
 DK: TV2 BORNHOLM HD  ->  https://i.c.dk/tvicons/db318_tv2bor_large.png
-DK: TV2 CHARLIE HD  ->  https://iptv-epg.org/images/AFuYIP0dENSEggKV2FfJfr4oyTOXfOyVCmgzSnNppP39bBKI18_8A9Lf3MLYfeEq1cr6yV7bZJTE1nnLEeqLGJvcLlAQd3KT6ld4gTQMpQsKOOfM
-DK: TV2 ECHO  ->  https://iptv-epg.org/images/e7KuqJl9smjSkKRlbXIq6K_HeRp-H7Kddv5Mt4vNAlcBLba-QdXfNN37qJfjFuO_VoWyI9Hn22X4KUx-TK2cGxIsXTrk54n_H-4QmzKdL58q
-DK: TV2 ECHO HD  ->  https://iptv-epg.org/images/e7KuqJl9smjSkKRlbXIq6K_HeRp-H7Kddv5Mt4vNAlcBLba-QdXfNN37qJfjFuO_VoWyI9Hn22X4KUx-TK2cGxIsXTrk54n_H-4QmzKdL58q
-DK: TV2 FRI HD  ->  https://iptv-epg.org/images/hpMeeTtDK0Swm7xBPBw8pZniCvMJsrGI3QyBwKc8lqXKDjj-Ak3NJ1jl0FWiaa_BdQ7XACmE6VDFWiMQz5XMBUl9cgeXQ2kedMVHQYDOolw
+DK: TV2 CHARLIE HD  ->  https://s.c.dk/tvlab/tvicons/prdtv-2-charlie_1679908743_logo_large.png
+DK: TV2 ECHO  ->  https://s.c.dk/tvlab/tvicons/prdtv-2-echo_1679904330_logo_large.png
+DK: TV2 ECHO HD  ->  https://s.c.dk/tvlab/tvicons/prdtv-2-echo_1679904330_logo_large.png
+DK: TV2 FRI HD  ->  https://s.c.dk/tvlab/tvicons/prdtv-2-fri_1679909141_logo_large.png
 DK: TV2 FYN HD  ->  https://s.c.dk/tvlab/tvicons/tv_fyn_1551958126_logo_large.png
 DK: TV2 HD  ->  https://s.c.dk/tvlab/tvicons/prdtv-2_1679917695_logo_large.png
-DK: TV2 LORRY  ->  https://iptv-epg.org/images/nMHoMXMqgE5X69_OE3ZmNfAtTqAgXA5VOyDSQK5JEfeTHcnFhH4Nx2CtBUWBZ7N1yxesVtUQQV3c1Zn8mw3pI6nk4A03ndGDIcMmnfzU7vjJBg
+DK: TV2 LORRY  ->  -
 DK: TV2 MIDT VEST HD  ->  -
-DK: TV2 NEWS FHD  ->  https://iptv-epg.org/images/ulNTq7uqOe3PpebKxBl_ywYCvah-71N5eALL47JJiTjqBWcFd8MEUwcr75RuBpZVwQNkBYvN_Ceo06pVv6VF8d-n9voaiG8GpaH_aA3OfbZP
-DK: TV2 NEWS HD  ->  https://iptv-epg.org/images/ulNTq7uqOe3PpebKxBl_ywYCvah-71N5eALL47JJiTjqBWcFd8MEUwcr75RuBpZVwQNkBYvN_Ceo06pVv6VF8d-n9voaiG8GpaH_aA3OfbZP
-DK: TV2 NORD HD  ->  https://iptv-epg.org/images/ch0z8GaTcyYQDcXoCvxreIUFUsQ7SEWntW9LsgfeULrnQXJMFHBMACRgipii6Xju7tY8vVjWCYactRH2QK1hDeg-WREP0ZsXn5DMlbGuRDmA
+DK: TV2 NEWS FHD  ->  https://s.c.dk/tvlab/tvicons/prdtv-2-news_1679909320_logo_large.png
+DK: TV2 NEWS HD  ->  https://s.c.dk/tvlab/tvicons/prdtv-2-news_1679909320_logo_large.png
+DK: TV2 NORD HD  ->  https://i.c.dk/tvicons/db311_tv2nord_large.png
 DK: TV2 OST HD  ->  -
 DK: TV2 OSTJYLLAND HD  ->  https://images.open-epg.com/25161198.png
-DK: TV2 SPORT FHD  ->  https://iptv-epg.org/images/4lpGAO3LZNyCWbnEjrfpC8epvc3dgqPG-5aQCIcOdvM4fZL8JU3og94tzo1bGcTv3QyP0Q23JNTQxOGV1nZVVe3PYs-O3NtB4qIYBQoWD4AkBQ
-DK: TV2 SPORT HD  ->  https://iptv-epg.org/images/4lpGAO3LZNyCWbnEjrfpC8epvc3dgqPG-5aQCIcOdvM4fZL8JU3og94tzo1bGcTv3QyP0Q23JNTQxOGV1nZVVe3PYs-O3NtB4qIYBQoWD4AkBQ
-DK: TV2 SPORT X FHD  ->  https://iptv-epg.org/images/14ofpI4GFHNgaeQq1LJS9lJzIpNIls1_oxoKGhz1ZW1VaK3nlNLLAuQpVYaodlxNYcX-GjnPBJutch4xPtVl9q2ynCLj19_rSPm05RpNaAJTIqw
-DK: TV2 SPORT X HD  ->  https://iptv-epg.org/images/14ofpI4GFHNgaeQq1LJS9lJzIpNIls1_oxoKGhz1ZW1VaK3nlNLLAuQpVYaodlxNYcX-GjnPBJutch4xPtVl9q2ynCLj19_rSPm05RpNaAJTIqw
+DK: TV2 SPORT FHD  ->  https://s.c.dk/tvlab/tvicons/prdtv-2-sport_1679909495_logo_large.png
+DK: TV2 SPORT HD  ->  https://s.c.dk/tvlab/tvicons/prdtv-2-sport_1679909495_logo_large.png
+DK: TV2 SPORT X FHD  ->  https://s.c.dk/tvlab/tvicons/prdtv-2-sport-x_1679909670_logo_large.png
+DK: TV2 SPORT X HD  ->  https://s.c.dk/tvlab/tvicons/prdtv-2-sport-x_1679909670_logo_large.png
 DK: TV2 SYD HD  ->  -
-DK: TV2 ZULU  ->  https://iptv-epg.org/images/6_fWBCteEnbIvV0hiXb7BwIPgboOTVHSMlpGZlvCAeL437i-aj4RIOOHLIofyxK5C7C0_60ukDkE82nT4fCq6j-KFmq3hru279Rok-KpfVwU
-DK: TV3 FHD  ->  https://iptv-epg.org/images/mrI__G13WnXu1b-X7bDUFllwekK1nzuk9YsvX-sk6yTeW3vmSLBPK44bOR42YuJuwDkv7SQ0vMv3iv_Q-7k-NwfCL-hulV_KzXHvSQM
-DK: TV3 HD  ->  https://iptv-epg.org/images/mrI__G13WnXu1b-X7bDUFllwekK1nzuk9YsvX-sk6yTeW3vmSLBPK44bOR42YuJuwDkv7SQ0vMv3iv_Q-7k-NwfCL-hulV_KzXHvSQM
-DK: TV3 MAX HD  ->  https://iptv-epg.org/images/TGhQWCZ2k_Fdh13Ae529ET1Si8w7hgwxBlO3SvvWbvoTOk5TuwLNtKwgL4Z9592ejXMXANs_1khkQeB8sYUclSfc2yK7C_4_x73Zw6j3oAo
+DK: TV2 ZULU  ->  -
+DK: TV3 FHD  ->  https://i.c.dk/tvicons/tv3_logo_large.png
+DK: TV3 HD  ->  https://i.c.dk/tvicons/tv3_logo_large.png
+DK: TV3 MAX HD  ->  https://i.c.dk/tvicons/tv3_max_logo_large.png
 DK: TV3 PLUS HD  ->  https://images.open-epg.com/x1906.png
 DK: TV3 PLUS YELLOW  ->  -
-DK: TV3 PULS  ->  https://iptv-epg.org/images/R8RATVhZPb-wClwUJ8vWOCwUjHJEgUU2jvhcIqYiPnnP4hVQ0qCs_uL19Bqc_azmjFo0VwHzZa-a6sbwbHzrDuzNs-V6Gkxod1skKESaE4gl
+DK: TV3 PULS  ->  https://i.c.dk/tvicons/db12_tv3_puls_large.png
 DK: TV3 PULS BLUE  ->  -
-DK: TV3 SPORT HD  ->  https://iptv-epg.org/images/6229ChTQnTrfe0XuZ2NcQAabw7LB7W-Iv2O9R7DvbDwN02iXoI7wrzxoaQTxynryP6DcQgrJ7aKezTlMp6-hcJ3tAv3hFWBmTZ2rv-5KDyW3MA
+DK: TV3 SPORT HD  ->  https://s.c.dk/tvlab/tvicons/tv3_sport_1551959426_logo_large.png
 DK: TV3 SPORT MAX  ->  -
-DK: TV3+ FHD  ->  https://iptv-epg.org/images/rZrphGRI27AX-NG1idtmHLVzfftBvBmLE3uHTGsJz0pf92X7vLWs9dI3H4NmCsZgTBaZsFAwhWYYquqrOAB10zuvO7Xszx80AyEA9AnkwM8
-DK: TV3+ HD  ->  https://iptv-epg.org/images/rZrphGRI27AX-NG1idtmHLVzfftBvBmLE3uHTGsJz0pf92X7vLWs9dI3H4NmCsZgTBaZsFAwhWYYquqrOAB10zuvO7Xszx80AyEA9AnkwM8
-DK: VIASAT EXPLORE HD  ->  https://iptv-epg.org/images/-YmXoXbAj_bdKqFXZde88AaC3gsl9wi0LwOouj_FOYgjqkBnvxgF_cJ8W552BgNNVkpZEn9AVlqGhTHQpc0lRdDRBtKEWYms_Jh_MPlh1nDzbVMeZR0E
+DK: TV3+ FHD  ->  https://i.c.dk/tvicons/db8_tv3plus_large.png
+DK: TV3+ HD  ->  https://i.c.dk/tvicons/db8_tv3plus_large.png
+DK: VIASAT EXPLORE HD  ->  https://i.c.dk/tvicons/viasat_explore_logo_large.png
 DK: VIASAT FILM ACTION HD  ->  -
 DK: VIASAT FILM FAMILY HD  ->  -
 DK: VIASAT FILM HITS HD  ->  -
 DK: VIASAT FILM PREMIERE HD  ->  -
 DK: VIASAT GOLF HD  ->  -
-DK: VIASAT HISTORY  ->  https://iptv-epg.org/images/qgJ5qgorN6Fc_X9AaD4mL3SHVOyl-1caLYtSi9q0-5ALPAL1ZmtEWoOCHrRs89ks3oBXq0XFSOyABJWHBoiI7dzfzaz6P1hjJse8BHbLJJ8Qb8p3e7vv
+DK: VIASAT HISTORY  ->  https://i.c.dk/tvicons/db130_viasat_history_large.png
 DK: VIASAT HOCKEY  ->  -
-DK: VIASAT NATURE  ->  https://iptv-epg.org/images/kbq1m1bS4O37FXjIfYdulk5W4kTz0nDZoontNDtZE9o-ALOiqK-hjPGGb-WYdeqYLZYu2VAtZyJvH9s6sYm9O4jJ_bwMV9qXJussjkiVSkzozZ4ieic
+DK: VIASAT NATURE  ->  https://i.c.dk/tvicons/db95_viasat_nature_crime_large.png
 DK: VIASAT SERIES HD  ->  -
 DK: VIASAT SPORT PREMIUM HD  ->  -
-HR: 24 KITCHEN  ->  https://iptv-epg.org/images/eh8N9Naj9oVqQVKYxxcApLDAcruhs1GkEVDvxGgOgaHrrUKT5rlfyoKjhqvI7JDhQQwF2yvdHTCW-G2Yg8CizzBe4-10SnMkwcJEjNCGUgWkNeY
+HR: 24 KITCHEN  ->  https://ssc.a1.hr/ITV/pictures/logos/24Kitchen_logo_color.png
 HR: ANIMAL PLANET  ->  https://images.open-epg.com/17840.png
-HR: ARENA SPORT 1 FHD  ->  https://iptv-epg.org/images/YfHDqhTwLmmDmRXzUwIby80b80I2cyGfk7qw87Pa8kEn8l_QUsPJwuTlzNZBnsNdebXI1_-CqElqjeFMKFMDN8JCaDOiewkBTAqM2gBVlOeKwJhBEg
-HR: ARENA SPORT 1 HD  ->  https://iptv-epg.org/images/YfHDqhTwLmmDmRXzUwIby80b80I2cyGfk7qw87Pa8kEn8l_QUsPJwuTlzNZBnsNdebXI1_-CqElqjeFMKFMDN8JCaDOiewkBTAqM2gBVlOeKwJhBEg
-HR: ARENA SPORT 10 HD  ->  https://iptv-epg.org/images/MJIJjHGk_gTNeutwWumXn6g0mq5K6dNLHUD_8vYCn0SRVIZa1Yn7w4d0mVwhsEj_wZFIsSd7QEsnzR_0FtvxKGySrasDrpNSiHS0UFC3D2ogRBscS_Q
-HR: ARENA SPORT 2 FHD  ->  https://iptv-epg.org/images/tp96cR025hkAPzDGLaTCExWmW9T1V8PvlYjZOh1XC_vIVbe1Uc6ndJE6qygnMBVmRUPu5WuoktofqgtiudzPrykH3Yfh_JcQmIlo4dN5tX2dZzxCMw
-HR: ARENA SPORT 2 HD  ->  https://iptv-epg.org/images/tp96cR025hkAPzDGLaTCExWmW9T1V8PvlYjZOh1XC_vIVbe1Uc6ndJE6qygnMBVmRUPu5WuoktofqgtiudzPrykH3Yfh_JcQmIlo4dN5tX2dZzxCMw
-HR: ARENA SPORT 3 FHD  ->  https://iptv-epg.org/images/UHxwSCFGCBWvkvqEXXBVzIqBU5Y0-9DSooj-4vOJ8Cz8G2ldfB7ZxBz8_xNXhNsUzaH904UoUyLaNPRH986PWtSRlV5NpSxiSvXfyAVjFvxSoUpxWQ
-HR: ARENA SPORT 3 HD  ->  https://iptv-epg.org/images/UHxwSCFGCBWvkvqEXXBVzIqBU5Y0-9DSooj-4vOJ8Cz8G2ldfB7ZxBz8_xNXhNsUzaH904UoUyLaNPRH986PWtSRlV5NpSxiSvXfyAVjFvxSoUpxWQ
-HR: ARENA SPORT 4 FHD  ->  https://iptv-epg.org/images/SOgQ3zYgmtEpUoLwa1J7YgTzh72ukaF4Bqo-oyz72XZJZQ5_X0MrJIOq9A5TI11Ch0vX3hKVvc-Mk_q6mfl5EFC8tE1gd2BOd6RApiS_k4diW08XLg
-HR: ARENA SPORT 4 HD  ->  https://iptv-epg.org/images/SOgQ3zYgmtEpUoLwa1J7YgTzh72ukaF4Bqo-oyz72XZJZQ5_X0MrJIOq9A5TI11Ch0vX3hKVvc-Mk_q6mfl5EFC8tE1gd2BOd6RApiS_k4diW08XLg
-HR: ARENA SPORT 5 FHD  ->  https://iptv-epg.org/images/oVx7tMnK_wKUsoOhbAA6eUuUXWIuUaxhjtq7vCVM7mLqh4HbQyc5XQ5rmK5oWfee3OhPibx5qmkAmElizbVvuXmDvu4MJzSWMw36UKplhIYr-lftxQ
-HR: ARENA SPORT 5 HD  ->  https://iptv-epg.org/images/oVx7tMnK_wKUsoOhbAA6eUuUXWIuUaxhjtq7vCVM7mLqh4HbQyc5XQ5rmK5oWfee3OhPibx5qmkAmElizbVvuXmDvu4MJzSWMw36UKplhIYr-lftxQ
-HR: ARENA SPORT 6 FHD  ->  https://iptv-epg.org/images/XFEs3rV22DNFZZcvOUE55q8X0pGtyzWLI5FPKqVxH8dpYji7OwKh_V5itQ5CLy8GuvtOPAvKsOFzqX--ZAD3aZRtGrpWjYGmOA8Vkc8NCi6WKgnd9g
-HR: ARENA SPORT 6 HD  ->  https://iptv-epg.org/images/XFEs3rV22DNFZZcvOUE55q8X0pGtyzWLI5FPKqVxH8dpYji7OwKh_V5itQ5CLy8GuvtOPAvKsOFzqX--ZAD3aZRtGrpWjYGmOA8Vkc8NCi6WKgnd9g
-HR: ARENA SPORT 7 HD  ->  https://iptv-epg.org/images/cVGD9_O8KIYcFbU_Kts_SGkOEgDUT1TD0eXyG2t0PTzl-b2MCGkTwVxa7jnTBweL1-6sdxGt5vxhum0cewFbPCDzvMG3AhzE_RNzeOYM4CCmo9ebTg
-HR: ARENA SPORT 8 HD  ->  https://iptv-epg.org/images/lsB616GZQz8Kywoo0z6HwvYdGPydm9MVPD2RUcgX9rbo7ENIsQM6DCEyNUwf7vDrh-9_6JGT8K6Wvsxt1Fjihq5iRNwPsphEBY0n-qipH1mLDRR9ow
-HR: ARENA SPORT 9 HD  ->  https://iptv-epg.org/images/4pMUFDi7r3pZ-UO12j6SYT0PQjgG83H0IsPTU5PC8Ua-0zvFEOr6WALEVqwCx8BoqPl3vSd7GFebDjE6rH4DxPL_HEewpHj10JtL8e0IbhE8uVRHpQ
-HR: AURORA TV HD  ->  https://iptv-epg.org/images/d6Qd5Oevxp5DKNXFmMoAS1XEJyf_9MuH7YmGjF6qWNVNORUCz3qrFC-oXhdxASryTOEphDECMWbuk0HJYokvb9UmYpnxwldSk52z47lnjzoSiw
+HR: ARENA SPORT 1 FHD  ->  https://ssc.a1.hr/ITV/pictures/logos/arena_sport_1.png
+HR: ARENA SPORT 1 HD  ->  https://ssc.a1.hr/ITV/pictures/logos/arena_sport_1.png
+HR: ARENA SPORT 10 HD  ->  https://ssc.a1.hr/ITV/pictures/logos/arena_sport_10.png
+HR: ARENA SPORT 2 FHD  ->  https://ssc.a1.hr/ITV/pictures/logos/arena_sport_2.png
+HR: ARENA SPORT 2 HD  ->  https://ssc.a1.hr/ITV/pictures/logos/arena_sport_2.png
+HR: ARENA SPORT 3 FHD  ->  https://ssc.a1.hr/ITV/pictures/logos/arena_sport_3.png
+HR: ARENA SPORT 3 HD  ->  https://ssc.a1.hr/ITV/pictures/logos/arena_sport_3.png
+HR: ARENA SPORT 4 FHD  ->  https://ssc.a1.hr/ITV/pictures/logos/arena_sport_4.png
+HR: ARENA SPORT 4 HD  ->  https://ssc.a1.hr/ITV/pictures/logos/arena_sport_4.png
+HR: ARENA SPORT 5 FHD  ->  https://ssc.a1.hr/ITV/pictures/logos/arena_sport_5.png
+HR: ARENA SPORT 5 HD  ->  https://ssc.a1.hr/ITV/pictures/logos/arena_sport_5.png
+HR: ARENA SPORT 6 FHD  ->  https://ssc.a1.hr/ITV/pictures/logos/arena_sport_6.png
+HR: ARENA SPORT 6 HD  ->  https://ssc.a1.hr/ITV/pictures/logos/arena_sport_6.png
+HR: ARENA SPORT 7 HD  ->  https://ssc.a1.hr/ITV/pictures/logos/arena_sport_7.png
+HR: ARENA SPORT 8 HD  ->  https://ssc.a1.hr/ITV/pictures/logos/arena_sport_8.png
+HR: ARENA SPORT 9 HD  ->  https://ssc.a1.hr/ITV/pictures/logos/arena_sport_9.png
+HR: AURORA TV HD  ->  https://ssc.a1.hr/ITV/pictures/logos/aurora_tv.png
 HR: AXN ADRIA  ->  https://ssc.a1.hr/ITV/pictures/logos/AXN.png
 HR: AXN SPIN  ->  https://ssc.a1.hr/ITV/pictures/logos/AXN%20Spin.png
-HR: BABY TV  ->  https://iptv-epg.org/images/P38gXKR47-ke2T4Eky0bI9GQGATF5cDPGEXd2X2kjIfpN8-hPwNKqkwJL_U2ZLOPQZOp43kmFeqW485VI8pLXkIav0Nt5GCONVPPNWElLb0
-HR: BBC EARTH HD  ->  https://iptv-epg.org/images/DZuNWqP6ahD6m9gKzPhBHGgDF15-KHiIXl3bJU_PGzCkllPCng3OfhSl3H2b67pw5ERjatTLhfomL-Hz7h_ZhRtAaP5NXz7Rhym74SrV8nmCuA
+HR: BABY TV  ->  https://ssc.a1.hr/ITV/pictures/logos/Baby%20TV.png
+HR: BBC EARTH HD  ->  https://ssc.a1.hr/ITV/pictures/logos/bbc_earth.png
 HR: CINEMA FHD  ->  https://images.open-epg.com/17870.png
-HR: CINEMAX  ->  https://iptv-epg.org/images/G8JOqYUQ9it_P850QALD_ylURFzf5G6vUBmdsBjtJ_VcQcdMHsWfpUnUkoGmscF7plDnYClOTCfjM6c7nCaAAr3Sbs4OS526WfP_LT0PojNY
-HR: CINEMAX 2  ->  https://iptv-epg.org/images/Lucyabdy_c5bfA7D7yjNkzzlt2Q6zykpZgtuIEptw4kGk0jwnssKMZxOKQEFd9_klyE3gb4hwCog4eaf7PyruUaKSx42keOLURzYcdVPB7_S9Q
-HR: CINESTAR FANTASY  ->  https://iptv-epg.org/images/EJHIfgR8uFMsVOh-ohMzh3TV6Fu-n0tz-KgrjGEqqmop5dNjKBsvKmYCImWzRc4JGI-Zr567g5NLF7j7JK9w5ytp03BSUnza5vqezqYK_AcGwFQJZKl_L2UpQw
-HR: CINESTAR PREMIERE 1  ->  https://iptv-epg.org/images/eWkURaBaLsK9XKwPJussDxASCLv067VViHYi4w7jR_Bw2BEZZ4A1-z21n74kUaqCefITUFMFpcNuBzdk21op1muJiW-L5EHMp7NqrDqIEsjRPlc3a-pMPm5infOg
-HR: CINESTAR PREMIERE 1 HD  ->  https://iptv-epg.org/images/eWkURaBaLsK9XKwPJussDxASCLv067VViHYi4w7jR_Bw2BEZZ4A1-z21n74kUaqCefITUFMFpcNuBzdk21op1muJiW-L5EHMp7NqrDqIEsjRPlc3a-pMPm5infOg
-HR: CINESTAR PREMIERE 2  ->  https://iptv-epg.org/images/pjXeh_OdUvJrohkioawm-nOpWcsOxfwS5g8333WoAQKsoDyn7voUF29RcrwXHg1PUW5DSvtrqWpdDvcJ1Vu_h-O4xCNjqUCnmkNvNEkWjyPTTUsZN9DMBcqqKJoq
-HR: CINESTAR TV  ->  https://iptv-epg.org/images/jAx6iDPyFHYYrZH-FS_n69olgfH6aNkmps-ZWnZnRLCflCZKI8YbeSspJLdM-TKQ0IgbhENH0QpH1UXxju949vZbsRerDelIRNJna5wryba04M5nwA
+HR: CINEMAX  ->  https://ssc.a1.hr/ITV/pictures/logos/Cinemax_HD.png
+HR: CINEMAX 2  ->  https://ssc.a1.hr/ITV/pictures/logos/Cinemax-2-HD.png
+HR: CINESTAR FANTASY  ->  https://ssc.a1.hr/ITV/pictures/logos/CineStar_Fantasy.png
+HR: CINESTAR PREMIERE 1  ->  https://ssc.a1.hr/ITV/pictures/logos/CineStar_Premiere1.png
+HR: CINESTAR PREMIERE 1 HD  ->  https://ssc.a1.hr/ITV/pictures/logos/CineStar_Premiere1.png
+HR: CINESTAR PREMIERE 2  ->  https://ssc.a1.hr/ITV/pictures/logos/CineStar_Premiere2.png
+HR: CINESTAR TV  ->  https://ssc.a1.hr/ITV/pictures/logos/CineStar1.png
 HR: CINESTAR TV ACTION  ->  https://images.open-epg.com/8698540.png
-HR: CINESTAR TV COMEDY FHD  ->  https://iptv-epg.org/images/pjKaoqzedacEY0ih0yyeiSqEtUo1rMA9uriCFAzFt0L6nxC1w_JuEEaNrQi3iaDLf_E4dApgwqepRZXD_RXlUEQ7kMNTEdzcMifKv2s5YJF4jn5_KUnPQq-wUnjICKV3gaok
-HR: CINESTAR TV PREMIERE 2 FHD  ->  https://iptv-epg.org/images/pjXeh_OdUvJrohkioawm-nOpWcsOxfwS5g8333WoAQKsoDyn7voUF29RcrwXHg1PUW5DSvtrqWpdDvcJ1Vu_h-O4xCNjqUCnmkNvNEkWjyPTTUsZN9DMBcqqKJoq
+HR: CINESTAR TV COMEDY FHD  ->  https://ssc.a1.hr/ITV/pictures/logos/CineStar_Comedy.png
+HR: CINESTAR TV PREMIERE 2 FHD  ->  https://ssc.a1.hr/ITV/pictures/logos/CineStar_Premiere2.png
 HR: CMC TV  ->  https://ssc.a1.hr/ITV/pictures/logos/CMC%20TV.png
-HR: CRIME AND INVESTIGATION  ->  https://iptv-epg.org/images/yg3CTIE0k2NGDU90cS5FXH_TIaXHMNfaJmzFKTMOc_C1DrycyC1ObsaYF1LQU2-gq1OKhkoVw4j_PfyHR8yxUOz5JI3n8AGCBnZjKEjkC_T-mQb2ncpnhlCuo0wKDJA
-HR: CRIME+ INVESTIGATION  ->  https://iptv-epg.org/images/yg3CTIE0k2NGDU90cS5FXH_TIaXHMNfaJmzFKTMOc_C1DrycyC1ObsaYF1LQU2-gq1OKhkoVw4j_PfyHR8yxUOz5JI3n8AGCBnZjKEjkC_T-mQb2ncpnhlCuo0wKDJA
-HR: CRIME+ INVESTIGATION HD  ->  https://iptv-epg.org/images/yg3CTIE0k2NGDU90cS5FXH_TIaXHMNfaJmzFKTMOc_C1DrycyC1ObsaYF1LQU2-gq1OKhkoVw4j_PfyHR8yxUOz5JI3n8AGCBnZjKEjkC_T-mQb2ncpnhlCuo0wKDJA
+HR: CRIME AND INVESTIGATION  ->  https://images.open-epg.com/7341898.png
+HR: CRIME+ INVESTIGATION  ->  https://images.open-epg.com/7341898.png
+HR: CRIME+ INVESTIGATION HD  ->  https://images.open-epg.com/7341898.png
 HR: CROMAX SELECT 2 HD  ->  -
-HR: DA VINCI FHD  ->  https://iptv-epg.org/images/Ik6QOnGz0ED1HAbiGEOnSL5zBj2IgjbqRWDKb6eMe4aPYCSRu3hBW5Qy63ZnEAC7WHiyhQs92940tbIqBuLB4VoGTVCOTPCCsU8BigDvPV_y
+HR: DA VINCI FHD  ->  https://ssc.a1.hr/ITV/pictures/logos/Da%20Vinci.png
 HR: DALMACIJA  ->  https://ssc.a1.hr/ITV/pictures/logos/TVD-LOGO-140.png
 HR: DIVA  ->  https://ssc.a1.hr/ITV/pictures/logos/DIVA.png
 HR: DOCUBOX  ->  https://ssc.a1.hr/ITV/pictures/logos/Docu%20Box.png
-HR: DOKU TV ADRIA  ->  https://iptv-epg.org/images/OxNFbjUYM4AyFrwLJ17vShgl8eUoaK-QExZ8yWEK7IOnhDk3lX7ymsquRjS8yDDNONKYk61Vw2NW8g7TJtNHc-U4oPhCMQYXDzAO8Mqo4OE
-HR: DOKU TV FHD  ->  https://iptv-epg.org/images/OxNFbjUYM4AyFrwLJ17vShgl8eUoaK-QExZ8yWEK7IOnhDk3lX7ymsquRjS8yDDNONKYk61Vw2NW8g7TJtNHc-U4oPhCMQYXDzAO8Mqo4OE
-HR: DOMA TV HD  ->  https://iptv-epg.org/images/x2Uw7DAJpjWv29zLLEX6kkfY06f1-v1AdrRrWO5yViXs6b9QWiqDTyr7mjqPjqMCk2FF3IpQyrqlZbovISbaPFrI7RP5u9sKt-J0TOo6L1w
+HR: DOKU TV ADRIA  ->  https://ssc.a1.hr/ITV/pictures/logos/Doku%20TV.png
+HR: DOKU TV FHD  ->  https://ssc.a1.hr/ITV/pictures/logos/Doku%20TV.png
+HR: DOMA TV HD  ->  https://ssc.a1.hr/ITV/pictures/logos/DOMA%20HD.png
 HR: FIGHT CHANNEL  ->  https://mediasb2c.mts.rs/medias/44953350fc40339b7fff2e09d4dde6d5.png?context=bWFzdGVyfGNoYW5uZWxzfDQxNjR8aW1hZ2UvcG5nfGFEbGhMMmd6TWk4NE56azJNVGd3TmpFeE1UQXlMelEwT1RVek16VXdabU0wTURNek9XSTNabVptTW1Vd09XUTBaR1JsTm1RMUxuQnVad3xhNjRiYzIzNjY3ZjRkY2NhYTNiYWMxOGVjMmE2MmFhZDc2ZGFjZmVkNTFhMTFlODBkYzhjODc0Zjk4MjlkZThi
 HR: FILM KLUB EXTRA  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/film-klub-extra-rs.png
-HR: FOX CRIME HD  ->  https://iptv-epg.org/images/ixNuzQ7yYBNXgQo0UY8BWFoeyYrBh9SYvaNmy-mSx5LQ_sgLUgx_SCq2Pec0h0GsWNvbA81D9YaTcOigNfavvJz-8m0i_M6N5QlDN4-yjzvZnFc
-HR: FOX MOVIES  ->  https://iptv-epg.org/images/VZwofcvkEOmKhyroE26QJEuWP2UNdpxCDh1VTl2vfPXPmozMDScrCLhVuXeOBAgU429KTTmVfusBN7mI9IsOId0R_glCieJo5Bmih3WEjuq6J41N
+HR: FOX CRIME HD  ->  https://ssc.a1.hr/ITV/pictures/logos/fox_crime.png
+HR: FOX MOVIES  ->  https://ssc.a1.hr/ITV/pictures/logos/disney_fox_logo_140x67_20230915_movies_crno.png
 HR: HAJDUK TV  ->  -
 HR: HAJDUK TV FHD  ->  -
-HR: HBO 3 HD  ->  https://iptv-epg.org/images/dwa0T5E0YESdvoJjEk9Hsg9LEQJmXLqS2UcZT_8Z3Ro2Tn8yMKxbbNYrAe6E_hnMetz_FF1yxpFh10HYVfzdkJdGIg1rYSz-YlCIz4yB
-HR: HBO HD  ->  https://iptv-epg.org/images/fOQsGBreAuiQkQLScZJ9yaCyWKAIYPNSOXcIqRXLUpgDBIP-nsPccEudvAkf2s1QBdqRdl7nYWflyFxO35dfEMEVrmsg4vglNd1tFuY
-HR: HISTORY HD  ->  https://iptv-epg.org/images/kfXVOxtIBxAKFbASmB3rl9hDek6x-Jtwkd-fZtSw5uheM4qHSag8PeDWC_IaO5O5jFe4591aiaohUDU1O7s2xDcY_ukfYrqTk4ZlW_-OQZJX
-HR: HRT 1 FHD  ->  https://iptv-epg.org/images/pWClAt5vOTajncnWsZs6Vyf6Wq6htDniJlrwVGbnKTOIyFf5J0Dshi39DbHK70YyG0QPT1ooIj_MMlm_Vw2Foubn3PqqWsL3jIIzQk6S
-HR: HRT 1 HD  ->  https://iptv-epg.org/images/pWClAt5vOTajncnWsZs6Vyf6Wq6htDniJlrwVGbnKTOIyFf5J0Dshi39DbHK70YyG0QPT1ooIj_MMlm_Vw2Foubn3PqqWsL3jIIzQk6S
-HR: HRT 2 FHD  ->  https://iptv-epg.org/images/D2eGPF0zoPkIb2Rm9Y1COzqvaLFCNN7LQv5Us_mh_RUmy0ZxpAr4-WVP6nqfW7T8r-PVT4fkcgYS0flkmEzpZR5-9mp_TPyP0U0NXayY
-HR: HRT 2 HD  ->  https://iptv-epg.org/images/D2eGPF0zoPkIb2Rm9Y1COzqvaLFCNN7LQv5Us_mh_RUmy0ZxpAr4-WVP6nqfW7T8r-PVT4fkcgYS0flkmEzpZR5-9mp_TPyP0U0NXayY
-HR: HRT 3 FHD  ->  https://iptv-epg.org/images/Xe5g7tbHGj1lpM0iKyA6TxjCioA0x4YsnK8-AGosombz70E7bnFRO1b5mnFCvF-swg2umK0wTHY9CveOckJ4UILAa1cVMEA74SB99nDm
-HR: HRT 3 HD  ->  https://iptv-epg.org/images/Xe5g7tbHGj1lpM0iKyA6TxjCioA0x4YsnK8-AGosombz70E7bnFRO1b5mnFCvF-swg2umK0wTHY9CveOckJ4UILAa1cVMEA74SB99nDm
-HR: HRT 4 FHD  ->  https://iptv-epg.org/images/5jNdYFNf1T8-0JwW9QGwIvzHpLUuE2JgEDKL4EzTqadXTt0p1w-uJTPiqaugckOQxWGcQaIyoqaLyeoYXzlgIHPK7lEI7XWsv838A_DR
-HR: HRT 4 HD  ->  https://iptv-epg.org/images/5jNdYFNf1T8-0JwW9QGwIvzHpLUuE2JgEDKL4EzTqadXTt0p1w-uJTPiqaugckOQxWGcQaIyoqaLyeoYXzlgIHPK7lEI7XWsv838A_DR
+HR: HBO 3 HD  ->  https://ssc.a1.hr/ITV/pictures/logos/HBO3%20HD.png
+HR: HBO HD  ->  https://ssc.a1.hr/ITV/pictures/logos/HBO%20HD.png
+HR: HISTORY HD  ->  https://ssc.a1.hr/ITV/pictures/logos/History%20HD.png
+HR: HRT 1 FHD  ->  https://ssc.a1.hr/ITV/pictures/logos/HRT1.png
+HR: HRT 1 HD  ->  https://ssc.a1.hr/ITV/pictures/logos/HRT1.png
+HR: HRT 2 FHD  ->  https://ssc.a1.hr/ITV/pictures/logos/HRT2.png
+HR: HRT 2 HD  ->  https://ssc.a1.hr/ITV/pictures/logos/HRT2.png
+HR: HRT 3 FHD  ->  https://ssc.a1.hr/ITV/pictures/logos/HRT3.png
+HR: HRT 3 HD  ->  https://ssc.a1.hr/ITV/pictures/logos/HRT3.png
+HR: HRT 4 FHD  ->  https://ssc.a1.hr/ITV/pictures/logos/HRT4.png
+HR: HRT 4 HD  ->  https://ssc.a1.hr/ITV/pictures/logos/HRT4.png
 HR: HRT 5 HD  ->  -
 HR: HRT DOCUMENTARY FHD  ->  -
-HR: HRT INT HD  ->  https://iptv-epg.org/images/UGwd93OGhUM4mrZoJpVaWTB-v7TlNohRd6A5owUHvgS_MfAgNQqNsuEQrZ2RXB-M-Vg5e-_mMS928ohsYOfOkJoxV8cV6nGoLuxAqoocIU0_HXdA
-HR: INVESTIGATION DISCOVERY XTRA HD  ->  https://images.open-epg.com/17950.png
-HR: JABUKA TV  ->  https://iptv-epg.org/images/BrnTJMzaGGuNNNMhL5k_vp-7m3e6jzjuCPxHKfHBU8vmd3vhKpqtcNtW_RDV65aH7pb6ZAh5oVHJO2zPhPDDtN2_yIoBtvbz85TcT4tw40uw7w
-HR: JADRAN TV  ->  https://iptv-epg.org/images/fMBEihEMMT-UGdacPtpu_QW9IfWvaS9OeqHIAXw1iWXwQsJaOMLnq6Y2RjQVPPy6KIH0SlqxdeY95cXClfFzf9YWGMyWpPldkxnhxiR8G14KDA
-HR: JADRAN TV FHD  ->  https://iptv-epg.org/images/fMBEihEMMT-UGdacPtpu_QW9IfWvaS9OeqHIAXw1iWXwQsJaOMLnq6Y2RjQVPPy6KIH0SlqxdeY95cXClfFzf9YWGMyWpPldkxnhxiR8G14KDA
-HR: JUGOTON TV  ->  https://iptv-epg.org/images/MxR8nJtHoGD9ONjXvIcC7h3A3AClbTYYTvG9u7x0ysmNqjWfWICI6znpYkq6mg8pskSWikgDExouT0tzBFopvHPi-iYd3cqlJkZE-XJ9H4ty
-HR: KANAL RI  ->  https://iptv-epg.org/images/oLt34bzvNuJl37m8u5DAdXaIU0xxDmY_BUhc18BPSMvV7ezCL8LOO4byPUb2sz4R_cGH7ygdO5IfNq3vW18PcwmnQWkoKipdH3SBsdUFpSX9
-HR: KINO TV HD  ->  https://iptv-epg.org/images/0XMF5f_oNQfpLQ8nyBLriNY9pzlGfAY3Vr7OUo9rwNQY_G59AZusT2kuIbYnA5evqghe2BPsbAmBqAvZs-vPb0jtUrnrBh4zpfUHitl_sq4
-HR: KLAPE I TAMBURE  ->  https://iptv-epg.org/images/bfl4zGLsYFdOtBCYPV_wlYkL37oofeHdQRMoJC5eFgi834en86TQdY6CH6abcHygf8w3TwEmw3lqhbPpczFz0rBpjzwu19oDP12Z4LeTFtG2oSGBboO_
-HR: KLAPE I TAMBURE TV FHD  ->  https://iptv-epg.org/images/bfl4zGLsYFdOtBCYPV_wlYkL37oofeHdQRMoJC5eFgi834en86TQdY6CH6abcHygf8w3TwEmw3lqhbPpczFz0rBpjzwu19oDP12Z4LeTFtG2oSGBboO_
-HR: KLASIK TV FHD  ->  https://iptv-epg.org/images/ZacQSJuh1J8o0GQTdWAS2K_Vhxsw9az1QnU4h_mxAwZWK5JMWv8aEL68I9Y5AbaUVALqPf0EO_cf2NtXbvyOGpwpSfO7Y9BDHBXfBczJ6RDXeA
-HR: KLASIK TV HD  ->  https://iptv-epg.org/images/ZacQSJuh1J8o0GQTdWAS2K_Vhxsw9az1QnU4h_mxAwZWK5JMWv8aEL68I9Y5AbaUVALqPf0EO_cf2NtXbvyOGpwpSfO7Y9BDHBXfBczJ6RDXeA
+HR: HRT INT HD  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/hrt-int-hr.png
+HR: INVESTIGATION DISCOVERY XTRA HD  ->  https://images.open-epg.com/nologo.png
+HR: JABUKA TV  ->  -
+HR: JADRAN TV  ->  https://ssc.a1.hr/ITV/pictures/logos/TV%20Jadran.png
+HR: JADRAN TV FHD  ->  https://ssc.a1.hr/ITV/pictures/logos/TV%20Jadran.png
+HR: JUGOTON TV  ->  https://ssc.a1.hr/ITV/pictures/logos/Jugoton.png
+HR: KANAL RI  ->  https://ssc.a1.hr/ITV/pictures/logos/Kanal%20Ri.png
+HR: KINO TV HD  ->  https://ssc.a1.hr/ITV/pictures/logos/Kino%20TV.png
+HR: KLAPE I TAMBURE  ->  https://ssc.a1.hr/ITV/pictures/logos/klape_i_tambure_tv.png
+HR: KLAPE I TAMBURE TV FHD  ->  https://ssc.a1.hr/ITV/pictures/logos/klape_i_tambure_tv.png
+HR: KLASIK TV FHD  ->  https://ssc.a1.hr/ITV/pictures/logos/klasik_tv.png
+HR: KLASIK TV HD  ->  https://ssc.a1.hr/ITV/pictures/logos/klasik_tv.png
 HR: KREATOR TV FHD  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/kreator-tv-hr.png
-HR: LAUDATO TV  ->  https://iptv-epg.org/images/zFUug9YqbYvygKKPGiefmhos3ZpWfcE1pxUw54shSEnHF_b_JA3eN01g-Ore9lR8xktqJ7tLVOUWoMPRvmwdBaYbRLA9APVcIui3ZacX7UQdj4s
-HR: LIBERTAS TV HD  ->  https://iptv-epg.org/images/pHchNIRbdtqSq9id1BEHwDmqT-Pa3qEbPp45jUYYmpqswVu0iMBk0EBh0B5iUPkpQHDuJ4z7ldomgnvVtlGs3PUhcDW3an_efp3VXqCiLpazLmKR
-HR: LOV I RIBOLOV  ->  https://iptv-epg.org/images/tepsjAeZbv_snjbNeCrIKnfbU0dnIAIuk9fuT0GVkHiNfNGj_FJKKi9RfyoWCvDorGj7yXlRYoSb3HgGGJu0pm7orjfuOvxaxzy1phU0L9iv2Orm
-HR: M1 FILM GOLD HD  ->  https://iptv-epg.org/images/AGQYaVcaLycT4flWMyqrvKhnv-YAtVxIqvGArB707fYD0exrm3Du0qjTYcw_TdWHwhPlju-zGj2O4RXs6dueaD5kOMgThWEoBuzst9LiBl4
-HR: M1 FILM HD  ->  https://iptv-epg.org/images/9WfPFGSgoH4ffVs87JTxRBYU1kFPro-e21VtG1Z84mlEYe6ViiimZVyWd16EdICkYldnAl2lGDr02IGzekwcBN5LQZeT93e9dwzq48EPriE
-HR: MARY TV MEDJUGORJE HD  ->  https://iptv-epg.org/images/vIPmQiUw5ouSxVMX3wFa7wlo_xuIOM5hz7Lg_YY8Pl8GhAPKF-wuxTVbKL0np-ND7cyKukW-rIGkqn3jrc73kXifMLk7rwkdCFR0ofa0mgD1Mvp3af-GKXq-VdnOEA
-HR: MAX SPORT 1 FHD  ->  https://iptv-epg.org/images/ZPOsZezcBLxSedcc8y7u_yH0SjgUaHHQwK4s9hOrLYmTQRqBPwzlko7dtWD_1DL9i7sTUBgtvqEr6GeZ6PZkRH4IfajtW7bDciWGNrRaXzr-B1Y
-HR: MAX SPORT 1 HD  ->  https://iptv-epg.org/images/ZPOsZezcBLxSedcc8y7u_yH0SjgUaHHQwK4s9hOrLYmTQRqBPwzlko7dtWD_1DL9i7sTUBgtvqEr6GeZ6PZkRH4IfajtW7bDciWGNrRaXzr-B1Y
-HR: MAX SPORT 2 FHD  ->  https://iptv-epg.org/images/jxF543_ikDz2blkncy2JCTdPKMZ4XgkxCJwvXfPDNQ5Sqt7kXS_3oB3oCdWMQ2gN-n5xyGzq1Do5-I1Z0XBbEElgsZXG2J9Lk8irDA-Ugax4Yg4
-HR: MAX SPORT 2 HD  ->  https://iptv-epg.org/images/jxF543_ikDz2blkncy2JCTdPKMZ4XgkxCJwvXfPDNQ5Sqt7kXS_3oB3oCdWMQ2gN-n5xyGzq1Do5-I1Z0XBbEElgsZXG2J9Lk8irDA-Ugax4Yg4
-HR: MREZA ZAGREB  ->  https://iptv-epg.org/images/vryEjaLRrgCJs9Y46yN6urni3N0fjEXx1PBkz35oLxtorqJtEJI3f7ZwTqBI3r1_InWe8XYMUiKB75ISkxAqHiIoaFf_jc9c-TlYHEC_k-DliIls8WzL
-HR: N1 HD  ->  https://iptv-epg.org/images/2kmfgCnGz2kL2lfsZZBgEGA2ehE8_UNKEtH9Oe58xxm4ggB_1BSK9Pp0H_8sKvrb_5uj1yjfkb7psimDoK4qcwoMpxa28q-oz2cT8A
-HR: NARODNA TV  ->  https://iptv-epg.org/images/LSdNj78V9F8OWmDe0dTCHuNvs7axDTGpy5juv5r3Dz8alICC-NFCPoQt66uCaz-30LgijPQpUOpjJBRNSCO1vhj3D_Dg8dj0IKHG2tBlNHHBHA
-HR: NATIONAL GEOGRAPHIC  ->  https://iptv-epg.org/images/NnKmgbkbLOgR-qap1a18kXu9MUB4Dq69J3spOtVXQFY3BTFch2t8g4bGkDTvEed4Rhluy-6hL6fXnqO7K7k84_ACFEIM-jKNWIPqJwzLRQ_jduYvrObzZQwEGsQ
+HR: LAUDATO TV  ->  https://ssc.a1.hr/ITV/pictures/logos/Laudato%20TV.png
+HR: LIBERTAS TV HD  ->  https://ssc.a1.hr/ITV/pictures/logos/Libertas%20TV.png
+HR: LOV I RIBOLOV  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/43/37/loviribolov_logo_16_9_light_384x216_0be73ccb_add0_46fd_b424_6103a5055a71.png
+HR: M1 FILM GOLD HD  ->  https://images.open-epg.com/7341959.png
+HR: M1 FILM HD  ->  https://images.open-epg.com/7341958.png
+HR: MARY TV MEDJUGORJE HD  ->  -
+HR: MAX SPORT 1 FHD  ->  https://images.open-epg.com/7341961.png
+HR: MAX SPORT 1 HD  ->  https://images.open-epg.com/7341961.png
+HR: MAX SPORT 2 FHD  ->  https://images.open-epg.com/7341962.png
+HR: MAX SPORT 2 HD  ->  https://images.open-epg.com/7341962.png
+HR: MREZA ZAGREB  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/mreza-tv-zagreb-hr.png
+HR: N1 HD  ->  https://images.open-epg.com/7341974.png
+HR: NARODNA TV  ->  https://images-web.ug-be.cdn.united.cloud/2024/07/29/09/44/33/xl_light_480x270.png
+HR: NATIONAL GEOGRAPHIC  ->  https://ssc.a1.hr/ITV/pictures/logos/National_Geographic.png
 HR: NICK JR  ->  https://ssc.a1.hr/ITV/pictures/logos/nick_jr.png
-HR: NICK JUNIOR  ->  https://iptv-epg.org/images/4RV-DFBnF-KGlRJQ5pUqQ8aY1YHbbhedu0IndGClYVaiI4Rg4XImH33YgNSrhS1W_VSkUsff6o1ITtW8JxtdPQdj3wHLGisweuvF3w9OlLyJ7cqtHWf-0IQ
+HR: NICK JUNIOR  ->  -
 HR: NICKELODEON  ->  https://ssc.a1.hr/ITV/pictures/logos/Nickelodeon.png
 HR: NOVA CINEMA  ->  https://ssc.a1.hr/ITV/pictures/logos/Nova%20Cinema.png
 HR: NOVA FAMILY  ->  https://ssc.a1.hr/ITV/pictures/logos/Nova%20Family.png
-HR: NOVA TV FHD  ->  https://iptv-epg.org/images/Hs38U5WAnmiiqXo7QjjujG7fEorE2tN53TnSt_zGJASTsHfJWJKvf65L9WpmQolvlMrOMttFWzz6__U29jQgBxsFNxvTnmyRdWT8G7okyPk
-HR: NOVA TV HD  ->  https://iptv-epg.org/images/Hs38U5WAnmiiqXo7QjjujG7fEorE2tN53TnSt_zGJASTsHfJWJKvf65L9WpmQolvlMrOMttFWzz6__U29jQgBxsFNxvTnmyRdWT8G7okyPk
+HR: NOVA TV FHD  ->  https://ssc.a1.hr/ITV/pictures/logos/Nova%20HD.png
+HR: NOVA TV HD  ->  https://ssc.a1.hr/ITV/pictures/logos/Nova%20HD.png
 HR: NOVA WORLD HD  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/nova-world-hr.png
-HR: OSJECKA TV  ->  https://iptv-epg.org/images/ao-62jNQ1wMeR9ZeAE2L8XcRl5j5OTvgr6ol2NRqfdTm7y2BThIldjHFKObbYMPDPDicEvrDAq6jNy2TRm7MujK6sxT2pH6L-ULMiuNWY_Cf8ks
-HR: OTV  ->  https://iptv-epg.org/images/sgir13EW7-wApXyTiBjDL0CSo-gYy__tReK13C296XSO_1qN9Vpb1vqu6rQAfvzrjBfwMdGjnEun57fRWZGsxp597XmQN9WYwU8JELM
+HR: OSJECKA TV  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/osjecka-hr.png
+HR: OTV  ->  https://ssc.a1.hr/ITV/pictures/logos/otv.png
 HR: PIKABOO  ->  https://images.open-epg.com/10132764.png
 HR: POLJOPRIVREDNA TV  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/poljoprivredna-tv-hr.png
 HR: POSAVINA TV HD  ->  https://images.open-epg.com/10115407.png
-HR: RTL 2 HD  ->  https://iptv-epg.org/images/GxC_WitnX659Fc2a8oiI8u-6DNzaxE4eELWzeFqE8vUmlmZBfdoCoEDSh_FIW-urFW9lyKDd0BGOZGef1bzQX0gjnm0tXqUAoN2fYC3B
-HR: RTL ADRIA  ->  https://iptv-epg.org/images/wLW7uXbD5dicQsiGskCFvIRdjkElau6_fPWD5EI60__PDst0TZFtGJn1X8tYBBTI2gcn9WYq_lGASPcNFAD2-o7xVv4EDESvPJYYZWw
-HR: RTL CRIME HD  ->  https://iptv-epg.org/images/rpbAymtKTxFMtzQ78YVkQUCHi4cmwDrOUIUfpLn4z_RBhszNOjs7ccJ0TVI_Ar1iwR3aKMNttDkFgDGVKgUgpCHKQ1kKnvzqi10y6NmmZJtObw
-HR: RTL FHD  ->  https://iptv-epg.org/images/wLW7uXbD5dicQsiGskCFvIRdjkElau6_fPWD5EI60__PDst0TZFtGJn1X8tYBBTI2gcn9WYq_lGASPcNFAD2-o7xVv4EDESvPJYYZWw
-HR: RTL HD  ->  https://iptv-epg.org/images/wLW7uXbD5dicQsiGskCFvIRdjkElau6_fPWD5EI60__PDst0TZFtGJn1X8tYBBTI2gcn9WYq_lGASPcNFAD2-o7xVv4EDESvPJYYZWw
-HR: RTL KOCKICA HD  ->  https://iptv-epg.org/images/jsmsrrGPz05ovdhbQfBrqJmVHT9ZZEDenVkD5XD8ZuBUaBWrHqlFSz2fZ5hrfgypojBmMCJB3z3Q9yEt79kXo5TUqxJcA6sfn7clMF-_IZh-lHgd
-HR: RTL LIVING HD  ->  https://iptv-epg.org/images/vg5Bhsheg3XjfO0i9kiiS9MDrbnjfGIrCrWYOiQWYNX9ZvcT42cQ9RVgI2EIPqkqIz3k0yJ2V2LaMmubKm3F1tX79aPbXe7t5IGQf8uiLe0w3Yg
-HR: RTL PASSION HD  ->  https://iptv-epg.org/images/diF2e1z9OXKioG1I8PYdw6k8gB14_8GoId9XEM76B2javN2N-akRmup-pkK9hPY9gBubTcqJLhCtKh-aZgwM1hjGLEb2w0jT9henQbxNpHdSRkiu
-HR: SB TV HD  ->  https://iptv-epg.org/images/PA45glCV_lj56p_vthJxb7fJj-Npxi8thx3rohrgwjrtonFgf91ExNiUgSqhFGc45SSyCsTwUa6TkkG1dv79ydg3Xqlnnr4Yxp6xOqhr
+HR: RTL 2 HD  ->  https://ssc.a1.hr/ITV/pictures/logos/rtl_2_200x100.png
+HR: RTL ADRIA  ->  https://ssc.a1.hr/ITV/pictures/logos/rtl_200x100.png
+HR: RTL CRIME HD  ->  https://ssc.a1.hr/ITV/pictures/logos/rtl_crime_720x264.png
+HR: RTL FHD  ->  https://ssc.a1.hr/ITV/pictures/logos/rtl_200x100.png
+HR: RTL HD  ->  https://ssc.a1.hr/ITV/pictures/logos/rtl_200x100.png
+HR: RTL KOCKICA HD  ->  https://ssc.a1.hr/ITV/pictures/logos/kockica1.png
+HR: RTL LIVING HD  ->  https://ssc.a1.hr/ITV/pictures/logos/rtl_living_720x264.png
+HR: RTL PASSION HD  ->  https://ssc.a1.hr/ITV/pictures/logos/rtl_passion_720x264.png
+HR: SB TV HD  ->  https://ssc.a1.hr/ITV/pictures/logos/sbtv.png
 HR: SCIFI FHD  ->  https://ssc.a1.hr/ITV/pictures/logos/SCIFI_Poland_Logo_HORIZONTAL_BW.png
-HR: SLAVONSKA TV HD  ->  https://iptv-epg.org/images/gmeCc7JrSNRyudJx7VcUGPjAn-Zm8OpHQOmG8tZXhaEwdwsCSpnDCxiUHD9pwa_J3K6sNbee4KiC_fh7Yedr5qq9EKpH0RaVKl36BsZDXbfAjH6P_Q
-HR: SPORT KLUB 1 FHD  ->  https://iptv-epg.org/images/PjIGNuRQ6fad5NJSZPTHoMyYh6_lanLyI_5UbFx1njRoKfIPbLwuVprmM4QHUgYWaiKLWmaNzeRxKwjaG_7p0AEYYT3Ie0-XrjFhXY5-_SW3xQ-Q
-HR: SPORT KLUB 1 HD  ->  https://iptv-epg.org/images/PjIGNuRQ6fad5NJSZPTHoMyYh6_lanLyI_5UbFx1njRoKfIPbLwuVprmM4QHUgYWaiKLWmaNzeRxKwjaG_7p0AEYYT3Ie0-XrjFhXY5-_SW3xQ-Q
-HR: SPORT KLUB 2 FHD  ->  https://iptv-epg.org/images/iL6cRocGwrMxiVEJqL_KOrbJdE2LqPz1Y9vT2Jkx0H6Kxnie7yw0jCOq4wmhnJsKBX5phezX94ihqXzEd35SbnFM0SCCGdVQSbaRocCuev21mqri
-HR: SPORT KLUB 2 HD  ->  https://iptv-epg.org/images/iL6cRocGwrMxiVEJqL_KOrbJdE2LqPz1Y9vT2Jkx0H6Kxnie7yw0jCOq4wmhnJsKBX5phezX94ihqXzEd35SbnFM0SCCGdVQSbaRocCuev21mqri
-HR: SPORT KLUB 3 FHD  ->  https://iptv-epg.org/images/17meR9Dwmdvag-KeC1eRcJFkWbNh-aMOQ-6ayeEyMFhEI0u4UIfsnZYosiK446aPb33X4uNZ3Za_cVYW8ZQqRnVkDuYA50EFXSJwDn4TgbC6L99E
-HR: SPORT KLUB 3 HD  ->  https://iptv-epg.org/images/17meR9Dwmdvag-KeC1eRcJFkWbNh-aMOQ-6ayeEyMFhEI0u4UIfsnZYosiK446aPb33X4uNZ3Za_cVYW8ZQqRnVkDuYA50EFXSJwDn4TgbC6L99E
-HR: SPORT KLUB 4 HD  ->  https://iptv-epg.org/images/xc0A5PnwlzCrFuU_7kaZGHd8tvm5opv3RzmGde7kRb0_aljBOX6hHelW-79Sij6B57Z0W50Dwidql3ukrQWqt0_SAxLqCf-9N01xSKB4LgtXcH0V
-HR: SPORT KLUB 5 HD  ->  https://iptv-epg.org/images/xCiQ7KJw_JEf59NKKmQn3BwHyLKJM8KzdmGE6XS1Rq4cp8bwvq7CCI_n1dI6SFfiu9HfmfjB6bacd3wiuLzat3hA4F7hNDF7PLgDGr7nZoW1AHR4
-HR: SPORT KLUB 6 HD  ->  https://iptv-epg.org/images/FDNVp_QlWQZR2kUm1UjlcAqEcxUf0trd_LTjSPx3KaoYFVOyxcPKj4ZlVY0dQcwdRCsOGSFlFC4zTjqO-zlNm1vYyzFnKHhiTgrhEPMs58MJP0GZ
+HR: SLAVONSKA TV HD  ->  https://ssc.a1.hr/ITV/pictures/logos/slavonska_tv.png
+HR: SPORT KLUB 1 FHD  ->  https://images.open-epg.com/18934428.png
+HR: SPORT KLUB 1 HD  ->  https://images.open-epg.com/18934428.png
+HR: SPORT KLUB 2 FHD  ->  https://images.open-epg.com/18934429.png
+HR: SPORT KLUB 2 HD  ->  https://images.open-epg.com/18934429.png
+HR: SPORT KLUB 3 FHD  ->  https://images.open-epg.com/18934430.png
+HR: SPORT KLUB 3 HD  ->  https://images.open-epg.com/18934430.png
+HR: SPORT KLUB 4 HD  ->  https://images.open-epg.com/18934431.png
+HR: SPORT KLUB 5 HD  ->  https://images.open-epg.com/18934433.png
+HR: SPORT KLUB 6 HD  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-6-hr.png
 HR: SPORTSKA TV  ->  https://ssc.a1.hr/ITV/pictures/logos/sptv.png
 HR: TELEVIZIJA DALMACIJA  ->  https://ssc.a1.hr/ITV/pictures/logos/TVD-LOGO-140.png
 HR: TLC HD  ->  https://ssc.a1.hr/ITV/pictures/logos/tlc.png
 HR: TNT KIDS TV HD  ->  -
 HR: TRAVEL CHANNEL  ->  https://images.open-epg.com/18075.png
-HR: TREND  ->  https://iptv-epg.org/images/6SDwyUiPZHGsJqWDnGcHAN5ysRY5KSulQlpNz4dN6jOU2Mo4XuQltsDcAVcgvP5YpVOTNuw9cgB-Ndl9EgIwoNrTHbg_aDul9eBE9cG0Hn0b
+HR: TREND  ->  https://ssc.a1.hr/ITV/pictures/logos/trend_tv.png
 HR: TREND TV KARLOVAC  ->  -
 HR: TV BANOVINA HD  ->  https://images.open-epg.com/10132750.png
 HR: TV DALMACIJA HD  ->  https://ssc.a1.hr/ITV/pictures/logos/TVD-LOGO-140.png
 HR: TV DUBROVNIK  ->  -
 HR: TV TREND KARLOVAC  ->  -
-HR: TV ZAPAD HD  ->  https://iptv-epg.org/images/FwAsMkUZ4hP-tQX9AfKS6X5dyo6sPac1aH5KDpH1pAVOawgFFlJH4Ah-E9Zx0hri4H2nIPyoraaulpaf2mkZvDpiawvUNH45cSyR0c8QUbfJ
+HR: TV ZAPAD HD  ->  https://ssc.a1.hr/ITV/pictures/logos/TV%20Zapad.png
 HR: UFC FIGHT PASS  ->  -
-HR: VIASAT EXPLORE  ->  https://iptv-epg.org/images/UBVfY9ZAavfswIr2tPtkKw_YNBsilgDU4FBmctjNnt1_BB6Tc3MSCfxnmqyfEVbCxXRlsYGfYaMbOkUe0LSvXHr1YsPPXNZ2Vy2Sh1GO4PKNJ9dgZdUC
-HR: VIASAT HISTORY  ->  https://iptv-epg.org/images/VnCLLyRsoUaIWAMbtohNygPnG0aXBJMWHWv4t_UrhTrkR1PNZDV2PioHHG4dvjOLcxIzzPfKVc5Qm8dop3ShAOemBZN1fybfrlMSnsckbpacI8U660ED
-HR: VIASAT NATURE  ->  https://iptv-epg.org/images/VzYMhHIMjdSVv0BTY7xtbRtmAgNJzuQM4GZLKambudORjc_Pfkdtop2hHnL29HK_guJttqNxEOHqe8F8CreQF5wCtsbMfsITIpm7Fs-GtlaNSxCBI18
-HR: VINKOVACKA TV  ->  https://iptv-epg.org/images/Y1Ij-OfQl9N8NvHC1973kQcRGHTm5INAb6YDqnp8_uB8eIClnVrQO0pZDxneGfoy6sGDL70Q8Rct97KBqGCrBJU42wT-Of1h-FYS6n2kYK39CHmczukj4g8
-HR: VTV  ->  https://iptv-epg.org/images/-F_ELMn6TpXWmiI2wa8Lsskoj-4PuL2IeZyM5bwdNymhUJBd9MPZMnO7AGC0GueNSaYelQIy35KWTJtRHs6x0-BF3biREX0Z4bgYVSs
-HR: VTV VARAZDIN HD  ->  https://images.open-epg.com/7241.png
+HR: VIASAT EXPLORE  ->  https://ssc.a1.hr/ITV/pictures/logos/viasat_explore.png
+HR: VIASAT HISTORY  ->  https://ssc.a1.hr/ITV/pictures/logos/Viasat%20Explorer.png
+HR: VIASAT NATURE  ->  https://ssc.a1.hr/ITV/pictures/logos/Viasat%20History.png
+HR: VINKOVACKA TV  ->  https://ssc.a1.hr/ITV/pictures/logos/plava_vinkovacka.png
+HR: VTV  ->  https://mediasb2c.mts.rs/medias/d485f49abe0efbcd82beeb421e30ddb6.jpg?context=bWFzdGVyfGNoYW5uZWxzfDE0MDE2fGltYWdlL2pwZWd8YUdSaUwyZzVaaTg0TnprMk1UZzBNREU0T1RjMEwyUTBPRFZtTkRsaFltVXdaV1ppWTJRNE1tSmxaV0kwTWpGbE16QmtaR0kyTG1wd1p3fDRmYTlmMDI2MDA3ODcyMjEyYWQ1YjAyNDMyNjRiNGU0YTVlMDAxNjQxYjFlNzAxNzQzMTdkZTRiMDc4NGU0OTE
+HR: VTV VARAZDIN HD  ->  https://ssc.a1.hr/ITV/pictures/logos/VTV.png
 HR: YU FOX LIFE  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/fox-life-hr.png
-HR: YU HBO 2 HD  ->  https://iptv-epg.org/images/dNg6r1p8PFC6p73y9sd5tAd2qhjoBSrcMkjfZbF3M1dvz_EnJKi7nGG5CqByqqop4T3CcLbq3zCz7AYc-Ap4o9I0GbeNna25j1QHBXKh
-HR: YU MINI TV  ->  https://iptv-epg.org/images/gyb8sfTMrMQBE6tjYvrF4aofL-lemUsYAP8_VuoVODyaJOUU3nF1dZT7R020nEftlp2ge_AUh8v-DKqlPYnSrYTq36KtS8OjPol4J3A8xyw
-HR: Z1 HD  ->  https://iptv-epg.org/images/HbklF4peuPt3ZnIkXCHIJ-WvH14xJ-Fr_Cwd0fs3XjhS50aCWppidqXU499btmBsiqYBoUu-2k1epXJTthQIuv9i2xjaAkXcbwrvIA
-HR: ZDRAVA TV  ->  https://iptv-epg.org/images/RgmQWvLjFxuMi5AJxVR9KjgPra3R_WaOoXCG3gORHYlaEL2uU238l6ReeFmmeRpHQhFGQXitxe84ZtR1JvPxVHSO-arKM77FG8vMNVYmNiP91g
+HR: YU HBO 2 HD  ->  https://ssc.a1.hr/ITV/pictures/logos/HBO2%20HD.png
+HR: YU MINI TV  ->  https://ssc.a1.hr/ITV/pictures/logos/Mini%20TV.png
+HR: Z1 HD  ->  https://ssc.a1.hr/ITV/pictures/logos/Z1.png
+HR: ZDRAVA TV  ->  https://images.open-epg.com/7342091.png
 MN: ADRIA TV  ->  https://images.open-epg.com/10115512.png
 MN: ETV  ->  https://images.open-epg.com/nologo.png
 MN: GRADSKA TV  ->  https://images.open-epg.com/10115271.png
@@ -383,120 +383,120 @@ MN: TV BUDVA  ->  https://images.open-epg.com/10115507.png
 MN: TV TEUTA  ->  -
 MN: VIJESTI TV HD  ->  https://images.open-epg.com/nologo.png
 MN: WOW TV  ->  -
-RS: 24 KITCHEN HD  ->  https://iptv-epg.org/images/awFt7X2sKg4GJyB6FVZDDrVKlftn6jn-S-r5jrOAVe6fyEh9gCn2Mm77YLfZwbPsr7qVb8afSIooa7WjyhG3lcMDEoSznuYIzuxiseIL4oXAjQ
-RS: AGRO TV  ->  https://iptv-epg.org/images/-JCde1cHWppXDm8l_TOW0ovZ6FMlebQ3JXq2yMyV5_sRcJTUrJAOzdc3RRrkPC0cX-nkRTs1h2YPx5EghrDQk6JTWvwXyM77ufLj7sygyg
-RS: ALJAZEERA  ->  https://iptv-epg.org/images/ahuYKEJhS1BaeqSaURnZuaTxRcFP_xRxRYoVNxFiuaXFazSHxj7-HcuOKk3xX6NwBFQIcmcfcyhGk6IL0N4m5FnTePmmf2cQyHKkQy_sjWMjT2g
-RS: AMC HD  ->  https://iptv-epg.org/images/xc0CVMgIoUYhsNYPpy6Wv5uUHRhEZ7Hcs1-R71igztLadj4fCqxZjzhe56d095N4f4nTBLHwa295AsohWEkfTF9VbieNntyQsL8IAQ
-RS: ANIMAL PLANET HD  ->  https://iptv-epg.org/images/vRVNCp-pCceSLh9Q7qC6E7odShdPijaYuae6YWOXBC5PfoV0dklxQY48Csr9JBKZOpcIdjdZGMZ7_rGzvIUTvf7d7IgmopI_XkabEyeQvdgSgoYNRA
-RS: ARENA ESPORT  ->  https://iptv-epg.org/images/rD4zTVnF63JcepJkkNXCOwbTsgDfBzGhs6ASJO2vmMfR4yEOCyoAvszj1ZaT_lrsi6ZdZ1ronSG_x_qJ-TrEOlG9hLU1GIu1etSy9dyNDglE-xo8
-RS: ARENA FIGHT HD  ->  https://iptv-epg.org/images/QgJWCvu1uTitDOPlh_kI7fVMwHs2vycfc1e-wwTJSYqc3fUjf1VXs-aeUng86lnGAUcbypTEVK_qxATx_lsOP9JugwduyDAPVLPxiZReXt8BZ38
-RS: ARENA SPORT 1  ->  https://iptv-epg.org/images/DI2CgyT4G8AqBWaioMdJPcO-2vTa5F2-uDcCCiiTdqrWesNMQjI4XU1nIDXK5jJqmDlLqjq4OvHEapCT0-xpVQ7QvihxqlOh7IQxHT-Yr62NKXna
-RS: ARENA SPORT 1 HD  ->  https://iptv-epg.org/images/DI2CgyT4G8AqBWaioMdJPcO-2vTa5F2-uDcCCiiTdqrWesNMQjI4XU1nIDXK5jJqmDlLqjq4OvHEapCT0-xpVQ7QvihxqlOh7IQxHT-Yr62NKXna
-RS: ARENA SPORT 1 PREMIUM FHD  ->  https://iptv-epg.org/images/_mTuN1KBuswMHqZT_A0cNuBNFxddCm0_2Hsl9EXhr5bkEO1wADQOaeJrbXlkbP0kYIlnfmLWtUFhs3qRub5cbnkgQbm6e9Wn8JDY9975yCHIQ6rXmxs
-RS: ARENA SPORT 1 PREMIUM HD  ->  https://iptv-epg.org/images/_mTuN1KBuswMHqZT_A0cNuBNFxddCm0_2Hsl9EXhr5bkEO1wADQOaeJrbXlkbP0kYIlnfmLWtUFhs3qRub5cbnkgQbm6e9Wn8JDY9975yCHIQ6rXmxs
-RS: ARENA SPORT 1X2  ->  https://iptv-epg.org/images/nVLcGLPkEUycr6vMIMkd3katonjr1lTNBMf3phUikCNR53poJ32dp83_2zrnjpKMle3lqYY61lewS2rrC_WkVQeVIC94FNPXFmjK5wzvWGCkmRoJNc4
-RS: ARENA SPORT 2  ->  https://iptv-epg.org/images/SfDnDVPuIhh8W6NNCfHwLEEpw3B5iry8SLJPi9J5bOtfM6dXHLjvVpNxzCKViaah6LrMb-bWzDoGs2NW5tl_TUrf1CdAJFz9gM2yiubwLut4617-
-RS: ARENA SPORT 2 HD  ->  https://iptv-epg.org/images/SfDnDVPuIhh8W6NNCfHwLEEpw3B5iry8SLJPi9J5bOtfM6dXHLjvVpNxzCKViaah6LrMb-bWzDoGs2NW5tl_TUrf1CdAJFz9gM2yiubwLut4617-
-RS: ARENA SPORT 2 PREMIUM FHD  ->  https://iptv-epg.org/images/sI-hoYGykwIts6ymI3k1kdTg4pMstKIR1TKfHaOZEV3XsluyIZ2h1chVAf071slR5RnaTmwgNu6Syvoyb8urwUAZw9GztH6CMi9dXIisuMpp4uaOwpA
-RS: ARENA SPORT 2 PREMIUM HD  ->  https://iptv-epg.org/images/sI-hoYGykwIts6ymI3k1kdTg4pMstKIR1TKfHaOZEV3XsluyIZ2h1chVAf071slR5RnaTmwgNu6Syvoyb8urwUAZw9GztH6CMi9dXIisuMpp4uaOwpA
-RS: ARENA SPORT 3  ->  https://iptv-epg.org/images/1dBITvFBYt5PxDwflWQafp1z8akW5t0hQsD55xa5jtibt_xg8mR_lwinlQyKsJg5Yl0jiFcctYg6MPbLXKxlo5QLrGv5y21zug347AYkUsV7wI4I
-RS: ARENA SPORT 3 HD  ->  https://iptv-epg.org/images/1dBITvFBYt5PxDwflWQafp1z8akW5t0hQsD55xa5jtibt_xg8mR_lwinlQyKsJg5Yl0jiFcctYg6MPbLXKxlo5QLrGv5y21zug347AYkUsV7wI4I
-RS: ARENA SPORT 3 PREMIUM FHD  ->  https://iptv-epg.org/images/suZptTg-CuH8Ux0kg_4wbhmGZvjPEkObGIJIXH8YYp9-2_JL0h9QRpPQKvfw2CBks_TIpGca71sv0ZdzLSxfo490YBBkL3xeBzK8nvtdcJjlzssvMaw
-RS: ARENA SPORT 3 PREMIUM HD  ->  https://iptv-epg.org/images/suZptTg-CuH8Ux0kg_4wbhmGZvjPEkObGIJIXH8YYp9-2_JL0h9QRpPQKvfw2CBks_TIpGca71sv0ZdzLSxfo490YBBkL3xeBzK8nvtdcJjlzssvMaw
-RS: ARENA SPORT 4  ->  https://iptv-epg.org/images/i92XTAGibdxVlcFWZvbtUJDnVrucsnwRnJUJsDdTg9k5rHCgYBW3GK3EUTlsEoRWfrlclSovFub5Ur6cj51eGEk7OHkQUXPD5Ea5URH-CsKkPNab
-RS: ARENA SPORT 4 HD  ->  https://iptv-epg.org/images/i92XTAGibdxVlcFWZvbtUJDnVrucsnwRnJUJsDdTg9k5rHCgYBW3GK3EUTlsEoRWfrlclSovFub5Ur6cj51eGEk7OHkQUXPD5Ea5URH-CsKkPNab
-RS: ARENA SPORT 4 PREMIUM HD  ->  https://iptv-epg.org/images/RGpTNp5La57aZa7ud0vs6i836_I546EelTAjuRRsYRkjPziBW2kIqWl4aYs3-lkOueGGu-8ThIAsUUE3HZWq0NcDEGqbBmxIbzynPYJ0DHnLBK1p8GQ
-RS: ARENA SPORT 5  ->  https://iptv-epg.org/images/SZimoXhu69wmAn3q4mOGWBPaYVOT6-vzJ9vIG9__h8b02LN1axD0FkDURhhp27IO-tjXGsOzvuLsGvqmjeHuZlOkyT-2DlTRXjF3XL7io1pNiYpd
-RS: ARENA SPORT 5 HD  ->  https://iptv-epg.org/images/SZimoXhu69wmAn3q4mOGWBPaYVOT6-vzJ9vIG9__h8b02LN1axD0FkDURhhp27IO-tjXGsOzvuLsGvqmjeHuZlOkyT-2DlTRXjF3XL7io1pNiYpd
-RS: ARENA SPORT 5 PREMIUM HD  ->  https://iptv-epg.org/images/9HiQxRHVvE0b5LIjjjW-UNyU8dNVbk_N87O1elpM8Mc5hDhns_VqLemZjjuu1caB-LVDvxYFtl0IyPU0lqqqySax6EtCMYstr_QxxTjivwY5QfkczHY
-RS: ARENA SPORT 6 HD  ->  https://iptv-epg.org/images/EpI_StUSOexQoxGObWiD5OPa8u9NN1Wsj0JVtStB4VDF5COKrOy8DyWzreZLbpmrE8agSUwQvIw-xn8SHR-5UCxGHh3pIbnmeM49iJswBNLpFYsC
+RS: 24 KITCHEN HD  ->  https://images-web.ug-be.cdn.united.cloud/2022/09/05/10/10/35/light_300x168.png
+RS: AGRO TV  ->  https://images.open-epg.com/nologo.png
+RS: ALJAZEERA  ->  -
+RS: AMC HD  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/25/09/amchd_logo_16_9_light_480x270_fbd90cbc_b556_49e9_8fec_94f4fc654db9.png
+RS: ANIMAL PLANET HD  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/25/18/animalplanethd_logo_16_9_light_300x168_ed56718c_6caa_4aa7_8275_19b4ebee5aa3.png
+RS: ARENA ESPORT  ->  https://images-web.ug-be.cdn.united.cloud/2025/04/04/20/43/05/xl_light_480x270.png
+RS: ARENA FIGHT HD  ->  https://images-web.ug-be.cdn.united.cloud/2025/04/04/20/41/46/xl_light_480x270.png
+RS: ARENA SPORT 1  ->  https://images-web.ug-be.cdn.united.cloud/2025/04/04/20/34/50/xl_light_480x270.png
+RS: ARENA SPORT 1 HD  ->  https://images-web.ug-be.cdn.united.cloud/2025/04/04/20/34/50/xl_light_480x270.png
+RS: ARENA SPORT 1 PREMIUM FHD  ->  https://mediasb2c.mts.rs/medias/arena-1-premium-600x300.png?context=bWFzdGVyfGNoYW5uZWxzfDEzNDU3fGltYWdlL3BuZ3xhRGN5TDJnMU1DODJORGMzTlRjM01qSTBNVGsxTUM5aGNtVnVZUzB4TFhCeVpXMXBkVzB0TmpBd2VETXdNQzV3Ym1jfGZmM2RkZWYzYzdkNzdjODk5ZTlmMGFkMjA0ZTQzNjY1NjQ4MjRmYmNkNWExYzNjZjNhNzQwZTZjZGY5NjZlY2U
+RS: ARENA SPORT 1 PREMIUM HD  ->  https://mediasb2c.mts.rs/medias/arena-1-premium-600x300.png?context=bWFzdGVyfGNoYW5uZWxzfDEzNDU3fGltYWdlL3BuZ3xhRGN5TDJnMU1DODJORGMzTlRjM01qSTBNVGsxTUM5aGNtVnVZUzB4TFhCeVpXMXBkVzB0TmpBd2VETXdNQzV3Ym1jfGZmM2RkZWYzYzdkNzdjODk5ZTlmMGFkMjA0ZTQzNjY1NjQ4MjRmYmNkNWExYzNjZjNhNzQwZTZjZGY5NjZlY2U
+RS: ARENA SPORT 1X2  ->  https://images-web.ug-be.cdn.united.cloud/2025/04/04/20/43/51/xl_light_480x270.png
+RS: ARENA SPORT 2  ->  https://images-web.ug-be.cdn.united.cloud/2025/04/04/20/35/29/xl_light_480x270.png
+RS: ARENA SPORT 2 HD  ->  https://images-web.ug-be.cdn.united.cloud/2025/04/04/20/35/29/xl_light_480x270.png
+RS: ARENA SPORT 2 PREMIUM FHD  ->  https://mediasb2c.mts.rs/medias/arena-2-premium-600x300.png?context=bWFzdGVyfGNoYW5uZWxzfDE4NzEzfGltYWdlL3BuZ3xhRE15TDJnMU5DODJORGMzTlRjM01qTTNNekF5TWk5aGNtVnVZUzB5TFhCeVpXMXBkVzB0TmpBd2VETXdNQzV3Ym1jfGVhNjhjYmVjZTc4YmJiY2ZlM2EyNjk5ZmYzYWRhMTk4OWZmMzhiNTZkZjc4YzJkMDdlYjdmNWRmZmU0N2M2ZGY
+RS: ARENA SPORT 2 PREMIUM HD  ->  https://mediasb2c.mts.rs/medias/arena-2-premium-600x300.png?context=bWFzdGVyfGNoYW5uZWxzfDE4NzEzfGltYWdlL3BuZ3xhRE15TDJnMU5DODJORGMzTlRjM01qTTNNekF5TWk5aGNtVnVZUzB5TFhCeVpXMXBkVzB0TmpBd2VETXdNQzV3Ym1jfGVhNjhjYmVjZTc4YmJiY2ZlM2EyNjk5ZmYzYWRhMTk4OWZmMzhiNTZkZjc4YzJkMDdlYjdmNWRmZmU0N2M2ZGY
+RS: ARENA SPORT 3  ->  https://images-web.ug-be.cdn.united.cloud/2025/04/04/20/36/12/xl_light_480x270.png
+RS: ARENA SPORT 3 HD  ->  https://images-web.ug-be.cdn.united.cloud/2025/04/04/20/36/12/xl_light_480x270.png
+RS: ARENA SPORT 3 PREMIUM FHD  ->  https://mediasb2c.mts.rs/medias/arena-3-premium-600x300.png?context=bWFzdGVyfGNoYW5uZWxzfDIyMTIxfGltYWdlL3BuZ3xhRE13TDJnMU55ODJORGMzTlRjM01qUXpPRFUxT0M5aGNtVnVZUzB6TFhCeVpXMXBkVzB0TmpBd2VETXdNQzV3Ym1jfDcwMDA2ZjIwYmI3OTdkNGMwNjE1NGM4MGQ5YTQxOTBiMTZhY2VlNmVlNGY1ZWY4NzU1Y2MzNWFiYjRiZWNlOTA
+RS: ARENA SPORT 3 PREMIUM HD  ->  https://mediasb2c.mts.rs/medias/arena-3-premium-600x300.png?context=bWFzdGVyfGNoYW5uZWxzfDIyMTIxfGltYWdlL3BuZ3xhRE13TDJnMU55ODJORGMzTlRjM01qUXpPRFUxT0M5aGNtVnVZUzB6TFhCeVpXMXBkVzB0TmpBd2VETXdNQzV3Ym1jfDcwMDA2ZjIwYmI3OTdkNGMwNjE1NGM4MGQ5YTQxOTBiMTZhY2VlNmVlNGY1ZWY4NzU1Y2MzNWFiYjRiZWNlOTA
+RS: ARENA SPORT 4  ->  https://images-web.ug-be.cdn.united.cloud/2025/04/04/20/36/51/xl_light_480x270.png
+RS: ARENA SPORT 4 HD  ->  https://images-web.ug-be.cdn.united.cloud/2025/04/04/20/36/51/xl_light_480x270.png
+RS: ARENA SPORT 4 PREMIUM HD  ->  https://mediasb2c.mts.rs/medias/arena-4-premium-600x300.png?context=bWFzdGVyfHJvb3R8MTUzMDd8aW1hZ2UvcG5nfGFHVm1MMmcxWVM4Mk5EYzNOVGMzTWpVMk9UWXpNQzloY21WdVlTMDBMWEJ5WlcxcGRXMHROakF3ZURNd01DNXdibWN8MTA1Y2ZkZjU3MGJlODMxZTI2MGYwM2FkNTk3MzNkMDQyZThjMDUxMzFlMWI5ZWRkYWUwNjhmZjY0YzY1ZWJjNg
+RS: ARENA SPORT 5  ->  https://images-web.ug-be.cdn.united.cloud/2025/04/04/20/37/29/xl_light_480x270.png
+RS: ARENA SPORT 5 HD  ->  https://images-web.ug-be.cdn.united.cloud/2025/04/04/20/37/29/xl_light_480x270.png
+RS: ARENA SPORT 5 PREMIUM HD  ->  https://mediasb2c.mts.rs/medias/arena-5-premium-600x300.png?context=bWFzdGVyfHJvb3R8MTc3MTh8aW1hZ2UvcG5nfGFEQXdMMmcxWlM4Mk5EYzNOVGMzTWpZek5URTJOaTloY21WdVlTMDFMWEJ5WlcxcGRXMHROakF3ZURNd01DNXdibWN8M2E2MzRiODA0MTU4MjI0NmJhNjdkMTRkYWU5NzZhYzA5ZGVkMjQ3ODRhMjJkMzY3MDM1M2Q4ODRjOTM1OTA4MQ
+RS: ARENA SPORT 6 HD  ->  https://images-web.ug-be.cdn.united.cloud/2025/04/04/20/38/21/xl_light_480x270.png
 RS: ARENA SPORT ADRENALIN HD  ->  -
 RS: ARENA SPORT FIGHT HD  ->  -
 RS: ARENA SPORT TENIS HD  ->  -
 RS: AXN  ->  https://mediasb2c.mts.rs/medias/4c4674d25d6bf62b5f26a7915947ef1a.png?context=bWFzdGVyfGNoYW5uZWxzfDY3NTB8aW1hZ2UvcG5nfGFEbG1MMmd5Tmk4NE56azJNVFUyTmpVM05qazBMelJqTkRZM05HUXlOV1EyWW1ZMk1tSTFaakkyWVRjNU1UVTVORGRsWmpGaExuQnVad3w5MWU5ZjRhY2M2ZDUxYjYwZTQ2NDJlN2I4ZTYwYzAyMGE0YjE1YzIxNTUwY2VhYjAzMTJlNTI1ZWNmOThmNjMz
 RS: AXN ADRIA HD  ->  https://mediasb2c.mts.rs/medias/4c4674d25d6bf62b5f26a7915947ef1a.png?context=bWFzdGVyfGNoYW5uZWxzfDY3NTB8aW1hZ2UvcG5nfGFEbG1MMmd5Tmk4NE56azJNVFUyTmpVM05qazBMelJqTkRZM05HUXlOV1EyWW1ZMk1tSTFaakkyWVRjNU1UVTVORGRsWmpGaExuQnVad3w5MWU5ZjRhY2M2ZDUxYjYwZTQ2NDJlN2I4ZTYwYzAyMGE0YjE1YzIxNTUwY2VhYjAzMTJlNTI1ZWNmOThmNjMz
 RS: AXN SPIN  ->  https://mediasb2c.mts.rs/medias/768a396ca9d91d7a28541df0fecccc51.png?context=bWFzdGVyfGNoYW5uZWxzfDE1MTg2fGltYWdlL3BuZ3xhR1F4TDJneFl5ODROemsyTVRVMk9URTVPRE00THpjMk9HRXpPVFpqWVRsa09URmtOMkV5T0RVME1XUm1NR1psWTJOall6VXhMbkJ1Wnd8ZTM5YTM0NTg0YWE4ZWY2YmU0NTYxZmQ4ZTQwOWRlOWQ2M2YzNDkxODVlN2NlYzJkMDZmNjBhYTI2NmU4NzJlYw
-RS: B92 HD  ->  https://iptv-epg.org/images/vcGzokvJNlSBsHVUkZyvUkHUk3wevVRH6qvY3Aer2jJXndR7Rg5vwxG3cz6z9UCI8FvTbpZVqgDCE73cwYBcVvjz3ZWkswPCsvuYvQ
-RS: BABY TV  ->  https://iptv-epg.org/images/_F7R4GFfp9ede6xQirRHbaTAMyC0BCszfxPYKr33txSDjMLWatCNgnyrLp_VTHe3UwEyukgmrZnW0Ca7Wl_eRmltul0AUsUfSdXfbqxqDw
-RS: BALKAN TRIP  ->  https://iptv-epg.org/images/eyumhlOXgA80-Or5I0Z_6JsjxYdXPfJw2IQ6lhvRi2h3CMl6GlIFMVFFTP_2JsNUqASQgGnN5sbKpyutE0aruihfgr2yL34oQmIonTGGAYo2QMM
-RS: BALKAN TV  ->  https://iptv-epg.org/images/1E7MRJJDoolXTqkQWd-ceoASO4GT1Y0Xl4La4purYjxv8-MxLutnI57JB7Z7Y8E78K7MIWinfQZawc-LN2SDgIp2K5lVADhJxUATUHQc8iACHw
-RS: BBC EARTH HD  ->  https://iptv-epg.org/images/93map2RryjlnC0O-SqmwCaXf_uqRSxNY9WHSCXJ9yE5ZLsJ1fHFukc90Vq87A_Ab44FSZ0FC8JWwn-IqU5rbHVqviPav1wAxsy8HHwrMCNOP
-RS: BLIC TV  ->  https://iptv-epg.org/images/LEI3F-T94MbcrkqW5COaKuv-KzgH-rxWRxAyhjdqPPgbXDT_3bb0kWxlsDneFbLpkjol94V3URszgVB1NN282WcGEdVtxEVII-eyKOd8dg
-RS: CARTOON NETWORK  ->  https://iptv-epg.org/images/_0CehUofSwXhV_UGLNKaVJMT1piOdQFSE9Q9-uDG4X28i0F3fD8J_EIo7BOWQ9rm8ho-StNTPzyz1gkQd2s7mco6nw1zXtNHy4UZ1aUSI8_NBYpVJGaV
+RS: B92 HD  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/27/19/b92_logo_16_9_light_160x90_3f38d84c_f095_49db_b048_0a1f474f25ac.png
+RS: BABY TV  ->  https://mediasb2c.mts.rs/medias/878868815c18ee69d1184f41a8904f97.png?context=bWFzdGVyfGNoYW5uZWxzfDEzOTE3fGltYWdlL3BuZ3xhRGRqTDJoaE9DODROemsyTVRneU9EY3lNRGswTHpnM09EZzJPRGd4TldNeE9HVmxOamxrTVRFNE5HWTBNV0U0T1RBMFpqazNMbkJ1Wnd8OTNmYWExNzcxMTdkZjkyYTM5NWRiYmZlMWZmNjk5Yjk5MGQxMzAyMjE2ODc3MWMzYmZlMTQwNDJlYjc2NzczZQ
+RS: BALKAN TRIP  ->  https://images-web.ug-be.cdn.united.cloud/2025/03/31/12/57/58/xl_light_480x270.png
+RS: BALKAN TV  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/balkan-tv-rs.png
+RS: BBC EARTH HD  ->  https://images-web.ug-be.cdn.united.cloud/2023/09/18/09/58/37/light_288x162.png
+RS: BLIC TV  ->  https://images-web.ug-be.cdn.united.cloud/2025/04/14/13/17/11/xl_light_480x270.png
+RS: CARTOON NETWORK  ->  https://images-web.ug-be.cdn.united.cloud/2025/01/13/13/51/01/xl_cartoon_light.png
 RS: CBS REALITY  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/cbs-reality-rs.png
-RS: CINEMANIA  ->  https://iptv-epg.org/images/P-s8RUDYIEwunTGTgC3mJyJo-M-Pp9SH76c1HDEfAfm_TOPNMnNPGo9KHItFsHM2nrDCRBFKudEqOzOb1HCO9oWh2T3poOeostXf6wuct3YIBA
-RS: CINEMAX 2 HD  ->  https://iptv-epg.org/images/wFRrEezACRbDZmZKDd96FAbAo3odkj9vcmEeWXFf-g_C8QWMFQx3PrvHiyPB2ObAuqsEDj2uuZSw0i0RbbqrJyMJmyzk15Oddvy8xfD_bjQ7
-RS: CINEMAX HD  ->  https://iptv-epg.org/images/QFB1XgTkSVNdlc0mKx_7Y6zl1ua3j7cXveeg7n8TFI7iDmh-sPyggIG5ywgPH97Egzi6eTv_gyjruQEEwynu_z7MXNyZQI7PROMJpJ2Xnbs
-RS: CINESTAR 2 HD  ->  https://iptv-epg.org/images/GG3ovgkLcqIyBHwhSJLGG_sYq2HgCe9KmVmKc0kWLKB524mme0R5MgYBal55u1W-vbzLI528XTO0oLFvtT4bmLFJynu_6x5nxsviP6mDYVv24nlM
-RS: CINESTAR ACTION HD  ->  https://iptv-epg.org/images/MzOWD9ozH_3jcp3b_ka1EbV-ON5lBl7BVWQjYt4_LS8lgWVqJK9JTNOXzIWUQ4QYUkPWgcpWwfOHMlzxRSzq05q5c-4FfDVV3H5r5WpEzvwPMq4M8FsmUpY
-RS: CINESTAR COMEDY  ->  https://iptv-epg.org/images/4Zjp3Ogr0d-uHAS167s6ORzO6DtsWv65EjlG9BoixzvpOmhPCoGsqG7_hERCwqAFtdyniHNnr2tUd9j0zYuLu8aURufIx88auJI2gKeZ8K7EGKEyGlshTzYWPto4SZZIyGA
-RS: CINESTAR FANTASY  ->  https://iptv-epg.org/images/Rzl-a3Lgh5q6zj9_4ly8xHEvaHLvQS99QSvaS2wULY0ayNfnZ49NIv03ET23g5z7K-SSvItN1mKo21JZk79buDgVqmp6VPPyWlr3ijYPhkmiAHh3xOFmO-Cq
-RS: CINESTAR FANTASY FHD  ->  https://iptv-epg.org/images/Rzl-a3Lgh5q6zj9_4ly8xHEvaHLvQS99QSvaS2wULY0ayNfnZ49NIv03ET23g5z7K-SSvItN1mKo21JZk79buDgVqmp6VPPyWlr3ijYPhkmiAHh3xOFmO-Cq
-RS: CINESTAR PREMIERE 2  ->  https://iptv-epg.org/images/vb4fCBQX8_-Xjwd8JTO_d9lb9MoDaqlRUtt-D-O0xEsE4X15MKW_ESIXV7ePabkPeoTCh3afyVJgF_K3jXXvIf8od4UyBHmU3rdsC_5XREzQBBG4QrYeBCyMWVA
-RS: CINESTAR TV 1 FHD  ->  https://iptv-epg.org/images/V-ERDlFa9aKIxizuKBlFhgaH26KeSHoUS8BPDS7q_F8lpJQKZjUNSz_WuXJa_Z4yVqcmn7LC6F8TK-AAHYE3yroQyZZKPsC0y5j1R_PrBOprdv6d
-RS: CINESTAR TV 2 FHD  ->  https://iptv-epg.org/images/GG3ovgkLcqIyBHwhSJLGG_sYq2HgCe9KmVmKc0kWLKB524mme0R5MgYBal55u1W-vbzLI528XTO0oLFvtT4bmLFJynu_6x5nxsviP6mDYVv24nlM
-RS: CINESTAR TV HD  ->  https://iptv-epg.org/images/V-ERDlFa9aKIxizuKBlFhgaH26KeSHoUS8BPDS7q_F8lpJQKZjUNSz_WuXJa_Z4yVqcmn7LC6F8TK-AAHYE3yroQyZZKPsC0y5j1R_PrBOprdv6d
-RS: CINESTAR TV PREMIERE 1  ->  https://iptv-epg.org/images/iUTC3x7UWeyaP-bwygR7dIcNAc9UuHrp-atZ0c0ayUAfVOproihHYL7SAwDNO_iBK2Z4yvTqk8ONXwY5WyBiIIMcavF9dzBOPbHH3xyK4kdDd4gT6zslgrFBh10
+RS: CINEMANIA  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/30/21/cinemaniahd_logo_16_9_light_288x162_4ea51485_a757_4335_900d_517635ff0948.png
+RS: CINEMAX 2 HD  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/30/38/cinemax2hd_logo_16_9_light_480x270_493ae2eb_ab92_4934_96f7_ec5ff6055295.png
+RS: CINEMAX HD  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/30/45/cinemaxhd_logo_16_9_light_160x90_8435b044_5656_468c_99c0_20ff527f8ab5.png
+RS: CINESTAR 2 HD  ->  https://images-web.ug-be.cdn.united.cloud/2023/11/20/14/02/12/xl_light_480x270.png
+RS: CINESTAR ACTION HD  ->  https://images-web.ug-be.cdn.united.cloud/2023/11/20/13/54/32/xl_light_480x270.png
+RS: CINESTAR COMEDY  ->  https://images-web.ug-be.cdn.united.cloud/2023/11/20/13/59/23/xl_light_480x270.png
+RS: CINESTAR FANTASY  ->  https://images-web.ug-be.cdn.united.cloud/2023/11/20/13/51/20/xl_light_480x270.png
+RS: CINESTAR FANTASY FHD  ->  https://images-web.ug-be.cdn.united.cloud/2023/11/20/13/51/20/xl_light_480x270.png
+RS: CINESTAR PREMIERE 2  ->  https://images-web.ug-be.cdn.united.cloud/2023/11/20/13/57/32/xl_light_480x270.png
+RS: CINESTAR TV 1 FHD  ->  https://images-web.ug-be.cdn.united.cloud/2023/11/20/13/49/48/light_160x90.png
+RS: CINESTAR TV 2 FHD  ->  https://images-web.ug-be.cdn.united.cloud/2023/11/20/14/02/12/xl_light_480x270.png
+RS: CINESTAR TV HD  ->  https://images-web.ug-be.cdn.united.cloud/2023/11/20/13/49/48/light_160x90.png
+RS: CINESTAR TV PREMIERE 1  ->  https://images-web.ug-be.cdn.united.cloud/2023/11/20/13/55/28/xl_light_480x270.png
 RS: CITY TV  ->  https://mediasb2c.mts.rs/medias/077e0a0ec53573455675588f85a35564.png?context=bWFzdGVyfGNoYW5uZWxzfDEyNDAxfGltYWdlL3BuZ3xhRGRpTDJobVlTODROemsyTVRjMU1EUXdOVFF5THpBM04yVXdZVEJsWXpVek5UY3pORFUxTmpjMU5UZzRaamcxWVRNMU5UWTBMbkJ1Wnd8ZTc5ZTFlMWQ3MDhkNGI3ZDU0ZmJjOTc1MzMwNzJjOWYzMDkwYmYzMmZlNmQzNDdiODQ4ZGE4NDg0NjRmZjA4NQ
-RS: CRIME & INVESTIGATION HD  ->  https://iptv-epg.org/images/12nuYTejxWX3OLHVf_G89i4yMYU0IJ8Z6hHe7SI6Ao-_tKMoGxQq9Y0B7jRnBbgTZzeaF6MCkVzceia_aLBH5PybK6_rWSgScIoVnmeN3mqrRntB6RG59oY2VrWeSA
-RS: CRIME & INVESTIGATION NETWORK  ->  https://iptv-epg.org/images/12nuYTejxWX3OLHVf_G89i4yMYU0IJ8Z6hHe7SI6Ao-_tKMoGxQq9Y0B7jRnBbgTZzeaF6MCkVzceia_aLBH5PybK6_rWSgScIoVnmeN3mqrRntB6RG59oY2VrWeSA
-RS: DA VINCI LEARNING HD  ->  https://iptv-epg.org/images/K_YLm-RuyKYu3uLCcwz12gPTKe0FP3b7RfdFu_7ijKpnLYRWKaaQ5CVZMU_08rkd2KCdSK3Pur8cTgrBcCLG9WdJe3KsXuq4ugrcmuOUCZ-V3NsOGY8iHw
-RS: DISCOVERY CHANNEL HD  ->  https://iptv-epg.org/images/RuCYqfMX5mNmmTR3Tj9qCG4TuHi-B3gf0xjAOm6_eyKQSXfp8AmFGhSH93GRQhhS5iYlDnxUlOJb2Bc3OCCRpjT0VUtoCo6UltqLlgOM1TvCXxr_HS-ZkOk
-RS: DISCOVERY SC HD  ->  https://iptv-epg.org/images/eBEfSPEaNcRCqvicG0S-t6F8AkU4F-GXWVvj8VysHfM60ZDm7Q7kub8oCHILSUyz_E_z0BPtNDNsL_ZCWJfAHdVVEIEgY_cQryv76IC1seHgdxRtzl3VgF9f
-RS: DISNEY CHANNEL  ->  https://iptv-epg.org/images/AYYUQfZDMxEyOIgEcGn3917E9I1quDsqPUM02Ces2uiGyt-N2rXMjbjwKiGCI44vDhbYoyeJtuTFV1bKDrMdX6F-i0XEi3d7N3XBmDixvtesaauWJ6Q
-RS: DIVA HD  ->  https://iptv-epg.org/images/AzM3HNvNcyPh9M6KtAIIrpovcFfybY6GUlP0r6-K7NKlh2gYFixXDtjn7K6YvFzaS1qYR_KqzR9m0qAwF0OSwYdqWL0JAbH2kub3_A0
+RS: CRIME & INVESTIGATION HD  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/32/11/crimeinvest_logo_16_9_light_300x168_b8c78aee_fe16_4c17_b5f5_beb8ecedbbcb.png
+RS: CRIME & INVESTIGATION NETWORK  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/32/11/crimeinvest_logo_16_9_light_300x168_b8c78aee_fe16_4c17_b5f5_beb8ecedbbcb.png
+RS: DA VINCI LEARNING HD  ->  https://mediasb2c.mts.rs/medias/518ef8a1e68e742b275b0605330bd3d2.jpg?context=bWFzdGVyfGNoYW5uZWxzfDI2Mzg2fGltYWdlL2pwZWd8YURabEwyZ3pNQzg0TnprMk1UVTJNemsxTlRVd0x6VXhPR1ZtT0dFeFpUWTRaVGMwTW1JeU56VmlNRFl3TlRNek1HSmtNMlF5TG1wd1p3fDdiMDQzODA2M2Y5ZDE4ZWQzYjIyZjYxYjIwNDNiNTY3MTE1OWY0ODllYWY4YTAwYTI3NGIzMDkzYjAxYTgzNmQ
+RS: DISCOVERY CHANNEL HD  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/32/32/discoveryhd_logo_16_9_light_384x216_ec5d8e4c_3937_41bb_809a_7127272859af.png
+RS: DISCOVERY SC HD  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/discovery-science-rs.png
+RS: DISNEY CHANNEL  ->  https://images-web.ug-be.cdn.united.cloud/2022/11/16/11/41/21/xl_light_480x270.png
+RS: DIVA HD  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/33/21/diva_logo_16_9_light_384x216_3cbbc3b1_fc74_4114_ae65_1c6d19f2eb52.png
 RS: DIZI TV HD  ->  https://mediasb2c.mts.rs/medias/dizi-logo-300x169.png?context=bWFzdGVyfGNoYW5uZWxzfDExNzk4fGltYWdlL3BuZ3xhR05pTDJobU5pODBOell4TWpBd05UQTRPVE14TUM5a2FYcHBMV3h2WjI5Zk16QXdlREUyT1M1d2JtY3xmOGMyMGVkNjQwZjgyYjllOGQ4NjQ2MGQwZTQzYjZkY2ZkYmZkZGEyOGRiYWFkNWM2NmU2MmMwZjM1ZThiYjZh
 RS: DOCU BOX  ->  https://ssc.a1.hr/ITV/pictures/logos/Docu%20Box.png
 RS: DOCUBOX  ->  https://ssc.a1.hr/ITV/pictures/logos/Docu%20Box.png
-RS: DOX TV  ->  https://iptv-epg.org/images/GRl8QgVL5Qtll-wOPKFTm9iO0UhFE-y7lFm3uES4pmKYNFlsRlgrvQXi0Y_uJJ_6-E6fHIJNPxAzRe7yhHnS_CZL_ucuKYlX3qTfr7lB
+RS: DOX TV  ->  https://images-web.ug-be.cdn.united.cloud/2025/03/31/13/03/11/xl_light_480x270.png
 RS: DUCK TV HD  ->  https://ssc.a1.hr/ITV/pictures/logos/Duck%20TV.png
 RS: DUGA TV  ->  -
 RS: DUNAV TV  ->  https://mediasb2c.mts.rs/medias/a8ed59a98588c12059a9aa3fd6fc1b5b.png?context=bWFzdGVyfGNoYW5uZWxzfDc5MDJ8aW1hZ2UvcG5nfGFHRmtMMmc0TkM4NE56azJNVGcwT0RBMU5EQTJMMkU0WldRMU9XRTVPRFU0T0dNeE1qQTFPV0U1WVdFelptUTJabU14WWpWaUxuQnVad3xjMjFkNDI0NGJlYTdkZjNiN2ViYzk0NDE3Nzc2YTVhOThlMjcwZjI3M2E0ZmE2ZTJiNjQ5YTNmN2UzZjQ4OTk5
-RS: E  ->  https://iptv-epg.org/images/0Q9ex4nopsUlIQ-ZJtfxt4bSIcXtAtvRe9iugYTMoIZ45zDLRmUbEcyTpAu9B1EMEz8JOQh0wYLtWNZkfl-z9rBPzgDAu0Lz8njiLvsSAP9a_wgkBibp
-RS: E!  ->  https://iptv-epg.org/images/0Q9ex4nopsUlIQ-ZJtfxt4bSIcXtAtvRe9iugYTMoIZ45zDLRmUbEcyTpAu9B1EMEz8JOQh0wYLtWNZkfl-z9rBPzgDAu0Lz8njiLvsSAP9a_wgkBibp
+RS: E  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/33/52/e_logo_16_9_light_160x90_ce3c5c00_c592_4cf5_b757_3da6e891ef94.png
+RS: E!  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/33/52/e_logo_16_9_light_160x90_ce3c5c00_c592_4cf5_b757_3da6e891ef94.png
 RS: EKO VIZIJA  ->  https://mediasb2c.mts.rs/medias/ekovizia.png?context=bWFzdGVyfHJvb3R8MjA1N3xpbWFnZS9wbmd8YUdRMkwyaGtZaTh4TVRZd09UUTBOamN4TVRNeU5pOWxhMjkyYVhwcFlTNXdibWN8MjJlYzQ1MTgzNWE3MGRmNjRiNDk1ZjFiNmY1ZTFmMzY5ZGE2OWM4NWU3YzgyNDk0NjJkMDJmZTAyZjhiMTRlYg
 RS: ELITA 1 LIVE  ->  https://mediasb2c.mts.rs/medias/Elita-10-1.png?context=bWFzdGVyfHJvb3R8NDYxN3xpbWFnZS9wbmd8YUdVeEwyaGpaaTgyT0RrNU5EVTVNVEU1TlRFMk5pOUZiR2wwWVNBeE1DQXRJREV1Y0c1bnwzZTRlYjUzYzJkZmMxNWJmOTQxYmNhN2IxOGU3OGYyMTM1Yzc1OGQwMGZhZWJiZGM2M2JlMWY1ODY2ZTQyZGQx
 RS: ELITA 2 LIVE  ->  https://mediasb2c.mts.rs/medias/Elita-10-2.png?context=bWFzdGVyfHJvb3R8NDU5MnxpbWFnZS9wbmd8YUdFNEwyaGpOUzgyT0RrNU5EVTVNVFE1TURBM09DOUZiR2wwWVNBeE1DQXRJREl1Y0c1bnxkMmUyYWQ1YzMxMWZmYTBlZGZmNmI1MWUyMzU5MmE1YWRhZTgxZmE4MjE2MmI2OWU0ZmFhYzljYmU2OTlkNWM0
 RS: ELITA 3 LIVE  ->  https://mediasb2c.mts.rs/medias/Elita-10-3.png?context=bWFzdGVyfHJvb3R8NDU4N3xpbWFnZS9wbmd8YUdGaUwyaGpNaTgyT0RrNU5EVTVNVFUxTlRZeE5DOUZiR2wwWVNBeE1DQXRJRE11Y0c1bnw0ZDZkNDRlYmNjZWQ4MWE5YTI2Nzg2NjNjYjQ4NDk5ODE4YmJiZjhiMjI2NTIyOWMwZmRkMzBmZDBlODRiZTQz
 RS: ELITA 4 LIVE  ->  https://mediasb2c.mts.rs/medias/Elita-10-4.png?context=bWFzdGVyfHJvb3R8NDYwM3xpbWFnZS9wbmd8YUdWaUwyaGlaUzgyT0RrNU5EVTVNVFk0TmpZNE5pOUZiR2wwWVNBeE1DQXRJRFF1Y0c1bnw1ZDM1YWFkMDk0NzZhM2FlODk3NmViZTQxZjFlMTlmMmZlMzI1MzIwMDYzMTJkMWZiZDc1MTVlZTZmMmZhMjhi
-RS: EPIC DRAMA HD  ->  https://iptv-epg.org/images/VntdVWizHdWiQ3gmiFNrFNgYNSHKscQDBQTaH4E4u-5n8Pl6RLX_n1oFEbN7EZ-VPRRunA1GfEZJ1g-hpWyXag31997hOagZaJm-oyVzS4ONRg
-RS: EURONEWS SRBIJA  ->  https://iptv-epg.org/images/pOAK-ksLHUEFgwdW7ZB-dzfpG-4p6Bvg2DSNGE70ijlGgKxaGzUQ1vmOWoZ00wfk0KpUkL9cfSfSC7h04Vgm00aRx20d4Cgo9I9kwrLi22P9
-RS: EUROSPORT  ->  https://iptv-epg.org/images/uw1PoeCyx-2aykv_1-Xb7283tioVf6f7SxHOuNAuZn8bp1v13AHull5a5rOYV9OeDu2N3WEexZtXq4EkKwgboKhToqj8yV_MOw-0seDAQHPjQVVM
-RS: EUROSPORT 1 HD  ->  https://iptv-epg.org/images/4BMj05A_Ay0Yf4XM_zFD3QlZ2gBCLjMdpcPg0U5_2c6LmDsVa1ObXxJujjzrybnMICa_kOzSt9h51bfNdZGxSwSQ6fWiVjPz3S_x0a2dbx44t84
-RS: EUROSPORT 2  ->  https://iptv-epg.org/images/px8Vc0wF8k5y32Miqp007O-pCib6kvODhC1gqTt-d2_sjruRjqLMZKcXSvlGDgcN7kE1MYVtWS6L9sLf22vruFodHPbFr5qR43k2UP-1xNfC9gk
+RS: EPIC DRAMA HD  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/33/56/epicdramahd_logo_16_9_light_288x162_a438b934_05e4_44b9_9a29_f64e879e84cb.png
+RS: EURONEWS SRBIJA  ->  https://images-web.ug-be.cdn.united.cloud/2025/03/27/16/43/30/xl_untitled.png
+RS: EUROSPORT  ->  https://mediasb2c.mts.rs/medias/ESP-CLT-4K-BLK-RGB.png?context=bWFzdGVyfHJvb3R8NzY2OXxpbWFnZS9wbmd8YURCakwyZzRZUzgyTkRFM05EYzNNemcyTWpRek1DOUZVMUJmUTB4VVh6UkxYMEpNUzE5U1IwSXVjRzVufGMxYmE0M2E3Yzk2MjkxMjk2OGRlOTJiMjBkM2YwMjY1NGQ0Y2U0NDVjNWQyYTIyZWFjOWFmMzEzYTA5MDcwMjM
+RS: EUROSPORT 1 HD  ->  https://images-web.ug-be.cdn.united.cloud/2022/01/31/16/34/47/xl_light_480x270.png
+RS: EUROSPORT 2  ->  https://images-web.ug-be.cdn.united.cloud/2022/01/31/16/35/25/xl_light_480x270.png
 RS: FAMILY  ->  -
 RS: FIGHT NETWORK  ->  https://mediasb2c.mts.rs/medias/44953350fc40339b7fff2e09d4dde6d5.png?context=bWFzdGVyfGNoYW5uZWxzfDQxNjR8aW1hZ2UvcG5nfGFEbGhMMmd6TWk4NE56azJNVGd3TmpFeE1UQXlMelEwT1RVek16VXdabU0wTURNek9XSTNabVptTW1Vd09XUTBaR1JsTm1RMUxuQnVad3xhNjRiYzIzNjY3ZjRkY2NhYTNiYWMxOGVjMmE2MmFhZDc2ZGFjZmVkNTFhMTFlODBkYzhjODc0Zjk4MjlkZThi
 RS: FILM KLUB  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/film-klub-rs.png
-RS: FILMBOX EXTRA  ->  https://iptv-epg.org/images/pmdlQjYaRVg7tEhHd2W0ePMZ-f1YOM35fcL9wcFifcvVjKQTiOz4OY3C7idsUVilb90Fz80LLHctLPFsDluoVGXCTUYXyxsgSA91RT02HG_dYdL6xw
-RS: FILMBOX PLUS HD  ->  https://iptv-epg.org/images/1A3Kelcr_WHBVyUeOSMHNN-wPYUhAtVlzkuXeyXSYpLzXLfPKsd0eSY-y9GoGT4YfJ5Wo2MlqHvpnIio0dI4fmAEfNfrq8QmNpyy4o56K4QF02oCfQ
-RS: FILMBOX PREMIUM HD  ->  https://iptv-epg.org/images/8rSufM0gEOdEzTkZa7V3sL8ejPb7QmfW4JaiQmc1OQ5pbT-N0mZtffzzhwPJfzbBfQJdRvP0cOks_y_hQb4-CnXxSkybrUhf8VlcCVYB4qpAe8ZCBGft
+RS: FILMBOX EXTRA  ->  https://images-web.ug-be.cdn.united.cloud/2023/07/28/12/39/21/xl_light_480x270.png
+RS: FILMBOX PLUS HD  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/filmbox-plus-hr.png
+RS: FILMBOX PREMIUM HD  ->  https://images-web.ug-be.cdn.united.cloud/2023/07/28/12/38/29/xl_light_480x270.png
 RS: FOOD NETWORK  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/food-network-rs.png
 RS: FOX LIFE FHD  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/fox-life-rs.png
 RS: GRADSKA TV  ->  https://images.open-epg.com/10115271.png
 RS: HAPPY REALITY  ->  https://mediasb2c.mts.rs/medias/4d9873767a4460180f7b4239dfc5e896.jpg?context=bWFzdGVyfGNoYW5uZWxzfDE1Mzk5fGltYWdlL2pwZWd8YUdObUwyZ3hPUzg0TnprMk1UYzNOell3TWpnMkx6UmtPVGczTXpjMk4yRTBORFl3TVRnd1pqZGlOREl6T1dSbVl6VmxPRGsyTG1wd1p3fDkxM2ZmMzYxODdlNWE0YjdmN2FmZjAxZGQ2Njc2MTE5OTRlYWE4MzRlNGQ4ZDA2ZDJmZGQ2ZGYyNDMyMWRiZTk
 RS: HAPPY REALLITY 2  ->  https://mediasb2c.mts.rs/medias/73eb3650e744b4bfaa6fdf5768626289.jpg?context=bWFzdGVyfGNoYW5uZWxzfDE2Njk5fGltYWdlL2pwZWd8YURjNEwyZ3hPUzg0TnprMk1UYzNOemt6TURVMEx6Y3paV0l6TmpVd1pUYzBOR0kwWW1aaFlUWm1aR1kxTnpZNE5qSTJNamc1TG1wd1p3fGE2NmNiMTIwNWVlMTY2NTBmYjUxOWYxYzNhMjNkNmUwZjg0NDY3MzgwMWUyYzM3NzI5MTdlY2JkNzRlYjdhOWM
-RS: HAPPY TV  ->  https://iptv-epg.org/images/hLBz3KjNXuvV8BO8HbgIzrfR8J1AEwU2H23eWgoYZhhz_G2kRANFA23s3O1QC3WDhy3mw_3vLlSCYSYLyaX01pYr8b-CZ77RBVxY5fqgBk4
-RS: HBO 3 HD  ->  https://iptv-epg.org/images/sa_f4yMl0mMa3vubHsG8ylF9sC8QEHjNM1rveMhoP96WIUYdLpPRS09ndc5ZIUzOaZcvphb-MoLU2MdMCby192nf-54YyZhWsd-jFs0
-RS: HBO ADRIA HD  ->  https://iptv-epg.org/images/rL6QeZ0GB79bqJRxZzhjQKwr7KNIR_VeED5nO5xgJMrqZHgL1-Z7QrTTkaOL3cCV0BAm1WOQyXCI2kFSpmHJjfCG0VJekCu-ostIhg
+RS: HAPPY TV  ->  https://images-web.ug-be.cdn.united.cloud/2020/12/14/12/00/53/xl_happytv_eon_480x270px.png
+RS: HBO 3 HD  ->  https://images-web.ug-be.cdn.united.cloud/2021/11/30/13/00/13/xl_light_480x270.png
+RS: HBO ADRIA HD  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/39/08/hbohd_logo_16_9_light_160x90_b7d50849_51a3_41e1_9ff7_34e0f7c1c33a.png
 RS: HBO MAX HD  ->  -
 RS: HIFI ETNO  ->  https://mediasb2c.mts.rs/medias/1325ac74f9794559dada0fa6e2da7df6.png?context=bWFzdGVyfGNoYW5uZWxzfDUyODQ1fGltYWdlL3BuZ3xhR00xTDJnelpTODROemsyTVRZMU5qQXpNelU0THpFek1qVmhZemMwWmprM09UUTFOVGxrWVdSaE1HWmhObVV5WkdFM1pHWTJMbkJ1Wnd8OGIzYTIxNzg1MTkxMzBiNWU2OWRjNzk0MWJkZDFmZWFiYWRkMGU5ZTUwODc2ZTYxMDAzNjM0MzZkYjExMDgzMQ
-RS: HISTORY 2 HD  ->  https://iptv-epg.org/images/zZ2G0q9uXlm_2scPj3nIDSUltnaSE6LfZA3-qry3iGZODJqHfNuFMaL2WifRhnrkO5l58CuhkePeTjnYNvzzSpYl0yH6VGrMS1MVKHExjCUU
-RS: HISTORY HD  ->  https://iptv-epg.org/images/jwu3PUxhb57pCR87gavV5D1ep2IDLk89q5AWghbEPAaBwbk0JlMnkvaMHQiOZ1gXj1CqtwT3jv3FoZL5pSMdA1-9T10xpdrIuoo4_KlZGlI
+RS: HISTORY 2 HD  ->  https://images-web.ug-be.cdn.united.cloud/2023/06/01/11/20/11/light_480x270.png
+RS: HISTORY HD  ->  https://images-web.ug-be.cdn.united.cloud/2023/03/30/13/52/24/light_480x270.png
 RS: HRAM TV  ->  https://mediasb2c.mts.rs/medias/6ae6224580f858394442a4a6e5836a34.png?context=bWFzdGVyfGNoYW5uZWxzfDUzMDM5fGltYWdlL3BuZ3xhRE01TDJneVpTODROemsyTVRZME5USXlNREUwTHpaaFpUWXlNalExT0RCbU9EVTRNemswTkRReVlUUmhObVUxT0RNMllUTTBMbkJ1Wnd8ODVlMjE2MWZjNTIxNWE3NmM2MGRlOGY3MTkwNTljZWNhMWFlZTdhOWUzMzFlMmYzYWVhNTljYTI1ZDg5NTcyNA
 RS: HYPE CINEMA  ->  -
 RS: HYPE TV 2  ->  https://images.open-epg.com/nologo.png
 RS: HYPE TV HD  ->  https://mediasb2c.mts.rs/medias/hype-300x169-iris.png?context=bWFzdGVyfHJvb3R8OTA1MnxpbWFnZS9wbmd8YURGbUwyZzBNUzgyTnpneU9EQXpNRFl6TmpBMk1pOW9lWEJsWHpNd01IZ3hOamtnYVhKcGN5NXdibWN8NjRkODM5NjBhYWVhZWMxYjhlMzI1ZDMzOThlYzczZWY1ZGE2NDZjNjg1MDRkOWYwYTVlMmY2MTdlNmUwMjM4NA
-RS: IDJ KIDS  ->  https://iptv-epg.org/images/ecBJXiMCWXVdOWWu7uXEneKj8Iqp3CC2zdot7Re-pKaSlEZk1D2FTjkg9_0HSlA2kng4je_J0j1FOUhdGLyIiCYm1ztBFnAhUJvylLo1Q6k
-RS: INSAJDER TV  ->  https://iptv-epg.org/images/yxXK4XRPXVNF6IMt_GZtyhLHb8ZnjmiLVDXiHgTBADQE4eMUDQqGv5M5naaNrdO94QTylKu1wkiJkzPyoEuzRLP9yuOb4_OTJsdcz_ZNVnxr
-RS: INVESTIGATION DISCOVERY 4K  ->  https://images.open-epg.com/17950.png
-RS: INVESTIGATION DISCOVERY FHD  ->  https://images.open-epg.com/17950.png
-RS: INVESTIGATION DISCOVERY HD  ->  https://images.open-epg.com/17950.png
-RS: K1 TV  ->  https://iptv-epg.org/images/w1XCy90MaOqySJ4zg8bFl7WtuIA36w1_NnvYc20tTTs52CyqK_w4BvYcKku1PLYLLfUiIhftIpBr_-wukEMPioqYOPn_cbbMSsAL
-RS: KLASIK TV  ->  https://iptv-epg.org/images/Q88MrzFpixCtCw3L6NXnbI27XL0-FSnlQxxjAU6qMT5FpKaR-Avh5PBxve5WPQ56pTZ4pBJ9O7jwQrG_BGWHUB4F93mQQTOYKsrC7bsWbA
+RS: IDJ KIDS  ->  https://images-web.ug-be.cdn.united.cloud/2021/04/22/13/25/37/xl_light_480x270.png
+RS: INSAJDER TV  ->  https://images-web.ug-be.cdn.united.cloud/2024/01/15/14/49/03/light_480x270.png
+RS: INVESTIGATION DISCOVERY 4K  ->  https://images.open-epg.com/nologo.png
+RS: INVESTIGATION DISCOVERY FHD  ->  https://images.open-epg.com/nologo.png
+RS: INVESTIGATION DISCOVERY HD  ->  https://images.open-epg.com/nologo.png
+RS: K1 TV  ->  https://images-web.ug-be.cdn.united.cloud/2025/03/31/13/07/29/xl_light_480x270.png
+RS: KLASIK TV  ->  https://images-web.ug-be.cdn.united.cloud/2025/03/31/13/08/57/xl_light_480x270.png
 RS: KORENI  ->  https://mediasb2c.mts.rs/medias/97f3fc84b178c773375b517d86c0342d.jpg?context=bWFzdGVyfGNoYW5uZWxzfDk2NDl8aW1hZ2UvanBlZ3xhRFJrTDJoaE9DODROemsyTVRnM016WXhNekV3THprM1pqTm1ZemcwWWpFM09HTTNOek16TnpWaU5URTNaRGcyWXpBek5ESmtMbXB3Wnd8ZmJlZmVkZDAwYjNhYzQwYTgwNzdmZmI2ZTM4MzgyMTI0ZjY3MDM3ZTcyZmVhNWU0MTBmNzAxMzU2MTc1MmE2NA
-RS: KURIR TV HD  ->  https://iptv-epg.org/images/UhZSBlXYI9Mq8sweWqBqujQOqC45_DjJTB_UtyGi4rPnK0-9w-qax3S5oHxly2j8_3v-UrBhXdmU5GXyRzYSQhI4bXE2RbQKc_W1VqWdBuI
+RS: KURIR TV HD  ->  https://images-web.ug-be.cdn.united.cloud/2025/03/31/13/09/33/xl_light_480x270.png
 RS: KUVO TV  ->  https://mediasb2c.mts.rs/medias/f38f1443315e374baf531b3e694c023f.jpg?context=bWFzdGVyfGNoYW5uZWxzfDg5ODl8aW1hZ2UvanBlZ3xhR05tTDJoa1l5ODROemsyTVRnNE9EWTROak00TDJZek9HWXhORFF6TXpFMVpUTTNOR0poWmpVek1XSXpaVFk1TkdNd01qTm1MbXB3Wnd8YzdlNzYzNmViODk5OTNmNzMxY2UxZDliYTlhNWMwNWQ4MzhjMjZjN2UxOTU5OWUwZjRmMDhlNDRkZmNkOTdmYw
-RS: LOV I RIBOLOV  ->  https://iptv-epg.org/images/tepsjAeZbv_snjbNeCrIKnfbU0dnIAIuk9fuT0GVkHiNfNGj_FJKKi9RfyoWCvDorGj7yXlRYoSb3HgGGJu0pm7orjfuOvxaxzy1phU0L9iv2Orm
+RS: LOV I RIBOLOV  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/43/37/loviribolov_logo_16_9_light_384x216_0be73ccb_add0_46fd_b424_6103a5055a71.png
 RS: MAX SELECT 5 FHD  ->  -
 RS: MAXCRO SELECT 1 HD  ->  -
 RS: MAXCRO SELECT 2 HD  ->  -
@@ -504,193 +504,193 @@ RS: MAXCRO SELECT 3 HD  ->  -
 RS: MAXCRO SELECT 4 HD  ->  -
 RS: MAXCRO SELECT 5 HD  ->  -
 RS: MAXCRO SELECT 6 HD  ->  -
-RS: MINI TV  ->  https://iptv-epg.org/images/gyb8sfTMrMQBE6tjYvrF4aofL-lemUsYAP8_VuoVODyaJOUU3nF1dZT7R020nEftlp2ge_AUh8v-DKqlPYnSrYTq36KtS8OjPol4J3A8xyw
+RS: MINI TV  ->  https://ssc.a1.hr/ITV/pictures/logos/Mini%20TV.png
 RS: MLAVA TV  ->  -
 RS: MOJA TV SPORT  ->  -
 RS: MREZA MOST  ->  https://mediasb2c.mts.rs/medias/d4736d04a6bd63335c8c22515a1a00ab.png?context=bWFzdGVyfGNoYW5uZWxzfDY0NTh8aW1hZ2UvcG5nfGFHVXlMMmhoTnk4NE56azJNVGczTXpJNE5UUXlMMlEwTnpNMlpEQTBZVFppWkRZek16TTFZemhqTWpJMU1UVmhNV0V3TUdGaUxuQnVad3wyNmM4ZWI4MTdhZTQ3NjZlODU1NDdlYTkyZTI3ZjE2MWFkMDk0MWM1YjczNmYyMDMyNjU3ZTAwZjZiZTU0OWU4
-RS: N1 HD  ->  https://iptv-epg.org/images/zAAouIWow_Lb0LGA3sphj0vULJQ5rYQDtPp9xznUkpuQYRm3JnOppUbXHGkSltUikK0XT9blAC9ojctv-svuCDe2BW6DogHtZ2je
-RS: N1 SRBIJA  ->  https://iptv-epg.org/images/zAAouIWow_Lb0LGA3sphj0vULJQ5rYQDtPp9xznUkpuQYRm3JnOppUbXHGkSltUikK0XT9blAC9ojctv-svuCDe2BW6DogHtZ2je
-RS: NATIONAL GEOGRAPHIC HD  ->  https://iptv-epg.org/images/jciiTJQVSSxLQBUZ-WEtfyXJnA4f8J5R71Y_N6WsqgMwkrA6EDjCF00UurkDBvPjVg6PAe4lx1TVXJPjmKjbVnVWJ8QFh7JBGxdpZCMlkNbPLHGHttEC6v3J4Q
+RS: N1 HD  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/46/02/n1hd_logo_16_9_light_300x168_39ffaf86_a28a_481b_a18f_cedc2f5e1ef6.png
+RS: N1 SRBIJA  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/46/02/n1hd_logo_16_9_light_300x168_39ffaf86_a28a_481b_a18f_cedc2f5e1ef6.png
+RS: NATIONAL GEOGRAPHIC HD  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/46/47/natgeohd_logo_16_9_light_384x216_3793b7e6_902d_4879_a6e7_9d9369d65346.png
 RS: NATIONAL GEOGRAPHIC WILD HD  ->  https://ssc.a1.hr/ITV/pictures/logos/National_Geographic_Wild.png
-RS: NEWSMAX BALKANS  ->  https://iptv-epg.org/images/aWYQVfFwtvKeNXzq9pW-gNeQBl5_EwSRqKWKDn_9albcQD0bTO1U_mrWC6mIwMJMVFMzZqKJ4AHkZKAkWcQd9yo6rO0egDYvNJxFe-dFt9GgYcf-EMXB
-RS: NICK JR  ->  https://iptv-epg.org/images/jIc9u4FIxB0_B834qBn28wNrYiumICpgWMAs6qtHAQW6KNwaKP9PTIF2AZXFtvKwP_lvrFOGWePkYedulgfMXAiy272bySfPpJpSc4IjbQ
-RS: NICKELODEON HD  ->  https://iptv-epg.org/images/NiscbripjZ2_WBaOwFfGb7PyKDrkG48zRsEe8_-7HkIaTHl1CceSJPcWZJo8LnoAj6YuHKtLAo0B2mxBQ4koZNdtV9LozCDR8kuaydNaxGdMV1ZQ
+RS: NEWSMAX BALKANS  ->  https://images-web.ug-be.cdn.united.cloud/2025/03/31/13/10/07/xl_light_480x270.png
+RS: NICK JR  ->  https://images-web.ug-be.cdn.united.cloud/2024/02/27/13/31/21/xl_light_480x270.png
+RS: NICKELODEON HD  ->  https://images-web.ug-be.cdn.united.cloud/2023/08/24/10/04/36/light_480x270.png
 RS: NIS TV  ->  -
 RS: NOVA CINEMA HD  ->  https://ssc.a1.hr/ITV/pictures/logos/Nova%20Cinema.png
-RS: NOVA FHD  ->  https://iptv-epg.org/images/Hs38U5WAnmiiqXo7QjjujG7fEorE2tN53TnSt_zGJASTsHfJWJKvf65L9WpmQolvlMrOMttFWzz6__U29jQgBxsFNxvTnmyRdWT8G7okyPk
-RS: NOVA HD  ->  https://iptv-epg.org/images/Hs38U5WAnmiiqXo7QjjujG7fEorE2tN53TnSt_zGJASTsHfJWJKvf65L9WpmQolvlMrOMttFWzz6__U29jQgBxsFNxvTnmyRdWT8G7okyPk
-RS: NOVA S HD  ->  https://iptv-epg.org/images/f-LUmeSmobYQpCa5COZwsMt_ECD3JRK-My07105bLMzsmKbHxtHqVZM0B3_c599c8vf7zKhVo6nYMmWlf73KmspZvZqggg2w67YX0IEi
-RS: NOVA SERIES HD  ->  https://iptv-epg.org/images/rYZ_-4l70E6p4_VCHzrfMf6aNLzWNHhcieg5LappTR2CfSi2JJME8PQPbifdbsfzTeQZljv5st7iwxWsHRCxVsdiNOs7qotSJtaxCJbm9c96kf8
-RS: NOVA SPORT HD  ->  https://iptv-epg.org/images/zmKjfmY7tDnum-aytbN33HgyrepmfWkHr9ceMsS9vVzeYlxgqn-7jOST6jAoN4GRoH3Cq33366xiHx8K9rx2mQrl7K_U_6GdbSrJQhKqE5PjTQ
-RS: NOVOSADSKA  ->  https://iptv-epg.org/images/3R4M0tezsIWuzYpw6ZMJPuxFt18Sg3nmIypBZsR4NN0lUIf6sGk0gr9_qorpOW4gfMrGhinxyfNq2OJx_st-FOO6iA1fCrTdoRLcLYp-oyj_ONZnVw
+RS: NOVA FHD  ->  https://ssc.a1.hr/ITV/pictures/logos/Nova%20HD.png
+RS: NOVA HD  ->  https://ssc.a1.hr/ITV/pictures/logos/Nova%20HD.png
+RS: NOVA S HD  ->  https://images-web.ug-be.cdn.united.cloud/2023/01/04/09/40/08/light_480x270.png
+RS: NOVA SERIES HD  ->  https://images-web.ug-be.cdn.united.cloud/2022/10/20/14/30/10/light_480x270.png
+RS: NOVA SPORT HD  ->  https://images-web.ug-be.cdn.united.cloud/2025/03/25/14/26/34/xl_sport_light.png
+RS: NOVOSADSKA  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/48/26/novosadskatv_logo_16_9_light_480x270_eb4cebad_573a_4dfe_b7e7_c72d2e28d9f1.png
 RS: ONA TV  ->  https://mediasb2c.mts.rs/medias/ONA-TV-LOGO-200x200px.png?context=bWFzdGVyfHJvb3R8MzY2OXxpbWFnZS9wbmd8YURrekwyaGhNQzgwT0RRM05UUTFNVGcxTURjNE1pOVBUa0V0VkZZdFRFOUhUeTB5TURCNE1qQXdjSGd1Y0c1bnwwNzJjNjA4YzNhMTU4ZmM3ZTAxZTRkNmFmNzUxMThlY2I2NzhiYTdlYzgwODViNmQyN2U5ZWIxOTQ4OGY5NWJl
-RS: PALMA PLUS  ->  https://iptv-epg.org/images/RknOav-4KTIUm0CWypDgzlh40VQD0Xzd9vGnH-RB5k174pEWTHNBmMUlfKt7t_vXE5p0dIkKM-5FljIwIfC1byJ3DASlcg5lG9k6iDjPQ0tSIi0W
+RS: PALMA PLUS  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/49/40/palmaplus_logo_16_9_light_384x216_87ff65e1_129c_4028_822b_76aa52c1f073.png
 RS: PAROVI 24  ->  -
 RS: PARTIZAN TV  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/tv-partizan-rs.png
-RS: PICKBOX  ->  https://iptv-epg.org/images/q4i8MavAuRf1Gso1JxelfOwJQ7guLLapE8D5zSJsZBe40Oir-WN3UAPOXbp9II6ELAgeN4D1cyZMwwiFpQM6CKh_iSecyj2Zj2Pd3XMqxko
-RS: PINK 1 4K  ->  https://iptv-epg.org/images/yicgtW-7sTUMG6vHCvao52qeHWCMuAGvzCIocaz9In4nLrnQHrhbGqHkosKw20EblGh1f_Y10xE-389pZWBAkHACkKGbSJrImr6eYF6dBw
-RS: PINK 1 FHD  ->  https://iptv-epg.org/images/yicgtW-7sTUMG6vHCvao52qeHWCMuAGvzCIocaz9In4nLrnQHrhbGqHkosKw20EblGh1f_Y10xE-389pZWBAkHACkKGbSJrImr6eYF6dBw
-RS: PINK 1 HD  ->  https://iptv-epg.org/images/yicgtW-7sTUMG6vHCvao52qeHWCMuAGvzCIocaz9In4nLrnQHrhbGqHkosKw20EblGh1f_Y10xE-389pZWBAkHACkKGbSJrImr6eYF6dBw
+RS: PICKBOX  ->  https://images-web.ug-be.cdn.united.cloud/2021/04/23/14/05/25/xl_light_480x270.png
+RS: PINK 1 4K  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/52/07/pinkhd_logo_16_9_light_160x90_c70275aa_6e11_4926_91a2_83b7f4d64b9d.png
+RS: PINK 1 FHD  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/52/07/pinkhd_logo_16_9_light_160x90_c70275aa_6e11_4926_91a2_83b7f4d64b9d.png
+RS: PINK 1 HD  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/52/07/pinkhd_logo_16_9_light_160x90_c70275aa_6e11_4926_91a2_83b7f4d64b9d.png
 RS: PINK 2  ->  -
 RS: PINK 3  ->  -
 RS: PINK 3 (VESTI)  ->  -
-RS: PINK ACTION  ->  https://iptv-epg.org/images/r3zES-B4PK_sHGzo5LE7b5QdXAP4Bii0HDQ-tnKT4b2_zii3sy5XT9qX6o9dUNG6Jx7smpXojSOAT9AY1nJ8A5ZxFUb1n4aXp-cSeB8Yj1bCPR4
+RS: PINK ACTION  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/50/42/pinkaction_logo_16_9_light_480x270_590cb1e6_8593_45a3_b99d_bf37288d49df.png
 RS: PINK BIH  ->  https://images.open-epg.com/nologo.png
-RS: PINK CLASSIC  ->  https://iptv-epg.org/images/ftCqhXIp6pfyGyLJKIr7le-Ct1ods5g-mhIF1uG563Y49WmpvT23BMXNmDyY-z1mJC-ld4zCrLowQIwbTsB4rR1fX94SDY_exYTRwrN5QZgvjPa2
-RS: PINK COMEDY  ->  https://iptv-epg.org/images/-MruiPb5Qg2CYvwvqam2QXWDiNMLjgNeFRQSfnAeNr6Yr6SLBFkG5WvWbSutXGz7ubam4OOdtH_zTft2J7dSRTMwb2zU7iiwLs0_rbAJTuV1vx4
+RS: PINK CLASSIC  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/50/57/pinkclassic_logo_16_9_light_384x216_caee1c6f_c7e6_49db_a8be_1b129e9bf0bc.png
+RS: PINK COMEDY  ->  https://images-web.ug-be.cdn.united.cloud/2021/12/06/09/15/18/xl_light_480x270.png
 RS: PINK CRIME  ->  -
-RS: PINK EXTRA  ->  https://iptv-epg.org/images/dY48gEt-3dY6HywtHXKXlDPY8hGMLpqrsoFaPFQObgKXoACv_tuamp_qLW0HSXjxAbdQlTsSIQ7U_yX3OynIH4fOLAiBhgmcdDDWwQZpHat-MA
-RS: PINK FAMILY  ->  https://iptv-epg.org/images/mXdfXU_Wp73Oa1rP5nnXZnbOd1DMQYRmbu9TE1i3A-0Tl-HKqAzGPgguQpam_p_ZOMNR_JB_XAXNgk-Ip6Oh-cZTd-5gyrcO1MawRjvIjAkrPt8
-RS: PINK FASHION  ->  https://iptv-epg.org/images/qtWLc-Ht2P4VeEdgeCHag2_C5HtW-DegBZhyKVn2y-vhAl170DMxFRRW1tw3-B1-BhAuIvqR9hGJrJ034C8Ly788UNUTgxGzlVoZ8AglmF7zTSVq
-RS: PINK FILM  ->  https://iptv-epg.org/images/MQdnX3SHrmXMcqaYztLRZyEmXZQV-qzUl9aEHNy4vYSh0GhKaWHiWE4RXPbIrY4DcDgQSzz1J8HDZrPAgiPzbjcgYBtbf9-6QDQER7Ff1ZMS
-RS: PINK FOLK 1  ->  https://iptv-epg.org/images/lfsQe71zZ21-k2J2_DIEOugWyh2wJI45m4Np4CbCtkwxZFrKa8Jk0jMtTMVz87_s8Oztjl26rYsdG6STCMss7D56jBQqd3XtT6DGAqHf2zGJ
-RS: PINK FOLK 2  ->  https://iptv-epg.org/images/j9riG3Y5hJk-v7otnttFkHqv28R62NJybZQn8i8I7h0rl-Ap7RwRcTpPSfGOlkhmQZhbzvsqU952rL_270seG4nCeAHkO6anRrckAdbdL4FI2w
+RS: PINK EXTRA  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/51/29/pinkextra_logo_16_9_light_300x168_c99f14e8_82f0_44a6_8176_c4cfadbd4414.png
+RS: PINK FAMILY  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/51/36/pinkfamily_logo_16_9_light_300x168_d3b225b6_3bed_4f96_bdd4_59d5e8fb7bda.png
+RS: PINK FASHION  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/51/41/pinkfashion_logo_16_9_light_384x216_539b19b7_2566_453f_8a41_76c4cf846ea3.png
+RS: PINK FILM  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/51/48/pinkfilm_logo_16_9_light_288x162_91dd6e6a_9635_4c87_9f72_d4653ed5eb21.png
+RS: PINK FOLK 1  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/51/55/pinkfolk_logo_16_9_light_288x162_b43b6f5a_a60c_48ee_a76e_8a27438d8444.png
+RS: PINK FOLK 2  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/52/01/pinkfolk2_logo_16_9_light_480x270_97ec8929_3573_4d2f_bfd4_033216fbada5.png
 RS: PINK HA  ->  -
 RS: PINK HAHA  ->  https://images.open-epg.com/nologo.png
 RS: PINK HITS  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/52/13/pinkhits_logo_16_9_light_300x168_4eb134dc_095a_41a2_92f0_cda9acde599e.png
-RS: PINK HITS 2  ->  https://iptv-epg.org/images/yr4rcG8KGNSR6t2WSqaMmiCWlNuiwIc_nr7UVaQraiyaR8uTw6GNNiTbNSUPx0nUJT7-Ir2AFaWAGruz1NY-_01jhju7_jINGMNQWG4j9M1JQA
-RS: PINK HORROR  ->  https://iptv-epg.org/images/H6w3kh43j7klsNALB8HWItfwAipAAtnWNlEda-YMz56uZpPmSrdzO5QvuqEnO1CaaN8n0KWogCyTFHJpu2AAaMvBdZAl5t2Wf0YzrNAh2qbcCsk
-RS: PINK KIDS  ->  https://iptv-epg.org/images/CQ8XY8iWqwZ4uiAIUsnL6QHwonjn305b5Izsdx8RUk-stDLgUyfEmHZkBL4AntUQDNrXvFTHc354EQnXjDF6rZiJ_eYiDWfTFzohQ1Gk7Qb2
-RS: PINK KONCERT  ->  https://iptv-epg.org/images/0tOS082rNib4e-Goc4rI4S7S-JWWHPUHyeIYuK4MF0IXQ6Gl5fMrtNBuma0-VLgGan-Db4Ri-VKKEmn8iKJ0oNGNub8AZJ4KvDtdS4027eaImCtd
-RS: PINK KUVAR  ->  https://iptv-epg.org/images/-kxSeRM6p7VC9kPU8NjdyZJE4KRD0sC3rT6C1fGntSsdSFN7E7kyOOXSaeXeQ1Vfey389FDQlUUcM8LMy_8jC9sdNaoAbUCDm4LBKo4g5OqTEg
+RS: PINK HITS 2  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/52/18/pinkhits2_logo_16_9_light_480x270_7efc2dd8_b01b_4463_af45_2ff702ecca6c.png
+RS: PINK HORROR  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/52/23/pinkhorror_logo_16_9_light_300x168_f62505c6_e705_45f2_a174_e25c55847c9d.png
+RS: PINK KIDS  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/52/28/pinkkids_logo_16_9_light_480x270_28171a4b_31e6_42a7_a542_c4588ad41cd0.png
+RS: PINK KONCERT  ->  https://images-web.ug-be.cdn.united.cloud/2022/01/10/13/52/56/xl_light_480x270.png
+RS: PINK KUVAR  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/52/40/pinkkuvar_logo_16_9_light_160x90_862a09c0_a1f4_455f_8a3b_30dabaed0d04.png
 RS: PINK LOL  ->  https://images.open-epg.com/nologo.png
-RS: PINK MOVIES  ->  https://iptv-epg.org/images/4yufY06T73ll-WfymYrzqFZdsYXPPhgukDYHK5R5mL0PoTSX7P9e5ttwwl9-J-i-i6RjBnoP3EpzYmcr0lwz_W8TbChK501Z8EZZq0xLvvfeh6c
-RS: PINK MUSIC  ->  https://iptv-epg.org/images/JEJtsCGA7lXjf3eHn7DZhuAg6zvkT3-O5OCadoXsDWl8TkarMH3r6UmYMppXoQ74pZA2A_gKZXR5EYKA4r2lQVUftDYG2pozgIAwip6LTrWyEQ
-RS: PINK MUSIC 2  ->  https://iptv-epg.org/images/QCMaXtFpJXPwxDkqjRba6vl2H7z9g6OkzjXreIqZV-igaX2w3emxvMzRyoocNCL_8f2Tv7ugmzVHTzgIXkY6N6Cc4fK2R7S-EVgQfNTZ4Nx8R7M
+RS: PINK MOVIES  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/52/50/pinkmovies_logo_16_9_light_480x270_b7f150dd_4414_48f7_b898_25f0735ba0ea.png
+RS: PINK MUSIC  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/52/55/pinkmusic_logo_16_9_light_480x270_a7b164a5_a626_49c9_86f1_832af67f9885.png
+RS: PINK MUSIC 2  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/53/00/pinkmusic2_logo_16_9_light_288x162_7aacd57a_4986_48be_9025_3c52efb6d10d.png
 RS: PINK N ROLL  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/53/05/pinknroll_logo_16_9_light_300x168_2712d98a_c6e3_45f0_83fe_693774607df9.png
-RS: PINK PEDIA  ->  https://iptv-epg.org/images/M8nIRaapwWI_R6tfPxuyUh53s-nLC2h3WTVzyTF6rl_3M5tPlN6jNltsCVAiLmzE1YLsVUi-At1eWRMquuT0XOQVAicSPr6MCkx7DsglqIpaRQ
-RS: PINK PLUS  ->  https://iptv-epg.org/images/OUDrl9Cb8_ByL_33ZOzY_4nD3tKcd0Qv-xncxm43ifU0KUZgC9jLLJ4C_zc9l_WOF_jEjEd49ljr5N1IBKmEHDW5xmcCX2B0i2Rrdhd5qdZK
-RS: PINK PREMIUM  ->  https://iptv-epg.org/images/ani7D7_HssAY7VRDaIaqlxLBROBsWW1H8D-GoiAWwrwD1pssj1W1eMfZly_vVDfkemGuyLWQkAMuUF6W2T9aOQK_W9JplO9Ddrj9tXyBAPGW5-dF
-RS: PINK REALITY  ->  https://iptv-epg.org/images/Qr3ROCdaUHGno3E_Nwn76-MFycwUK04uFbBoWd9ypV9FMK5CKz8EQCxw-Muz8cq-ag7k8LmHRKe_Oy6bZjHkXgn9pGccyBDl5wzVr-zHePBk-bV8
-RS: PINK ROMANCE  ->  https://iptv-epg.org/images/J-drdmhmop9PWz1kN7ffPeu8f56YxKb7iUkTtwnv4sfa2M9s5USJUBOhIkjqoQmdxXJLWqrev78YzH5FhYF_hTNMKvqa9L_L2YLr03ZZik3lv_8h
-RS: PINK SCI FI AND FANTASY  ->  https://iptv-epg.org/images/1DEt4mVV41cCCpIEStqaoBiXUTNrrUNZLjjT8wThWw37GQ4itO_3megmRPlFLQRLNcT13n_Xru5PCdO6gNRuHwg2oRDqsym-t9EbQ5-oef5J6xDhyzWA2RIjkzr0
-RS: PINK SERIJE  ->  https://iptv-epg.org/images/8IL_vRR3KKoXLK5HLQCGTNamCPRVthZVODu3L30hr16_MQLZ9LDSdFOwe_y2yZHTYiWbhFNy175mLNUfiCRoNuXdicisSeOWh1atQi8qDTUx39I
-RS: PINK SHOW  ->  https://iptv-epg.org/images/6q38mTKwVoy_LyUHsL9SlP6dYsnHR2_rIng5onG3ICkYVkMp2X4WS7n2a7sxCq_tayvv8F0UA4I4rod-We5AqHPY-uaOovyMwpfne84q--_v
-RS: PINK SOAP  ->  https://iptv-epg.org/images/dC9-iWAQUOkuS5sc6Qi4S5OkwZCLr_1auSuCCCJhD4yrLi2PB220UE7vz47dp5-YWVsYm_nMJ8HNwaoEWnFYtuhiv5fg3ReaThIslWzkqVgA
-RS: PINK STYLE  ->  https://iptv-epg.org/images/mzTax4iRCj_2ggKRetprnv5byECHoL-iyFTWHjOl6Bxkb9RuYS82gr3KoAeCUJ0x4ei1xNmOomVW5cqW21imYluVjZmIrtYKphZ-tgtHHrmXWA
-RS: PINK SUPER KIDS  ->  https://iptv-epg.org/images/w0KneNf8qRt-8qmrBGvu0dThLIlcRf9onYvBZ2QKkH39p_rcVvodHs8T_fbKfW8D8EswHWbFaSwkYAzvTHJaOHu5Hyymz7_XAKNJfZJosS8Rzo3IJ_A
-RS: PINK THRILLER  ->  https://iptv-epg.org/images/NeIcYAjngrrkEAt8SLxou01AY4ekV4UKlIAQGS6_nmcWrhvvl56SkoWA4fawyQkhi3Mudnz1mAQTzMxyHj7wB5MPORkf0u-g9jqFiIo8ofbl259dfg
-RS: PINK WESTERN  ->  https://iptv-epg.org/images/A4FryIKrDwHB6a11lYoutSSwa3e2FYouhkdpzlTGR9kQ5-C06bpByJzralZD0XFi7MeAMm1y_t-0zx5C9HryHK8kzEugoF769wnfkE1Czk6jJIS-
-RS: PINK WORLD  ->  https://iptv-epg.org/images/LEtxNWo33WxaG9O2LQMsqgOU5b822MGV_LBfHiDlkhL_incNDYeA9FTZicp5T7Iph8uabpJ_KWePvGx0PSdDzyrxZjAqgq_IFoA87gq7-pmjIA
-RS: PINK WORLD CINEMA  ->  https://iptv-epg.org/images/rh2knOla6ZBojOtP37KOFtk5L6TDWNSYq8GRJ5lU_bdfoRE2Lkv6pYOzq2gcwzA2QtYUM_xy7jEHsh7_chLUaRTnQvBelq_Oe7mZgbTXNIIE3U_DbJlG_Q
-RS: PINK ZABAVA  ->  https://iptv-epg.org/images/-R0eWJ8SzDbjT5zIq18S6_iyvBTxElm9UPS-Ij4rdOV6Qn7TqfxeaKAIMJDSu-88RAQwhWCQHRJghAyihRGtvYg7TqZeSmA14zimI3oEuUWq7i4
+RS: PINK PEDIA  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/53/12/pinkpedia_logo_16_9_light_384x216_2d3ab4b2_3d60_49d6_a4f7_0cbe5baf52c2.png
+RS: PINK PLUS  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/53/17/pinkplus_logo_16_9_light_300x168_034a4177_f865_44af_87f9_3ce0a386e72e.png
+RS: PINK PREMIUM  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/53/27/pinkpremium_logo_16_9_light_480x270_048de39d_57dd_4e93_9a81_685083f61198.png
+RS: PINK REALITY  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/53/32/pinkreality_logo_16_9_light_288x162_2fe77073_67f6_4876_af64_b58df52e43bd.png
+RS: PINK ROMANCE  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/53/38/pinkromance_logo_16_9_light_300x168_f181acad_a5bc_47f3_9448_57bf2d2e8d62.png
+RS: PINK SCI FI AND FANTASY  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/53/45/pinkscifi_logo_16_9_light_300x168_5d647e24_beb2_4133_a968_b72710ca7e6e.png
+RS: PINK SERIJE  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/53/50/pinkserije_logo_16_9_light_480x270_76a0b4c5_5bf2_46f7_abd9_e39b09e3b271.png
+RS: PINK SHOW  ->  https://images-web.ug-be.cdn.united.cloud/2021/12/06/09/25/54/xl_light_480x270.png
+RS: PINK SOAP  ->  https://images-web.ug-be.cdn.united.cloud/2021/12/07/10/46/48/xl_light_480x270.png
+RS: PINK STYLE  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/54/10/pinkstyle_logo_16_9_light_300x168_9f6c0b34_1d6a_4424_88f5_7bffb9d8fd98.png
+RS: PINK SUPER KIDS  ->  https://mediasb2c.mts.rs/medias/3b5bc901983940816fc840ee26390f8d.png?context=bWFzdGVyfGNoYW5uZWxzfDI3NjM1fGltYWdlL3BuZ3xhRFUwTDJnellpODROemsyTVRVMk1ETTFNVEF5THpOaU5XSmpPVEF4T1Rnek9UUXdPREUyWm1NNE5EQmxaVEkyTXprd1pqaGtMbkJ1Wnd8M2FiYmEyYjMxZTFmMzFjMWFiNmM0NThmMDI3NzMwZmFkNGRkYzlkZWI5MzJlZjdiYWE2NTRiMmZlNDY1YWQwNA
+RS: PINK THRILLER  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/54/22/pinkthriller_logo_16_9_light_384x216_cddd4f2e_9fe8_4c15_8e3e_6018028873b8.png
+RS: PINK WESTERN  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/54/27/pinkwestern_logo_16_9_light_300x168_bfca2834_dc04_434c_8c24_8835f918652a.png
+RS: PINK WORLD  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/54/33/pinkworld_logo_16_9_light_288x162_e7c27395_60d6_4b9d_8577_e08eb52e3c06.png
+RS: PINK WORLD CINEMA  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/54/38/pinkwcinema_logo_16_9_light_480x270_e8346766_5faa_47ea_afd9_c69777996372.png
+RS: PINK ZABAVA  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/54/44/pinkzabava_logo_16_9_light_160x90_6137ed3a_e95d_4125_8447_26b25efe8a4f.png
 RS: PINK ZADRUGA 1 HD  ->  -
 RS: PINK ZADRUGA 2 HD  ->  -
 RS: PINK ZADRUGA 3 HD  ->  -
 RS: PINK ZADRUGA 4 HD  ->  -
-RS: PLANET EARTH  ->  https://iptv-epg.org/images/OyBGgF96p1lv0lHBDfMWJirTFMz_16FP18nV2BnmGbjXhc1mqDEgtD7ncqtqp-HL77gTTpJXwFQko12OErJvcPqxF7ww2RdtPvrZfQDV65_K992t
-RS: PRVA 1  ->  https://iptv-epg.org/images/QI-iiDfAaUehMBiQnH9xR5GFVeZqTcJH2vlESSkRAr4QrXd-z5uB4H4_5XHGII83Vzu-fK6MzzBmEu9eUANZ65H8YCiyDRl6RtRfpSI
-RS: PRVA 1 FHD  ->  https://iptv-epg.org/images/QI-iiDfAaUehMBiQnH9xR5GFVeZqTcJH2vlESSkRAr4QrXd-z5uB4H4_5XHGII83Vzu-fK6MzzBmEu9eUANZ65H8YCiyDRl6RtRfpSI
-RS: PRVA 1 HD  ->  https://iptv-epg.org/images/QI-iiDfAaUehMBiQnH9xR5GFVeZqTcJH2vlESSkRAr4QrXd-z5uB4H4_5XHGII83Vzu-fK6MzzBmEu9eUANZ65H8YCiyDRl6RtRfpSI
-RS: PRVA KICK  ->  https://iptv-epg.org/images/sh1gKASbkbqHn9Z37HiQyL_5wA1ZN-KLI1X3H_4adry7cK4d7fG-s46xEk-NPiHQRUM2SuL3-IPzQ1pL1GeUMfMChtjO2Nb1rW8l4Bjom1K8
+RS: PLANET EARTH  ->  -
+RS: PRVA 1  ->  https://images-web.ug-be.cdn.united.cloud/2023/09/11/18/00/53/light_480x270.png
+RS: PRVA 1 FHD  ->  https://images-web.ug-be.cdn.united.cloud/2023/09/11/18/00/53/light_480x270.png
+RS: PRVA 1 HD  ->  https://images-web.ug-be.cdn.united.cloud/2023/09/11/18/00/53/light_480x270.png
+RS: PRVA KICK  ->  https://images-web.ug-be.cdn.united.cloud/2023/09/11/18/06/03/light_480x270.png
 RS: PRVA LIFE  ->  https://mediasb2c.mts.rs/medias/Prva-Life-transparent-200x200.png?context=bWFzdGVyfGNoYW5uZWxzfDU5MDh8aW1hZ2UvcG5nfGFETmlMMmcxWlM4eE5qazBPVGd6T1RnMU5UWTBOaTlRY25aaExVeHBabVV0ZEhKaGJuTndZWEpsYm5SZk1qQXdlREl3TUM1d2JtY3xmYTU2NWRkYzA4NGFiZjgzOWViZDhmMzAwZGZiOTE1N2Q0NWIyYzk2MTAwODkxY2I2NWIwZmIwZTMzN2RiZTkx
 RS: PRVA MAX  ->  https://mediasb2c.mts.rs/medias/Prva-Max-transparent-200x200.jpg?context=bWFzdGVyfHJvb3R8NTMwNHxpbWFnZS9qcGVnfGFEZ3dMMmcwWWk4ME5UQXlPRGs1TmpBNE56Z3pPQzlRY25aaExVMWhlQzEwY21GdWMzQmhjbVZ1ZEMweU1EQjRNakF3TG1wd1p3fDg3ZDcxYjAyZTZhNDQ0MGQxZmIyYWQzMGJkOWViYTVmNGY4NmEyNTY1YWYwZmI3YjlkNDJkODgzNmQ3OTJhNzY
 RS: PRVA MAXX  ->  https://mediasb2c.mts.rs/medias/Prva-Max-transparent-200x200.jpg?context=bWFzdGVyfHJvb3R8NTMwNHxpbWFnZS9qcGVnfGFEZ3dMMmcwWWk4ME5UQXlPRGs1TmpBNE56Z3pPQzlRY25aaExVMWhlQzEwY21GdWMzQmhjbVZ1ZEMweU1EQjRNakF3TG1wd1p3fDg3ZDcxYjAyZTZhNDQ0MGQxZmIyYWQzMGJkOWViYTVmNGY4NmEyNTY1YWYwZmI3YjlkNDJkODgzNmQ3OTJhNzY
-RS: PRVA PLUS  ->  https://iptv-epg.org/images/fCmUVmPM8L_szTTy6Cl115qBPY6P6P83T2-pTJl47VbZ2uOWj22xoPWK8ZW2HSvH95shfwngCtPKpQPef1PMzRjBOMojU0wFnMd4ZfQwSmTq
-RS: PRVA TV  ->  https://iptv-epg.org/images/QI-iiDfAaUehMBiQnH9xR5GFVeZqTcJH2vlESSkRAr4QrXd-z5uB4H4_5XHGII83Vzu-fK6MzzBmEu9eUANZ65H8YCiyDRl6RtRfpSI
-RS: PRVA WORLD  ->  https://iptv-epg.org/images/1JSVoIVLQDm3JivQLzeT6b-6S-My-w5xGiT03XRmXyruWd8693huQJgZbfdMDtm6Hfi4OXHSEyttmyNHHLEmwyMy-2virtj2Xb6tcoZ2YWDH1g
-RS: RED TV  ->  https://iptv-epg.org/images/FXeyAJCIpMBnajXrlq-rwwikbVPH7FHU7kmFCb6h-r0maD4oZcBZ-DYDiF_w0tuPuevDt-aCF54o7fMopqWKRYEva-poU5pej4cQfC0z
-RS: RTS 2 HD  ->  https://iptv-epg.org/images/-3HTcNL2FWZ1RHII5NQpQQrv4ZVscVwHPnW68Ws8tpX1Y0xnKST4MeZl0VXq9mr1vXTQ7ROvA_w4f-b3yuYkdxrB7t9zg-ABoVjKq5w
-RS: RTS 3  ->  https://iptv-epg.org/images/tpi5-o3jovQTQm4xVpArDYvccC1k56t6NqeVVwG9HE8TMS3v8QVUb8hWpJWIMw2G9ixoGie8yATS157S4gpq6KfNBTfnVHOv-BYxBjo
-RS: RTS 4K  ->  https://iptv-epg.org/images/WyZrpfQSLd7lAJ-wFgZ0tso1W48xvENef7_qfYZ7isszrzV0b3ILsIFeyC6sDcVGu_BKk5PoNccoWBPyEWJcaF_cwYrauoRYZlskuB8
-RS: RTS DRAMA  ->  https://iptv-epg.org/images/fA69Yn4epzyAlovHRphUJ_FGpyys4jp5nZ5S0DODGBqZf_ZuPfblIsC4h75i5Alqz0TJAN_KVGZQ1xoIB5N_Hf6VAz_Iue41juDJugh35Psi
-RS: RTS FHD  ->  https://iptv-epg.org/images/WyZrpfQSLd7lAJ-wFgZ0tso1W48xvENef7_qfYZ7isszrzV0b3ILsIFeyC6sDcVGu_BKk5PoNccoWBPyEWJcaF_cwYrauoRYZlskuB8
-RS: RTS HD  ->  https://iptv-epg.org/images/WyZrpfQSLd7lAJ-wFgZ0tso1W48xvENef7_qfYZ7isszrzV0b3ILsIFeyC6sDcVGu_BKk5PoNccoWBPyEWJcaF_cwYrauoRYZlskuB8
+RS: PRVA PLUS  ->  https://images-web.ug-be.cdn.united.cloud/2023/09/11/18/08/31/light_480x270.png
+RS: PRVA TV  ->  https://images-web.ug-be.cdn.united.cloud/2023/09/11/18/00/53/light_480x270.png
+RS: PRVA WORLD  ->  https://images-web.ug-be.cdn.united.cloud/2023/09/11/18/03/27/light_480x270.png
+RS: RED TV  ->  https://images-web.ug-be.cdn.united.cloud/2022/11/16/14/38/21/light_480x270.png
+RS: RTS 2 HD  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/58/34/rts2hd_logo_16_9_light_160x90_ab3fa695_08e2_4e1e_a507_6f1fda651658.png
+RS: RTS 3  ->  https://images-web.ug-be.cdn.united.cloud/2021/07/01/09/33/37/xl_light_480x270.png
+RS: RTS 4K  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/58/23/rts1hd_logo_16_9_light_300x168_b2682e22_8c5a_4e11_b47c_42f23bb548fd.png
+RS: RTS DRAMA  ->  https://images-web.ug-be.cdn.united.cloud/2025/03/31/13/11/14/xl_light_480x270.png
+RS: RTS FHD  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/58/23/rts1hd_logo_16_9_light_300x168_b2682e22_8c5a_4e11_b47c_42f23bb548fd.png
+RS: RTS HD  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/58/23/rts1hd_logo_16_9_light_300x168_b2682e22_8c5a_4e11_b47c_42f23bb548fd.png
 RS: RTS KLASIKA  ->  https://mediasb2c.mts.rs/medias/rts-klasika-300x169.png?context=bWFzdGVyfGNoYW5uZWxzfDc3OTN8aW1hZ2UvcG5nfGFEQmpMMmhpWlM4ME56WTNNREU0TnpVNE9UWTJNaTl5ZEhOZmEyeGhjMmxyWVY4ek1EQjRNVFk1TG5CdVp3fDJiMmQ5OGI3YWY2ODc2YTFhMWY3ODUxNTcwMjQwY2YwZmNlYmRmNWExNDY2YzIzYzM0YzBiMTYxMjM0OTQ2ODc
-RS: RTS KOLO  ->  https://iptv-epg.org/images/TrlT8pR0mtMfZeXgrR3otMxEP3ewhjFhZ-EQEBDg9zToFArtjxQQjnN7NQZNbbHTL343QSkKsC-KRxx1diAoRC6XiTre8T_pZJwvWj8xpwk
-RS: RTS NAUKA  ->  https://iptv-epg.org/images/YZaHIXKtCIGilWhUyfzm4Tpy7YRiTOeBFMJGyyQvz815buPtFmYNCScizoqSoQKQDnuCVWpYKn3ZzS6auEWm0uXzWcE45bG09XMD33uSvVHN
+RS: RTS KOLO  ->  https://images-web.ug-be.cdn.united.cloud/2025/03/31/13/11/42/xl_light_480x270.png
+RS: RTS NAUKA  ->  https://images-web.ug-be.cdn.united.cloud/2025/03/31/13/12/41/xl_light_480x270.png
 RS: RTS POLETAR  ->  -
-RS: RTS SVET  ->  https://iptv-epg.org/images/EXznN4_FM0lP9z7-wzcdCe1JATFcYoeZjbfJHLDFhg_8mGlLskwnM3urHA12Hr2565lAyfLhYRD32KjQEQEdYidrLjOk1RPQw2klaevGuPI
-RS: RTS SVET HD  ->  https://iptv-epg.org/images/EXznN4_FM0lP9z7-wzcdCe1JATFcYoeZjbfJHLDFhg_8mGlLskwnM3urHA12Hr2565lAyfLhYRD32KjQEQEdYidrLjOk1RPQw2klaevGuPI
-RS: RTS TREZOR  ->  https://iptv-epg.org/images/R9d3QHwL0xsxIQ6-5rw9AzFCP59hpGAuFYCorpDfKDbsL418thJflkzWgbKmkiQa3KzHMkVGnvLNeCyM-sDKE3QulcfDW2hWG5BPXjGzZYcE_Q
-RS: RTS ZIVOT  ->  https://iptv-epg.org/images/9lMCfLmguNXrWwjFCpWo4QYcjhXMwsF465iUY6mS17EVmFLGVnRsm-HX2k52ptP1z7Ch563zavPJpW93jLmXdGpehUipdPsba5zYvIWRwG-W
-RS: RTV 1  ->  https://iptv-epg.org/images/yjZCGldnLqd67fVJ-hsuWd_AAcmGnUBDqwEi9jtRlLnJ7eG1cs_FzsgTsrWqqaAxHc7RI0a6U4aBXslu1crHF9WpyTZd3ln2iP8gAiA
-RS: RTV 2  ->  https://iptv-epg.org/images/W2hrvXKCCCMp10IXFpQUeazXcmbkk6llYHiiSfzkgxDr0xfn6038VomU-QL0j4jycROkP1joaNQlcPW9C-QfJzYcQ26EXJdVxbvT1fc
+RS: RTS SVET  ->  https://ssc.a1.hr/ITV/pictures/logos/RTS%20Svet.png
+RS: RTS SVET HD  ->  https://ssc.a1.hr/ITV/pictures/logos/RTS%20Svet.png
+RS: RTS TREZOR  ->  https://images-web.ug-be.cdn.united.cloud/2025/03/31/13/13/42/xl_light_480x270.png
+RS: RTS ZIVOT  ->  https://images.open-epg.com/nologo.png
+RS: RTV 1  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/59/00/rtv1_logo_16_9_light_480x270_f1296e13_775b_465e_b36f_b56b286520a7.png
+RS: RTV 2  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/59/05/rtv2_logo_16_9_light_288x162_6988e784_e466_427b_8ffb_fe9ba0ad4c22.png
 RS: RTV BOR  ->  -
 RS: RTV HN  ->  https://images.open-epg.com/nologo.png
-RS: RTV NOVI PAZAR HD  ->  https://iptv-epg.org/images/2uvF2zGwcN_18cvAGvt2a36mGE403fAIbeO3OSAujjWH2Ib6Xvv_OWlb3bKUVC7FcIppflqCZdFoyaBhHt76VwMg3ozS-PWXoNxa_dNVnZxfYzeg7Q
+RS: RTV NOVI PAZAR HD  ->  https://images-web.ug-be.cdn.united.cloud/2021/06/25/12/47/30/xl_light_480x270.png
 RS: RTV PANCEVO  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/59/44/rtvpancevo_logo_16_9_light_300x168_0c7ef58b_867a_4ef4_a4b3_dd06ee08a162.png
 RS: RTV VOJVODINA 1  ->  -
 RS: RTV VOJVODINA 2  ->  -
-RS: SAT TV  ->  https://iptv-epg.org/images/fd7JlJEXg2PgB6Vq2Tjn3HLTXswqoHoBioZ7WM1J3HRfTCqqr3behQfh7PM383U85vOWoxWlS_4MUrAkZRGkPE_wo2L5E2O1uMP5DOvn
+RS: SAT TV  ->  https://mediasb2c.mts.rs/medias/17703f897eb2ec23978c38078e4b8624.png?context=bWFzdGVyfGNoYW5uZWxzfDQyMDkwfGltYWdlL3BuZ3xhREZrTDJnME15ODROemsyTVRjeU1ESTFPRGcyTHpFM056QXpaamc1TjJWaU1tVmpNak01Tnpoak16Z3dOemhsTkdJNE5qSTBMbkJ1Wnd8NjFjNzBhYTllY2JkNTZmNWI3YzRjODYwOTEzN2RhMjI2Yzk2MzQ0Mjc0YjNkZDZkNDRhMGIzNmZlZGM4NGUzOA
 RS: SCIFI SRPSKA  ->  -
 RS: SINEVIZIJA 7 24  ->  -
 RS: SINEVIZIJA ДВА 7/24  ->  -
 RS: SK HD (SPORT KLUP)  ->  https://images.open-epg.com/10294433.png
 RS: SLOBODNA TV  ->  -
 RS: SOS KANAL  ->  https://images.open-epg.com/nologo.png
-RS: SPORT KLUB 1 FHD  ->  https://iptv-epg.org/images/dG660WrljyRzbHvLKXrvhjP37vSvgZZgvd0KxIhuImXUycd2lIYJwd0q-D61Tf4qIPprk6HaEaMH2H5FN3MJYUpGht5UI62rlreLFpE7QStk3hk
-RS: SPORT KLUB 1 HD  ->  https://iptv-epg.org/images/dG660WrljyRzbHvLKXrvhjP37vSvgZZgvd0KxIhuImXUycd2lIYJwd0q-D61Tf4qIPprk6HaEaMH2H5FN3MJYUpGht5UI62rlreLFpE7QStk3hk
-RS: SPORT KLUB 10 [LIVEEVENT]  ->  https://iptv-epg.org/images/cg-wfCilP1bYdM6yrqVnLFiVKdf5sZhQnHmtP5NMkjkfgsDQdbukFHvv5_aGiMytGD3FPwnOXxiL2du0TaYvAKLQQaIx1rjXVje9OfDRYq0wptRs
-RS: SPORT KLUB 2 FHD  ->  https://iptv-epg.org/images/SVtvZR74vMbRiocjCpKBHV3VOQGa8zcktjzyh0nfQWT2ydAt0aA6pdjqcXfjwQxLOE_wEuW5EvvrsF4aMkjzgJU_ubtHi7XKP_eap0oWTBoRDBg
-RS: SPORT KLUB 2 HD  ->  https://iptv-epg.org/images/SVtvZR74vMbRiocjCpKBHV3VOQGa8zcktjzyh0nfQWT2ydAt0aA6pdjqcXfjwQxLOE_wEuW5EvvrsF4aMkjzgJU_ubtHi7XKP_eap0oWTBoRDBg
-RS: SPORT KLUB 3 FHD  ->  https://iptv-epg.org/images/IMqXrYkCIsPEw_DciD0YGTzEu1ItKqI9lCprdYVw-zVM8q4I2A9Y8b4C2N8vqe2ZB7X5o_0QSihjCeHGNqAr-5ZkSPbEALhDmK1nTJfLtxdHyXc
-RS: SPORT KLUB 3 HD  ->  https://iptv-epg.org/images/IMqXrYkCIsPEw_DciD0YGTzEu1ItKqI9lCprdYVw-zVM8q4I2A9Y8b4C2N8vqe2ZB7X5o_0QSihjCeHGNqAr-5ZkSPbEALhDmK1nTJfLtxdHyXc
-RS: SPORT KLUB 4 FHD  ->  https://iptv-epg.org/images/eiA0qjZdm-RbSL0QHXdG-CDFn7LjXSfWI-H3gPlp6572kZL2mwT_y72OW2r1icQ45xxBjSlfOtSNwPZu1D7OCfNJlkWUYjpQrjrMqQ4usqzMaWQ
-RS: SPORT KLUB 4 HD  ->  https://iptv-epg.org/images/eiA0qjZdm-RbSL0QHXdG-CDFn7LjXSfWI-H3gPlp6572kZL2mwT_y72OW2r1icQ45xxBjSlfOtSNwPZu1D7OCfNJlkWUYjpQrjrMqQ4usqzMaWQ
-RS: SPORT KLUB 5 FHD  ->  https://iptv-epg.org/images/nLEBCwWjqo_M9Z57w91zb7ma5FcwbjzjiHiPbxOTLpQm8X3aup9saJUZGeyslGf6zq_cwTYkQj6hFIkI0om-yPecqzHCz_ATUUVTS-Eo22XZCWA
-RS: SPORT KLUB 5 HD  ->  https://iptv-epg.org/images/nLEBCwWjqo_M9Z57w91zb7ma5FcwbjzjiHiPbxOTLpQm8X3aup9saJUZGeyslGf6zq_cwTYkQj6hFIkI0om-yPecqzHCz_ATUUVTS-Eo22XZCWA
-RS: SPORT KLUB 6 FHD  ->  https://iptv-epg.org/images/_PLf0MKL0s39vyhVGsQZ1wusqi014-YqFMIrU74PY7X4DxfX1SmQRaRlVRaPHbonUdt-DZdPJARHoPFNNWS_Y0DnXkPkIixPJq3bJkOcIWJ1NYg
-RS: SPORT KLUB 6 HD  ->  https://iptv-epg.org/images/_PLf0MKL0s39vyhVGsQZ1wusqi014-YqFMIrU74PY7X4DxfX1SmQRaRlVRaPHbonUdt-DZdPJARHoPFNNWS_Y0DnXkPkIixPJq3bJkOcIWJ1NYg
-RS: SPORT KLUB 8 [LIVEEVENT]  ->  https://iptv-epg.org/images/EVao1FCSl6_21wY4tuFkmYcZyCuATCEiu3Of6tSJqx7trbapPyknEU4QH1mYzDsVox66_3TXNCsghPL4hyTzTSNAPtaBZjqTmlV3mhUoXNvPTZM
-RS: SPORT KLUB FIGHT HD  ->  https://iptv-epg.org/images/YPhi64U4bpAY10uND_MjDGdKdmkzrsGLTD2jzY6lJZbCMaFbDbyPqr4mq_ELWtpwb9gSNwl-M7EXH33dRBpeJ7ZzQW1F5NZVITMi8SxWb5mg1RmDhOip
-RS: SPORT KLUB GOLF HD  ->  https://iptv-epg.org/images/97Qh14eT77XyWAJ4XwxSPDyIVgZMQtRgZto-q6mrQXhSgSE027yCMufxq31K5qX50BWxaVbBUWmjjAgfAdJ7EPqVwSneshnThKaQ_rlgkYgwCQYho80
+RS: SPORT KLUB 1 FHD  ->  https://images.open-epg.com/18934428.png
+RS: SPORT KLUB 1 HD  ->  https://images.open-epg.com/18934428.png
+RS: SPORT KLUB 10 [LIVEEVENT]  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-10-hr.png
+RS: SPORT KLUB 2 FHD  ->  https://images.open-epg.com/18934429.png
+RS: SPORT KLUB 2 HD  ->  https://images.open-epg.com/18934429.png
+RS: SPORT KLUB 3 FHD  ->  https://images.open-epg.com/18934430.png
+RS: SPORT KLUB 3 HD  ->  https://images.open-epg.com/18934430.png
+RS: SPORT KLUB 4 FHD  ->  https://images.open-epg.com/18934431.png
+RS: SPORT KLUB 4 HD  ->  https://images.open-epg.com/18934431.png
+RS: SPORT KLUB 5 FHD  ->  https://images.open-epg.com/18934433.png
+RS: SPORT KLUB 5 HD  ->  https://images.open-epg.com/18934433.png
+RS: SPORT KLUB 6 FHD  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-6-hr.png
+RS: SPORT KLUB 6 HD  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-6-hr.png
+RS: SPORT KLUB 8 [LIVEEVENT]  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-8-hr.png
+RS: SPORT KLUB FIGHT HD  ->  -
+RS: SPORT KLUB GOLF HD  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-golf-hr.png
 RS: SPORTSKA TV  ->  https://ssc.a1.hr/ITV/pictures/logos/sptv.png
 RS: SRPSKA TV  ->  https://mediasb2c.mts.rs/medias/SRTV-LOGO-PNG.png-300x169.png?context=bWFzdGVyfHJvb3R8MTk5Mzd8aW1hZ2UvcG5nfGFHUmpMMmc1WXk4ME5EWTNNVGt6T0RBd01qazNOQzlUVWxSV0xVeFBSMDh0VUU1SExuQnVaMTh6TURCNE1UWTVMbkJ1Wnd8YjA3MThhOGU1Mjg2YmQ3ZTcwYTBiODBjOTZkMzFjZDc4ZWJhZTdjYTYyNjViZDA0Nzk2NzJhYzI3ZTU5YTA3Mw
 RS: STAR CHANNEL  ->  https://ssc.a1.hr/ITV/pictures/logos/Fox%20HD.png
-RS: STAR CRIME  ->  https://iptv-epg.org/images/gmoREsggjCfmVqNGtuYbBML4viF7byhlkRU7fkjUxSQ5JFYUNvoAT012H5bzKyxNnHwmRg7hH7lICSqi5HhmxoVrph9aua9AQ53qVNOpPqvyug
-RS: STAR LIFE HD  ->  https://iptv-epg.org/images/cwCdJ9l_yP7U6sQouYq3OfhFZ2h5GlV5zrEkFVOP1f5rNXw7tP-juZEvy8fuZbb3VHoaGPmlaB_yMb_3WVIowHP_J5jB9vVTHEtnJZTP3s8S
-RS: STAR MOVIES  ->  https://iptv-epg.org/images/HIYeRmS3NnLfyGvPicX5CmCOxxJ6Xe5djjZVNeWvWrtc0mevRpl638oR4dmmqlCUcacac_ejFQk_tEtDY2j3NEm0LsLMYvLYsBh_yr3f4WILWCU
-RS: STUDIO B  ->  https://iptv-epg.org/images/lXxH0wQI6eeezcoEJM_hz44FtysGgFbgIAI-TnYpdLjQfvI_zO0l2iyGxfhVJOMPaVl2Pc3gCijykog7j0L2fyzg8D2vRQg2y7IvF-g2-k8
-RS: SUPER STAR 2 TV  ->  https://iptv-epg.org/images/Npw6-N_0uqIfDdzmQIb6xbiUk5JzDeC9Of8Om7b-TRoBozFB9pEU4yJQ6AU2bukaNPgxy3Zm0pMZV53DhUxZyZIW2ufQH4bsv0v89ObM5OYdATc
-RS: SUPER STAR TV  ->  https://iptv-epg.org/images/dAqVf8n4FXJqp_dRt93Ln_6DvO0Z1D-iiQXBJG-0eafPlIXIwOULvkO6_yEuXqoNiKXQpUe8yOkboCZfOxNS3R8ZJY-dNyYZslGhqbJDfOfQVSMF
+RS: STAR CRIME  ->  https://images-web.ug-be.cdn.united.cloud/2023/10/01/07/52/07/light_480x270.png
+RS: STAR LIFE HD  ->  https://images-web.ug-be.cdn.united.cloud/2023/10/01/07/48/50/light_480x270.png
+RS: STAR MOVIES  ->  https://images-web.ug-be.cdn.united.cloud/2023/10/01/07/54/19/light_480x270.png
+RS: STUDIO B  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/05/19/studiob_logo_16_9_light_384x216_ce9854e1_02b8_4499_98c2_0c5885e46f74.png
+RS: SUPER STAR 2 TV  ->  https://mediasb2c.mts.rs/medias/SUPERSTAR-2-EPG-IRIS-266x200px.png?context=bWFzdGVyfHJvb3R8NzU5N3xpbWFnZS9wbmd8YURkbEwyZ3hZaTgwT0Rjek5qY3hOVFEzTWpreU5pOVRWVkJGVWxOVVFWSXRNaTFGVUVjdFNWSkpVeTB5TmpaNE1qQXdjSGd1Y0c1bnxhMGUwNjNkYTQzMDUyZjhiYjA4NzBjZWNkZDFmODQxMTYzYTVlY2Q4ZGU2ZGUyYjgwZjU0YzFlYzI4MzQ3MDVl
+RS: SUPER STAR TV  ->  https://mediasb2c.mts.rs/medias/SUPERSTAR-EPG-IRIS-266x200px.png?context=bWFzdGVyfGNoYW5uZWxzfDYzMTh8aW1hZ2UvcG5nfGFHTTRMMmcyTlM4ek1UZ3lNVEkyT1RjMk1qQTNPQzlUVlZCRlVsTlVRVkl0UlZCSExVbFNTVk10TWpZMmVESXdNSEI0TG5CdVp3fDkzNTQ4ZmJiMmJiOGI4YzJjNTE0NmRiMDQyOGRkZWYwYjQ2NWJkMmY3NDFiNmE0OWIxZDlhZjJjZGVmOWNmOWQ
 RS: SUPER TV  ->  -
-RS: TANJUG HD  ->  https://iptv-epg.org/images/H1z1jmEqWSOvMyTYMRHwemMcxXaT13g2z9gxF92RQEwnQfel_6biHj5fvwnakuYZBW8rTYXbU_MeAtpnQULxk35x7DsdXzroHw1fzVAbLFwa
-RS: TLC HD  ->  https://iptv-epg.org/images/EN6Af8E2bYleeB39wfKxAfYwafw4FB4lkK41N_snjmTAXcvcx-09km7TE0sSIJBDoM8coI6uG4WqQ-JGJ9RYZQxitD83xNhrfKcVLg
-RS: TRAVEL CHANNEL  ->  https://iptv-epg.org/images/MD8tdNhSq-0PS4j3lM3mu2KoGTw8pP_SR_jx7vzOE_jvaQzOa163WSDPGBFMCAnC-yimBiiZcNorSnCvRPRQNMDQr2BDGqwLwhjMpbNHPJtEJOEYsE4
+RS: TANJUG HD  ->  https://images-web.ug-be.cdn.united.cloud/2025/04/02/09/55/37/xl_untitled.png
+RS: TLC HD  ->  https://images-web.ug-be.cdn.united.cloud/2021/03/30/15/50/09/xl_light_480x270.png
+RS: TRAVEL CHANNEL  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/07/19/travelhd_logo_16_9_light_160x90_980599ee_821f_4941_a59f_d57f6ffcdfec.png
 RS: TURIZAM + TV  ->  https://mediasb2c.mts.rs/medias/Turizam-TV.jpg?context=bWFzdGVyfGNoYW5uZWxzfDU1MTR8aW1hZ2UvanBlZ3xhR1E0TDJnNE15OHhOVGt3TmpNNU1EZzJOems1T0M5VWRYSnBlbUZ0SUNzZ1ZGWXVhbkJufDliOWUxZGFjMmUwNzBmODg5NGYzM2ZhOTI2ZTlkM2RmYzJjMWM5NGYyYjhiYmE5N2FhZDIxNmEzMzA5MWZjZTY
-RS: TV 1  ->  https://iptv-epg.org/images/XdmiuXz-3IksGkHM7pWZ3YW5WzfK0mY7_MjE9eSYAgLEAXcxSo_ieGTAsYpEYTl5mnZXlW53CSlYfAqDfEx9N10eaAcmDX-oHxSqBtYe
+RS: TV 1  ->  https://images.open-epg.com/10115512.png
 RS: TV 7  ->  https://images.open-epg.com/10115504.png
 RS: TV A  ->  https://mediasb2c.mts.rs/medias/Atv-2-200x200.png?context=bWFzdGVyfGNoYW5uZWxzfDE4MzM2fGltYWdlL3BuZ3xhR1ZtTDJneU15OHlOalF3T0RJNE16VTNNREl3Tmk5QmRIWmZNbDh5TURCNE1qQXdMbkJ1Wnd8NDZiNWUzMjA1ZDQ0YTViYzdjMzA2MjlhZjIwNDFlZGZkOTU1NTI3MjM0ZjNiNjJhYjU0YjhmNzAwNWM0NzZiOA
 RS: TV FRONT  ->  https://mediasb2c.mts.rs/medias/tv-front.jpg?context=bWFzdGVyfGNoYW5uZWxzfDI0NTF8aW1hZ2UvanBlZ3xhRFZsTDJnelppOHhNVFl4TlRnNE5EazJOemsyTmk5MGRpQm1jbTl1ZEM1cWNHY3xmZWYzZGRmNjQ3NjkzZmEzYjY4Y2EwZDcyY2ZkMzI3ZTJiMjcyZGFkZTBmMmE4N2MzZTVkZDhiZmFhYzJkZTI5
 RS: TV ISTOK  ->  https://mediasb2c.mts.rs/medias/b712016ed1501e318c73aba880359238.png?context=bWFzdGVyfGNoYW5uZWxzfDIxMzY0fGltYWdlL3BuZ3xhREkxTDJnek5TODROemsyTVRjeU5EVXhPRGN3TDJJM01USXdNVFpsWkRFMU1ERmxNekU0WXpjellXSmhPRGd3TXpVNU1qTTRMbkJ1Wnd8Y2JmM2RmYzA5NjdkY2I3YTQ4M2FhOWRiN2E4MzM2YTAzM2NkMDQ1ZTdiNzFiZmU4MWExNzhjZWY4YTdmNmE0MQ
-RS: TV JEFIMIJA  ->  https://iptv-epg.org/images/0r6BQfsbimGi7R5OutfYPbFUAISV610NPqcbovY8NPi68vKNGiaCxkxPy8OkBvttEUCtGrg1v-inQ4mqagfnUNHKAu4oFhMuUaF3hzicP4jVMWA
+RS: TV JEFIMIJA  ->  https://images-web.ug-be.cdn.united.cloud/2023/01/17/11/42/39/light_480x270.png
 RS: TV KRALJEVO  ->  https://mediasb2c.mts.rs/medias/RTV-KRALJEVO-ADMIN-TABLA-200x200.jpg?context=bWFzdGVyfHJvb3R8NzMyOHxpbWFnZS9qcGVnfGFHVTFMMmhrWmk4eE5qWTROalUzTlRBeU5qSXdOaTlTVkZZdFMxSkJURXBGVms4dFFVUk5TVTVmVkVGQ1RFRmZNakF3ZURJd01DNXFjR2N8N2JkOTZhMmFlZmJkYmExN2ZlYWYzMDc1NDZkYjE4ZTM3YmUwMjUxOGQzZDAyZWU4MTZiM2NlMTI0OTI2MzVlMw
-RS: TV KRUSEVAC  ->  https://iptv-epg.org/images/4EhvdIW-IAgQSeTL9peDqbk0kPqVod--_yVnnnUXXZuOqFDFXhnvKpmWNEcqliooHzQ6C0-B6GkmbmFl0B-hGND0Cs4EuMftRxbIYAq2Lwgm6G8
+RS: TV KRUSEVAC  ->  https://images-web.ug-be.cdn.united.cloud/2021/10/04/11/22/41/xl_light_480x270.png
 RS: TV LAV PLUS  ->  https://mediasb2c.mts.rs/medias/000745faeececd90878f3e557c4f0e32.png?context=bWFzdGVyfGNoYW5uZWxzfDE2MTE3fGltYWdlL3BuZ3xhRGhpTDJneVpDODROemsyTVRZME5UZzNOVFV3THpBd01EYzBOV1poWldWalpXTmtPVEE0TnpobU0yVTFOVGRqTkdZd1pUTXlMbkJ1Wnd8ZTExYzgzZjI2ZjIzYTcwNGM3YzMxNjA4ZTljMWQ1MTA5MjlhNmQ0OWNhYzk1NTU1MDkwZGMxNjdiODQxNmQ4Nw
-RS: TV MOST  ->  https://iptv-epg.org/images/b60eCSIzyYk338jR94wMj0gijZEfDFQDMEYmlWo6KQUsD8b1wFRUOCLu3dqtQL3KmNss3iTummVQaL7pQup62r0um7l2jsbh_C9lYfkvgg
-RS: TV NOVA  ->  https://iptv-epg.org/images/Hs38U5WAnmiiqXo7QjjujG7fEorE2tN53TnSt_zGJASTsHfJWJKvf65L9WpmQolvlMrOMttFWzz6__U29jQgBxsFNxvTnmyRdWT8G7okyPk
+RS: TV MOST  ->  https://images-web.ug-be.cdn.united.cloud/2023/03/30/15/23/08/light_480x270.png
+RS: TV NOVA  ->  https://ssc.a1.hr/ITV/pictures/logos/Nova%20HD.png
 RS: TV RAS  ->  https://mediasb2c.mts.rs/medias/ca4b7576f80e3a79acf2a547cdcca07d.png?context=bWFzdGVyfGNoYW5uZWxzfDQ4NDZ8aW1hZ2UvcG5nfGFERmpMMmd4WkM4NE56azJNVFk1TlRNMU5URTRMMk5oTkdJM05UYzJaamd3WlROaE56bGhZMll5WVRVME4yTmtZMk5oTURka0xuQnVad3xmN2M2YTFlNzc5ODRiMTI5M2Q1YmRmNDc1MmRkOWI5ODQzNTcwNjE1YjliNGM0OTI4ODAxZjcxNzk1OGFlZWQ2
 RS: TV TEUTA  ->  -
 RS: TV VRANJE  ->  https://mediasb2c.mts.rs/medias/11d1eb2bf23a830fac09adee2d48728a.png?context=bWFzdGVyfGNoYW5uZWxzfDE2OTgyfGltYWdlL3BuZ3xhRGM1TDJneU5pODROemsyTVRjek1EQTRPVEkyTHpFeFpERmxZakppWmpJellUZ3pNR1poWXpBNVlXUmxaVEprTkRnM01qaGhMbkJ1Wnd8Y2Q1NTJhMzliNWRiZjJkYzNiNjYwNTY4OGRmOTI0NmI3OTc1MjM3Yzc0MmY3YTBiYWM3YmI2NDk2ZjFjNzc0OA
 RS: TV ZONA  ->  -
-RS: TVCG MNE HD  ->  https://iptv-epg.org/images/946FPuGEn1x4VcKXfDiSi5I3V3B-Lpvsnj1hdD1390AspAk7fxfEtEW5JfuXwdcUzl9B5_Zb7v040WAWKyMampkrJoOwHqrFQYvTWFXDEMmk
-RS: UNA TV  ->  https://iptv-epg.org/images/b0B-C7KiG7UVuylfIYeLFLKFVOsth4C4wpyd2K20aDJ9O9XflAfoRVQLbvrUEtHHBh-4EWKnUBC0ShzeA8lyEZiTNsLQ5xYoneV4djfx
+RS: TVCG MNE HD  ->  https://images.open-epg.com/7342079.png
+RS: UNA TV  ->  https://images-web.ug-be.cdn.united.cloud/2025/04/22/10/39/29/xl_light_480x270.png
 RS: VAVOOM  ->  -
-RS: VIASAT EXPLORE  ->  https://iptv-epg.org/images/AuSp77PiSogldaO4rWZAbOneyOdDKHED9BoEq054Qn4_JqgfhsI24VdUoyIFAtsIhlZN7AJtCqqVf6VnTYaenX9WwhKOdB9GaqjBVX5kPUIEsvWpkrE
-RS: VIASAT HISTORY HD  ->  https://iptv-epg.org/images/6AOzmNogBV2SpDonLXCKeNvrUFrkLok4SLm5WKFNKAFn6NFScGaeOivtbvjE1zO10-F3qkhL14-QJBwP8tTlyeGrEI1Ka5tAsAr5wzwf_8dTMHZejtY
-RS: VIASAT NATURE  ->  https://iptv-epg.org/images/rHuIho6S3tVq2bngEqYNxkggOwNwUaW74_7odmhihyy5TTGAs_PPz2qcRcfXDH4nITfc3Z7TmVN7MQIo_ABdGqGSyhE8y0XSzRISoCp-IFrdR-JIsQ
+RS: VIASAT EXPLORE  ->  https://images-web.ug-be.cdn.united.cloud/2022/01/19/11/11/29/xl_light_480x270.png
+RS: VIASAT HISTORY HD  ->  https://images-web.ug-be.cdn.united.cloud/2022/04/18/15/47/01/light_480x270.png
+RS: VIASAT NATURE  ->  https://images-web.ug-be.cdn.united.cloud/2022/01/19/11/15/31/xl_light_480x270.png
 RS: VIKOM  ->  https://images.open-epg.com/nologo.png
 RS: WORLD FHD  ->  -
 RS: YU BOOMERANG  ->  https://images.open-epg.com/26714363.png
-RS: YU FOX CRIME  ->  https://iptv-epg.org/images/gmoREsggjCfmVqNGtuYbBML4viF7byhlkRU7fkjUxSQ5JFYUNvoAT012H5bzKyxNnHwmRg7hH7lICSqi5HhmxoVrph9aua9AQ53qVNOpPqvyug
+RS: YU FOX CRIME  ->  https://images-web.ug-be.cdn.united.cloud/2023/10/01/07/52/07/light_480x270.png
 RS: YU FOX LIFE  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/fox-life-rs.png
-RS: YU FOX MOVIES  ->  https://iptv-epg.org/images/HIYeRmS3NnLfyGvPicX5CmCOxxJ6Xe5djjZVNeWvWrtc0mevRpl638oR4dmmqlCUcacac_ejFQk_tEtDY2j3NEm0LsLMYvLYsBh_yr3f4WILWCU
-RS: YU HBO 1 HD  ->  https://iptv-epg.org/images/rL6QeZ0GB79bqJRxZzhjQKwr7KNIR_VeED5nO5xgJMrqZHgL1-Z7QrTTkaOL3cCV0BAm1WOQyXCI2kFSpmHJjfCG0VJekCu-ostIhg
-RS: YU HBO 2 HD  ->  https://iptv-epg.org/images/D95Opa-RQQcW78nsDm6VcyzV_LRpDmtlOlQuVvLDDdce7lF_zuAqIglbu_Uk7KxlouPjh4gYZy5tZgxLycLWKxWTX4H4ChDw__lXfMU
-RS: YU MINI TV  ->  https://iptv-epg.org/images/gyb8sfTMrMQBE6tjYvrF4aofL-lemUsYAP8_VuoVODyaJOUU3nF1dZT7R020nEftlp2ge_AUh8v-DKqlPYnSrYTq36KtS8OjPol4J3A8xyw
-RS: YU MINIMAX  ->  https://iptv-epg.org/images/Ad1sL1s6fTPuKN80OW86pB_ywxfAMTQiFr8boYxEJjmewNmCCZtG4Pe4nITCvAFc1eHN_XwTdEQQc3Qbx6LxCTwqLqWEfrR5imsiL1HSFgM
+RS: YU FOX MOVIES  ->  https://images-web.ug-be.cdn.united.cloud/2023/10/01/07/54/19/light_480x270.png
+RS: YU HBO 1 HD  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/39/08/hbohd_logo_16_9_light_160x90_b7d50849_51a3_41e1_9ff7_34e0f7c1c33a.png
+RS: YU HBO 2 HD  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/38/45/hbo2hd_logo_16_9_light_300x168_2ebcc208_24a0_4ea8_927d_44d6b0c39985.png
+RS: YU MINI TV  ->  https://ssc.a1.hr/ITV/pictures/logos/Mini%20TV.png
+RS: YU MINIMAX  ->  https://images-web.ug-be.cdn.united.cloud/2021/08/02/11/04/04/xl_light_480x270.png
 RS: YU NOVA M HD  ->  https://images-web.ug-be.cdn.united.cloud/2023/01/04/09/36/15/light_288x162.png
-RS: YU O KANAL HD  ->  https://iptv-epg.org/images/ycpSoYdkqBfgm6zqSqsjMr5BUdojtUzTO8QAtt7JGaRk4ALpkmqZL69fnfdWQj6TyN9mshqBKOKMCdv2ZbUdXjlfDkIWC70-Dytzh699Eg
+RS: YU O KANAL HD  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/48/44/okanal_logo_16_9_light_384x216_aecfcc13_978b_4b0d_a946_d1ae17de7a44.png
 RS: YU O2  ->  -
-RS: YU OBN HD  ->  https://iptv-epg.org/images/TJgGCKgUlXuUWRxC5BR3zxjAOn5RwoNLoxIMJQUwNuNOkR90k3kHbJbzM2aJcl_sUVJXA0u_5dR0pMst4ZLBFCGWj6786LHqUzRxsA
-RS: YU PIKABOO  ->  https://iptv-epg.org/images/poZw2rF5L3Yq2L-x9hRi2Lo3PRU1J70YtD2gcqr-xM5QfvwN3so951kU3P8-pLOiDkuiaImACBr3yRor5Dvb5bGE5FOz_bbTcnEK2aq2PME
+RS: YU OBN HD  ->  https://images-web.ug-be.cdn.united.cloud/2025/03/31/13/10/38/xl_light_480x270.png
+RS: YU PIKABOO  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/50/02/pikaboohd_logo_16_9_light_300x168_0a541f40_5a25_4857_982c_32a2d00c85ee.png
 RS: YU PINK 2 HD  ->  -
 RS: YU PRVA FILES  ->  https://mediasb2c.mts.rs/medias/Prva-Files-transparent-200x200.png?context=bWFzdGVyfGNoYW5uZWxzfDY2Nzd8aW1hZ2UvcG5nfGFHUXpMMmcxWVM4eE5qazBPVGd6T1RjMU56TTBNaTlRY25aaExVWnBiR1Z6TFhSeVlXNXpjR0Z5Wlc1MFh6SXdNSGd5TURBdWNHNW58N2I5MjJhODA1MTQ3NGRhNGIxNDdlZTIxZmEwMzE4MjI5ZGUyMDMxMGY0MDE0YzRjNjU1MDZiNTI2M2FlMzQ1NA
 RS: YU RTRS  ->  https://mediasb2c.mts.rs/medias/c47d53d6172ab3a88585b26338b72842.png?context=bWFzdGVyfGNoYW5uZWxzfDgxMzR8aW1hZ2UvcG5nfGFESTBMMmhtTkM4NE56azJNVFUwTVRBeE56a3dMMk0wTjJRMU0yUTJNVGN5WVdJellUZzROVGcxWWpJMk16TTRZamN5T0RReUxuQnVad3xhZjQ2NDIwZDBjMTc1MWQ4MzEwNTNmYjdhOGNjOTVkZmU4YTZkYzA3NTNlNmY1Njc5NWE5OTllYjU0OTE2MTg2
-RS: YU RTRS PLUS  ->  https://iptv-epg.org/images/5doBEfSrFWlGnlzFi1e3R7kE_R4uKnfFxfL8nN7RHIG_RaLd768ura1aP7kVN8v3M9tEyWW25xnP3JNBEmLfcF5dcFD1TA-uHEZjGnyg1FSp
+RS: YU RTRS PLUS  ->  https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/58/13/rtrsplus_logo_16_9_light_160x90_70f2f571_7f4d_4fcc_9ea0_7e37f6d9e2eb.png
 RS: YU TNT KIDS  ->  -
-RS: YU TV 1000  ->  https://iptv-epg.org/images/vPO1q4cy3yAYcRyI5hf2vzVP13y8GMPyM0H43x0v0g0EuOcbrnFyjOfc-a6zeIF2q2LNlJCxbQdC2TM9VMYh8aHbvidd3TN-OWQzNwblK0A
+RS: YU TV 1000  ->  https://ssc.a1.hr/ITV/pictures/logos/Viasat%20TV1000.png
 RS: YU TV HRAM  ->  https://mediasb2c.mts.rs/medias/6ae6224580f858394442a4a6e5836a34.png?context=bWFzdGVyfGNoYW5uZWxzfDUzMDM5fGltYWdlL3BuZ3xhRE01TDJneVpTODROemsyTVRZME5USXlNREUwTHpaaFpUWXlNalExT0RCbU9EVTRNemswTkRReVlUUmhObVUxT0RNMllUTTBMbkJ1Wnd8ODVlMjE2MWZjNTIxNWE3NmM2MGRlOGY3MTkwNTljZWNhMWFlZTdhOWUzMzFlMmYzYWVhNTljYTI1ZDg5NTcyNA
 RS: ZADRUGA 1 HD  ->  https://images.open-epg.com/18664.png
 RS: ZADRUGA 2  ->  https://images.open-epg.com/18666.png
@@ -701,82 +701,82 @@ RS: ZVEZDA TV  ->  https://mediasb2c.mts.rs/medias/zvezda-tv-300x169.png?context
 SL: SPORT KLUB 1 HD  ->  https://images.open-epg.com/18934428.png
 SL: SPORT KLUB 2 HD  ->  https://images.open-epg.com/18934429.png
 SL: SPORT KLUB 3  ->  https://images.open-epg.com/18934430.png
-SL: SPORT KLUB GOLF FHD  ->  https://iptv-epg.org/images/HgToR7eizGPhyaUf30FZizRmKYz97e8aZH4yteDJPiklzfjPCmRZ3PlrVFmOJsk9nWWcwxoZyGsNVKlL_HyLvPVW0y2RoM8zdxaTIqRuxJY2fZkkRfV5
+SL: SPORT KLUB GOLF FHD  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-golf-hr.png
 SL: SPORT KLUB HD  ->  https://images.open-epg.com/18934428.png
 SL: SPORT TV 1 HD  ->  https://images.open-epg.com/6385.png
 SL: SPORT TV 2 HD  ->  https://images.open-epg.com/18934438.png
 SL: SPORT TV 3 HD  ->  https://images.open-epg.com/18934439.png
-SW: ATG  ->  https://iptv-epg.org/images/1FKVjATerJ8nhaVaAIDnUQIb45gNOkih1KjGBezSU9Cah2_XnhSuDcjREEvnkLZr5oXS7K-awGgvjNgJ1O35GdTXjGL7TGC0foM1hrzxM00
+SW: ATG  ->  http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png
 SW: EXPRESSEN TV HD  ->  -
-SW: GODARE HD  ->  https://iptv-epg.org/images/gNGxmrJTl9LynTPLaqoK84JmqS9q7UBxREG3JNwYGszyLRmO0ituB107BWgG2NNURvWZJNqz_BGm7UWb174bZDOOeY-ItZVM_DfWVp2cgg
+SW: GODARE HD  ->  https://images.open-epg.com/2781.png
 SW: INVESTIGATION DISCOVERY FHD  ->  https://images.open-epg.com/5333.png
 SW: SVT BARNKANALEN HD  ->  -
 SW: TV4 FOOTBALL HD  ->  -
-SW: TV4 HOCKEY FHD  ->  https://iptv-epg.org/images/KOtksTs_46rFhjAxfpbwgpYDoJ0jPQA7NpmLYL5w8-8x6wVfyLkpZViRMwX8BZn2t2dnV7jGnbt8ECpdZPmcZ6uSgvw7NUTjCmh4QRyqHCkkpA
-SW: TV4 MOTOR HD  ->  https://iptv-epg.org/images/yU0FbL0xbCNFITxrsyHDoiuGRp55uzWb-Hf3mzagToMKWdPjWK-MrnP3YL3PLcgkFe3qlus9D-QeenA-0dAQn4c-F2diy8zsYEEAN9jBqt10
-SW: TV4 SPORT 1 HD  ->  https://iptv-epg.org/images/ODL-7b6lgwyMWN4GAVE-WuKPHnLXDrsf-iEoB1glUwTvMYOOQ7kq2UgXPkZVZgi-_GJmqwLVgHzSlT2tmr8E7Lfc1o7jxSVt9vYrRhMdMC22mzFdjKU
-SW: TV4 SPORT 2 HD  ->  https://iptv-epg.org/images/N5_conamPpzGpKS80OFkfIvFZxE5tB58Y1P-muwtAuT1YiLt521qSKAetW1xCjgtgK9CoT_uIk4MxOfG2HVKbHVUiQYd8eCmkqd9zbWGCOa9t5-ZNAQ
-SW: TV4 SPORT 3 HD  ->  https://iptv-epg.org/images/3tQjxO10-rXFpaKetIOZAw5jnL64FNvsKQrGTO_MstIaoNB6Fkc4lSvZ3NnyCqjbBR_jsYOZHbS26uBZh_uTMdz_g9aeLRcBhYXrcTkPKjf2q6x_8YU
-SW: TV4 SPORT 4 HD  ->  https://iptv-epg.org/images/v1-vvA4r4GXDi1kYV9VK261r_1BrzBdS0GvMjsPTSWnMv9S3IucH_a4VHCpL9N_iJrS14Gri5uTLiKIFO3nY4C_qmTpVxp-tAWhU55E8PSE1x7UK4L0
-SW: TV4 SPORTKANALEN HD  ->  https://iptv-epg.org/images/kvTaXcEYhUcGEWbT-jJQmtZSvsc71-x9VUca4ypRO5RnX7TXymwhgf79urlKa78-GvBDMUQ1e_bpJGK7BU_RdZliFJNYUyvEK_oNh2BY_Cxq-QW94DkP0Q
-SW: V SPORT GOLF HD  ->  https://iptv-epg.org/images/UbvW4t_y7OcLWjgj7J_VI80AUJTVHSAj73eh-qWRvLv53Ks_rP_1QFq-VeU6PiS6v0jngCIzVUBPV9iWSvA9dCT0b1uXU-FOxU86Fh0uX2U7wc8
+SW: TV4 HOCKEY FHD  ->  http://dtil.tmsimg.com/assets/s77718_ll_h15_ab.png?w=360&h=270
+SW: TV4 MOTOR HD  ->  http://dtil.tmsimg.com/assets/s97327_ll_h15_ad.png?w=360&h=270
+SW: TV4 SPORT 1 HD  ->  http://dtil.tmsimg.com/assets/s78749_ll_h15_ab.png?w=360&h=270
+SW: TV4 SPORT 2 HD  ->  http://dtil.tmsimg.com/assets/s77714_ll_h15_ab.png?w=360&h=270
+SW: TV4 SPORT 3 HD  ->  http://dtil.tmsimg.com/assets/s77715_ll_h15_ab.png?w=360&h=270
+SW: TV4 SPORT 4 HD  ->  http://dtil.tmsimg.com/assets/s77716_ll_h15_ab.png?w=360&h=270
+SW: TV4 SPORTKANALEN HD  ->  http://dtil.tmsimg.com/assets/s105458_ll_h15_aa.png?w=360&h=270
+SW: V SPORT GOLF HD  ->  http://dtil.tmsimg.com/assets/s83504_ll_h15_aa.png?w=360&h=270
 SW: VIASAT FOOTBALL HD  ->  -
 SW: VIASAT MOTOR HD  ->  -
 UK: ABP NEWS HD  ->  -
 UK: AL JAZEERA NEWS FHD  ->  -
 UK: BBC NEWS HD  ->  https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2085.png
-UK: BBC PARLIAMENT  ->  https://iptv-epg.org/images/GpY1b0PdgtUzCOh9e1mub84UUs5XmQMT5Rr4bzd2LFjy7UfUgAVlb5RJ4bWZEKGJmhU73s1zZu-mmz7wQ5veaJvpjAxysjNfhR7YP4TL5bkwGA
+UK: BBC PARLIAMENT  ->  https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3020.png
 UK: BBC WORLD  ->  -
 UK: BOXNATION HD  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/box-nation-uk.png
 UK: CNBC EUROPE  ->  -
 UK: CNBC NEWS  ->  -
 UK: CNN INTERNATIONAL  ->  https://images.open-epg.com/21501.png
-UK: DAZN 1 FHD  ->  https://iptv-epg.org/images/ARwHT63N7JKGqjV_CakNZUfH_HVuujxdkYuaPnjwIScO8WO-Jmi3rHNgAEfp8Tn-Z7ArQhCETuGKiUWqKM67WYNY7zaOzntSWNE
-UK: DAZN 1 HD  ->  https://iptv-epg.org/images/ARwHT63N7JKGqjV_CakNZUfH_HVuujxdkYuaPnjwIScO8WO-Jmi3rHNgAEfp8Tn-Z7ArQhCETuGKiUWqKM67WYNY7zaOzntSWNE
-UK: DAZN 1 SD  ->  https://iptv-epg.org/images/ARwHT63N7JKGqjV_CakNZUfH_HVuujxdkYuaPnjwIScO8WO-Jmi3rHNgAEfp8Tn-Z7ArQhCETuGKiUWqKM67WYNY7zaOzntSWNE
+UK: DAZN 1 FHD  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dazn1-uk.png
+UK: DAZN 1 HD  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dazn1-uk.png
+UK: DAZN 1 SD  ->  https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dazn1-uk.png
 UK: DW (ENGLISH)  ->  -
-UK: EURONEWS  ->  https://iptv-epg.org/images/wTSSqS_3t8XY3m5aGWMEAo2_MfFJs3gYtDwcpCovYDlh7WvOhPwGg1ZgouryD7xrYGv0tuceIl1mmC9j3XEW4zyNq6snl2EgVaUcr24
+UK: EURONEWS  ->  https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4604.png
 UK: FOX NEWS HD  ->  -
-UK: GEO NEWS  ->  https://iptv-epg.org/images/BZrvtQd_bcF48n3quK6GDXeu3hMEMVydAyAqxILwlfClF1H7Dz_E8RBimrhj55azmHYpBScg0Rt-s0y_n4v8vhcj3GZ7pUHZ-cB4vQ
+UK: GEO NEWS  ->  https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4407.png
 UK: HORSE COUNTRY  ->  -
-UK: LFC TV  ->  https://iptv-epg.org/images/Tzr0d8gQsniQUHaOvNLXmIhlff16z-Bne0Z8hAZ3s0Z1Au__ouc7eki-K1HdUBmTsNgyT65QzEySONBoFzoBfpGSZ_mIGI7edLc
+UK: LFC TV  ->  https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3845.png
 UK: LONDON HD  ->  https://images.open-epg.com/16130.png
 UK: LONDON SD  ->  https://images.open-epg.com/16130.png
-UK: MUTV HD  ->  https://iptv-epg.org/images/oaUkp_lpcbO3xXeAKZC7nOafR_gmjYWPggIB9A5GgR6wPV64WIbteM5gwTYwG4NsPeOkos3Euf2XUFRYCrP3vjIBSBAEovox_A
-UK: PREMIER SPORTS 1  ->  https://iptv-epg.org/images/VsBJNCKh5njVA8yqCbsv1IDJej21LpEn5TTYZ5J1elya23QSzdayx8Th5FWJ-oiTElDt4wVKJtxie_nlBZPwiZbgGyPpA-d1CQzsh37CJqYANHE
-UK: PREMIER SPORTS 2  ->  https://iptv-epg.org/images/VP5ON_jJRTGtCV5z6Zw1OYqJQO7nCYxDKwrVP1YmKzaP4e9-6giVJw2rFFzpBhmUZ9A1lPgKgm2TZOODElatlWmzTK8zbsw7_YL7WCSP0v7ZXHk
-UK: RACING  ->  https://iptv-epg.org/images/Go2-c-8eQhTp9hBTHfZ27SFzjAlbxfF8E2IeyIlt-sFs1Xm_X3KmGQcLnhLTN3K_r8s6novKTRDeEbzMN0xgelL0dhngiiDkQoukNgk
+UK: MUTV HD  ->  https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1003.png
+UK: PREMIER SPORTS 1  ->  https://cdn.tv-guide.future.sensi.link/images/channel/02fe4bd6-cea9-5696-8025-d81cdb571639/logo.png
+UK: PREMIER SPORTS 2  ->  https://cdn.tv-guide.future.sensi.link/images/channel/3ea27dc2-561b-5932-8aad-cc26b53ae3f8/logo.png
+UK: RACING  ->  https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5272.png
 UK: RED BULL TV FHD  ->  -
-UK: SKY NEWS HD  ->  https://iptv-epg.org/images/HU9Wti5ZJvT_msdKIavys49E-5bumI3tV0tLsvbpkF1YetZxfyzis_XAfcq_t9wbvk_cYW_V_np6Uu_lpaFL_Ie9_dVm425lKtO38A
-UK: SKY SPORTS ACTION FHD  ->  https://iptv-epg.org/images/43UahSCug9pEsD74189WwTL5kPd2utPLz7oDCfUOmzz1BhG8Nt3XQkBluiP3lQ-QxMnER7xri56S4khYVX86r8jMR8R7sryucSFKtc-HcPTXLaEu
-UK: SKY SPORTS ACTION HD  ->  https://iptv-epg.org/images/43UahSCug9pEsD74189WwTL5kPd2utPLz7oDCfUOmzz1BhG8Nt3XQkBluiP3lQ-QxMnER7xri56S4khYVX86r8jMR8R7sryucSFKtc-HcPTXLaEu
-UK: SKY SPORTS CRICKET FHD  ->  https://iptv-epg.org/images/q4lLrXqJ__YVhmeO05mg_dJWL63XKSznkIeYkfqIqldO9Op1k_fd-4pQPFOexo_W1OCfyJPy9zm890_00ZIm2ES-m01pJ0sKbhiGl1xECAi55dPnNA
-UK: SKY SPORTS CRICKET HD  ->  https://iptv-epg.org/images/q4lLrXqJ__YVhmeO05mg_dJWL63XKSznkIeYkfqIqldO9Op1k_fd-4pQPFOexo_W1OCfyJPy9zm890_00ZIm2ES-m01pJ0sKbhiGl1xECAi55dPnNA
-UK: SKY SPORTS F1 FHD  ->  https://iptv-epg.org/images/Wed9hMWi9axDovd6mS7JV1DhxlXnVEKFMxdcgxfmcxa5dcBK_GAr96vP7uugHXT_P-vrUprY2vnlACIncGuV5uZuoCih0k60qo3FB25Becythl4
-UK: SKY SPORTS F1 HD  ->  https://iptv-epg.org/images/Wed9hMWi9axDovd6mS7JV1DhxlXnVEKFMxdcgxfmcxa5dcBK_GAr96vP7uugHXT_P-vrUprY2vnlACIncGuV5uZuoCih0k60qo3FB25Becythl4
-UK: SKY SPORTS FOOTBALL FHD  ->  https://iptv-epg.org/images/L6C7nHGqAK8KAB9H9fp4BWGIw5uZi3nRFoYTZyUC8FNJFJWluYsB_8KU661PcBAV9a4vLS23W07HhMzpAvZ-SvcJtFeabPsWwlU3vHuqbj9zhnWqHO4
-UK: SKY SPORTS FOOTBALL HD  ->  https://iptv-epg.org/images/L6C7nHGqAK8KAB9H9fp4BWGIw5uZi3nRFoYTZyUC8FNJFJWluYsB_8KU661PcBAV9a4vLS23W07HhMzpAvZ-SvcJtFeabPsWwlU3vHuqbj9zhnWqHO4
-UK: SKY SPORTS GOLF FHD  ->  https://iptv-epg.org/images/ESYgFyoOpL1RqsF8aaVBO0eS2AFD3dQ_VGyVdYG_SVL3zh84E9n7t3RpfRTaWludpAavzOyg-aFd0xYuZoe3cMeiFKVhUHa7VtLJrd60uMuKUg
-UK: SKY SPORTS GOLF HD  ->  https://iptv-epg.org/images/ESYgFyoOpL1RqsF8aaVBO0eS2AFD3dQ_VGyVdYG_SVL3zh84E9n7t3RpfRTaWludpAavzOyg-aFd0xYuZoe3cMeiFKVhUHa7VtLJrd60uMuKUg
-UK: SKY SPORTS MAIN EVENT HD  ->  https://iptv-epg.org/images/Hf0H5dWo7X1f7BbYO1jLH9CEFq_wMUkkZYk4vOflFdLRuc3aGTdVl6Uc8n_DgXzI-C6VrMR1sZkQSOw5VlGVr1yw_BCN8jGDg6h0hIgPrPaWwQUdVrsH
-UK: SKY SPORTS MAIN EVENTS FHD  ->  https://iptv-epg.org/images/Hf0H5dWo7X1f7BbYO1jLH9CEFq_wMUkkZYk4vOflFdLRuc3aGTdVl6Uc8n_DgXzI-C6VrMR1sZkQSOw5VlGVr1yw_BCN8jGDg6h0hIgPrPaWwQUdVrsH
-UK: SKY SPORTS MIX FHD  ->  https://iptv-epg.org/images/4gM3ZXCHGY4zLspkSu2_4xfhSb2Tn_7QEzZkGbYzaPTB8N7Z8SNdIjKytM2PAsYZgjEMuKBrcCD9fheJ3ImsT4_0Vz_taY9f2P0G4PK5Uvtj
-UK: SKY SPORTS MIX HD  ->  https://iptv-epg.org/images/4gM3ZXCHGY4zLspkSu2_4xfhSb2Tn_7QEzZkGbYzaPTB8N7Z8SNdIjKytM2PAsYZgjEMuKBrcCD9fheJ3ImsT4_0Vz_taY9f2P0G4PK5Uvtj
-UK: SKY SPORTS NEWS  ->  https://iptv-epg.org/images/ODSL5neFEViD3ghN0MyoNSasqU23y2fw4QyhOAdHMkDJebsJtG1D2Yn81-zqUKWpPktcKN3oVhDa4L27YGL9FZ56HYyP7ZF8nk0_-A74ke7x1A
-UK: SKY SPORTS NEWS HD  ->  https://iptv-epg.org/images/ODSL5neFEViD3ghN0MyoNSasqU23y2fw4QyhOAdHMkDJebsJtG1D2Yn81-zqUKWpPktcKN3oVhDa4L27YGL9FZ56HYyP7ZF8nk0_-A74ke7x1A
-UK: SKY SPORTS PREMIER LEAGUE FHD  ->  https://iptv-epg.org/images/kxUn1YwBGtL5T0NLVwUqBGDzG2Pahk-Lc0JfLj295zLJ4ObO_Qe06m4zONo_hSzlDuxQc8Q1X-CP-XxOD5lFpwX58KaaF9CSmP158HzcMxiA_RRHc2_RZylKzA
-UK: SKY SPORTS PREMIER LEAGUE HD  ->  https://iptv-epg.org/images/kxUn1YwBGtL5T0NLVwUqBGDzG2Pahk-Lc0JfLj295zLJ4ObO_Qe06m4zONo_hSzlDuxQc8Q1X-CP-XxOD5lFpwX58KaaF9CSmP158HzcMxiA_RRHc2_RZylKzA
-UK: SKY SPORTS+ FHD  ->  https://iptv-epg.org/images/dU1edteGV3z2gDGB0_hJt40eYx9rxC6K9LykpUmilRmnoWCyCXpwxt5XJ9ADZQnUcJnx0mvjYATdlfTX7ZRGqWLj_3k92MIg7OIDo3l7Iv27wA
-UK: TNT SPORTS 1  ->  https://iptv-epg.org/images/tRHr_n7XIhPzgLC9M8ygnC8WL9gLuYrLPmAFUgkw0OgM-hXFUxOY9zuHzKp0kerkuppmW3FtuzKyXKZSkRLSAWq0zWi_kS6SvGdqh7vX2Q
-UK: TNT SPORTS 1 FHD  ->  https://iptv-epg.org/images/tRHr_n7XIhPzgLC9M8ygnC8WL9gLuYrLPmAFUgkw0OgM-hXFUxOY9zuHzKp0kerkuppmW3FtuzKyXKZSkRLSAWq0zWi_kS6SvGdqh7vX2Q
-UK: TNT SPORTS 1 HD  ->  https://iptv-epg.org/images/tRHr_n7XIhPzgLC9M8ygnC8WL9gLuYrLPmAFUgkw0OgM-hXFUxOY9zuHzKp0kerkuppmW3FtuzKyXKZSkRLSAWq0zWi_kS6SvGdqh7vX2Q
-UK: TNT SPORTS 2  ->  https://iptv-epg.org/images/iew6iuDruOY_F2HT58EGk6enuiMCpQyopDcMlywY_PPMthOMQCKjRKHD2mMqc3_Wq25eB2ZvZU2f_Vz5s9iivk7kunZrEho4pcFRfZxoCg
-UK: TNT SPORTS 2 FHD  ->  https://iptv-epg.org/images/iew6iuDruOY_F2HT58EGk6enuiMCpQyopDcMlywY_PPMthOMQCKjRKHD2mMqc3_Wq25eB2ZvZU2f_Vz5s9iivk7kunZrEho4pcFRfZxoCg
-UK: TNT SPORTS 2 HD  ->  https://iptv-epg.org/images/iew6iuDruOY_F2HT58EGk6enuiMCpQyopDcMlywY_PPMthOMQCKjRKHD2mMqc3_Wq25eB2ZvZU2f_Vz5s9iivk7kunZrEho4pcFRfZxoCg
-UK: TNT SPORTS 3  ->  https://iptv-epg.org/images/A2Cx4CK96WX-qJgRdIBi3T4rgyUQgxOFbIiu3eZmzAW4_YGw6eb5AzEmfnpDKVF1fw_03HtgNkp66xeNL-aywx977HYus6HBzlTLmGZvWg
-UK: TNT SPORTS 3 HD  ->  https://iptv-epg.org/images/A2Cx4CK96WX-qJgRdIBi3T4rgyUQgxOFbIiu3eZmzAW4_YGw6eb5AzEmfnpDKVF1fw_03HtgNkp66xeNL-aywx977HYus6HBzlTLmGZvWg
-UK: TNT SPORTS 4 FHD  ->  https://iptv-epg.org/images/E9yudoEOmlJR6yFjyBT1tJBiWG1uj4S1Go-XofUJWkuZf1KfwlvxK6ie0TdvuAGomngT0ceLFbZp2idXuFsazoefXwTLah5kkrUq8l2ILQ
-UK: TNT SPORTS 5 HD  ->  https://iptv-epg.org/images/01yJs7z8O4Vn7epv05byNariPCtWHgy3iUdHyrCOwSTP9R3wB4QScoV9GfeBbXJ8LPSOHi1uCLmf1OpN41R-uS1ektf1khT7pJLFsNI0bQ
-UK: TNT SPORTS 6 HD  ->  https://iptv-epg.org/images/W_fxQJbrn5MXKkqY7ecFSkvy625lzY-iz2rRdqApu36cv1j0CcpgUDQEXeYvVWCkNDdOMPyWzOD9F4F1agOUUJ3A2nZaLZ2T8mBBM9KyoA
-UK: TNT SPORTS 7 HD  ->  https://iptv-epg.org/images/wIA98bnc3be4S6hR6xLn33BVozyKhwBZ0n8D4JiS81NOZfFeQA1AHEKuF42rtldmp41kALRzw_GNtlm5A8WtYbSs6iw-U9ni-D2THr-S3w
-UK: TNT SPORTS 8 HD  ->  https://iptv-epg.org/images/qAyTwQUfOqZUeuD6J-arAmM2yMqPobydb6-oYkOMF_qRXMFIUDCM5ox_DvqPeBTNJ6B1gJXTASMVTGz7yDcwwqIpOZdehDfDA_XGRd2dow
+UK: SKY NEWS HD  ->  https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4050.png
+UK: SKY SPORTS ACTION FHD  ->  https://images.open-epg.com/x476.png
+UK: SKY SPORTS ACTION HD  ->  https://images.open-epg.com/x476.png
+UK: SKY SPORTS CRICKET FHD  ->  https://images.open-epg.com/x470.png
+UK: SKY SPORTS CRICKET HD  ->  https://images.open-epg.com/x470.png
+UK: SKY SPORTS F1 FHD  ->  https://images.open-epg.com/x479.png
+UK: SKY SPORTS F1 HD  ->  https://images.open-epg.com/x479.png
+UK: SKY SPORTS FOOTBALL FHD  ->  https://tv.assets.pressassociation.io/b21622a1-994e-50db-958d-d3a82d3b7e13.png
+UK: SKY SPORTS FOOTBALL HD  ->  https://tv.assets.pressassociation.io/b21622a1-994e-50db-958d-d3a82d3b7e13.png
+UK: SKY SPORTS GOLF FHD  ->  https://images.open-epg.com/x472.png
+UK: SKY SPORTS GOLF HD  ->  https://images.open-epg.com/x472.png
+UK: SKY SPORTS MAIN EVENT HD  ->  https://images.open-epg.com/x468.png
+UK: SKY SPORTS MAIN EVENTS FHD  ->  https://images.open-epg.com/x468.png
+UK: SKY SPORTS MIX FHD  ->  https://images.open-epg.com/x477.png
+UK: SKY SPORTS MIX HD  ->  https://images.open-epg.com/x477.png
+UK: SKY SPORTS NEWS  ->  https://images.open-epg.com/x482.png
+UK: SKY SPORTS NEWS HD  ->  https://images.open-epg.com/x482.png
+UK: SKY SPORTS PREMIER LEAGUE FHD  ->  https://images.open-epg.com/x467.png
+UK: SKY SPORTS PREMIER LEAGUE HD  ->  https://images.open-epg.com/x467.png
+UK: SKY SPORTS+ FHD  ->  https://images.open-epg.com/x473.png
+UK: TNT SPORTS 1  ->  https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png
+UK: TNT SPORTS 1 FHD  ->  https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png
+UK: TNT SPORTS 1 HD  ->  https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png
+UK: TNT SPORTS 2  ->  https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png
+UK: TNT SPORTS 2 FHD  ->  https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png
+UK: TNT SPORTS 2 HD  ->  https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png
+UK: TNT SPORTS 3  ->  https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png
+UK: TNT SPORTS 3 HD  ->  https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png
+UK: TNT SPORTS 4 FHD  ->  https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png
+UK: TNT SPORTS 5 HD  ->  https://tv.assets.pressassociation.io/dbf92dca-857c-5522-bbc6-2bda4e23ff31.png
+UK: TNT SPORTS 6 HD  ->  https://tv.assets.pressassociation.io/82f1ab41-1eb6-5cd6-a8a1-e7a7c694555d.png
+UK: TNT SPORTS 7 HD  ->  https://tv.assets.pressassociation.io/f0a3e89f-2f7e-5176-a574-33dc6ec6efaf.png
+UK: TNT SPORTS 8 HD  ->  https://tv.assets.pressassociation.io/e3cb5ec6-42ce-5031-bc76-83e46cbe3652.png
