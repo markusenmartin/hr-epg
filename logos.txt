@@ -231,7 +231,7 @@ HR: ARENA SPORT 9 HD  ->  https://iptv-epg.org/images/4pMUFDi7r3pZ-UO12j6SYT0PQj
 HR: AURORA TV HD  ->  https://iptv-epg.org/images/d6Qd5Oevxp5DKNXFmMoAS1XEJyf_9MuH7YmGjF6qWNVNORUCz3qrFC-oXhdxASryTOEphDECMWbuk0HJYokvb9UmYpnxwldSk52z47lnjzoSiw
 HR: AXN ADRIA  ->  https://ssc.a1.hr/ITV/pictures/logos/AXN.png
 HR: AXN SPIN  ->  https://ssc.a1.hr/ITV/pictures/logos/AXN%20Spin.png
-HR: BABY TV  ->  https://ssc.a1.hr/ITV/pictures/logos/Baby%20TV.png
+HR: BABY TV  ->  https://iptv-epg.org/images/P38gXKR47-ke2T4Eky0bI9GQGATF5cDPGEXd2X2kjIfpN8-hPwNKqkwJL_U2ZLOPQZOp43kmFeqW485VI8pLXkIav0Nt5GCONVPPNWElLb0
 HR: BBC EARTH HD  ->  https://iptv-epg.org/images/DZuNWqP6ahD6m9gKzPhBHGgDF15-KHiIXl3bJU_PGzCkllPCng3OfhSl3H2b67pw5ERjatTLhfomL-Hz7h_ZhRtAaP5NXz7Rhym74SrV8nmCuA
 HR: CINEMA FHD  ->  https://images.open-epg.com/17870.png
 HR: CINEMAX  ->  https://iptv-epg.org/images/G8JOqYUQ9it_P850QALD_ylURFzf5G6vUBmdsBjtJ_VcQcdMHsWfpUnUkoGmscF7plDnYClOTCfjM6c7nCaAAr3Sbs4OS526WfP_LT0PojNY
